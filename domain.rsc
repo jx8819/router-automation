@@ -2797,7 +2797,6 @@
 /ip dns static add regexp="^(.*\\.)?hclips\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hd.stheadline\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hdlt\\.me\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?hdsky\\.me\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hdtvb\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hdzog\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?heartyit\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
