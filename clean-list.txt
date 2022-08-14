@@ -761,6 +761,7 @@ blog.syx86.com
 blog.taragana.com
 blog.tiney.com
 blog.workflow.is
+blog.xjn819.com
 blog.xuite.net
 blog.youthwant.com.tw
 blog.youxu.info
@@ -1331,6 +1332,7 @@ community.windy.com
 communitychoicecu.com
 comparitech.com
 compileheart.com
+compose-spec.io
 compress.to
 connect.facebook.net
 conoha.jp
@@ -1594,6 +1596,9 @@ dnset.com
 dnsrd.com
 dnssec.net
 dnvod.tv
+docker.com
+docker.io
+dockerhub.com
 docs.cfw.lbyczf.com
 docs.com
 doctorvoice.org
@@ -4216,6 +4221,7 @@ nationalinterest.org
 nationalreview.com
 nationsonline.org
 nationwide.com
+natwest.com
 naughtyamerica.com
 navyfamily.navy.mil
 navyreserve.navy.mil
@@ -4841,6 +4847,7 @@ provideocoalition.com
 provpnaccounts.com
 proxfree.com
 proxifier.com
+proxmox.com
 proxomitron.info
 proxpn.com
 proxy.org
@@ -5968,6 +5975,7 @@ truthsocial.com
 truveo.com
 tryfunctions.com
 tryheart.jp
+tsb.co.uk
 tsctv.net
 tsdr.uspto.gov
 tsemtulku.com

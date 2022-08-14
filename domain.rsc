@@ -762,6 +762,7 @@
 /ip dns static add regexp="^(.*\\.)?blog.taragana\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.tiney\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.workflow\\.is\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?blog.xjn819\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.xuite\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.youthwant.com\\.tw\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?blog.youxu\\.info\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -1332,6 +1333,7 @@
 /ip dns static add regexp="^(.*\\.)?communitychoicecu\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?comparitech\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?compileheart\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?compose-spec\\.io\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?compress\\.to\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?connect.facebook\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?conoha\\.jp\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -1595,6 +1597,9 @@
 /ip dns static add regexp="^(.*\\.)?dnsrd\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?dnssec\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?dnvod\\.tv\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?docker\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?docker\\.io\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?dockerhub\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?docs.cfw.lbyczf\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?docs\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?doctorvoice\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -4217,6 +4222,7 @@
 /ip dns static add regexp="^(.*\\.)?nationalreview\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nationsonline\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?nationwide\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?natwest\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?naughtyamerica\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?navyfamily.navy\\.mil\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?navyreserve.navy\\.mil\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -4842,6 +4848,7 @@
 /ip dns static add regexp="^(.*\\.)?provpnaccounts\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?proxfree\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?proxifier\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?proxmox\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?proxomitron\\.info\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?proxpn\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?proxy\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -5969,6 +5976,7 @@
 /ip dns static add regexp="^(.*\\.)?truveo\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tryfunctions\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tryheart\\.jp\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?tsb.co\\.uk\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tsctv\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tsdr.uspto\\.gov\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tsemtulku\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
