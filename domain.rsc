@@ -5990,6 +5990,7 @@
 /ip dns static add regexp="^(.*\\.)?tradingview\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?traffichaus\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?trafficmanager\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?trakt\\.tv\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?trans.wenweipo\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?translate\\.goog\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?translate\\.google\$" type=FWD forward-to=10.10.10.1 comment=gfw

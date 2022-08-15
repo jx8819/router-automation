@@ -5990,6 +5990,7 @@ payload:
   - '+.tradingview.com'
   - '+.traffichaus.com'
   - '+.trafficmanager.net'
+  - '+.trakt.tv'
   - '+.trans.wenweipo.com'
   - '+.translate.goog'
   - '+.translate.google'
