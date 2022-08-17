@@ -3708,6 +3708,7 @@ payload:
   - '+.mangafox.me'
   - '+.maniash.com'
   - '+.manicur4ik.ru'
+  - '+.manjaro.org'
   - '+.mansion.com'
   - '+.mansionpoker.com'
   - '+.manta.com'
