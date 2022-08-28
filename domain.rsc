@@ -142,8 +142,6 @@
 /ip dns static add regexp="^(.*\\.)?9cache\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?9gag\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?9news.com\\.au\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?Applicationinsights\\.io\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?Applicationinsights\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?a-msedge\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?a-normal-day\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?a1158.g.akamai\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -378,8 +376,8 @@
 /ip dns static add regexp="^(.*\\.)?appledaily\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?appledaily.com\\.hk\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?appledaily.com\\.tw\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?applicationinsights\\.io\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?applicationinsights\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?Applicationinsights\\.io\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?Applicationinsights\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?apps.evozi\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?appshopper\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?appsocks\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
