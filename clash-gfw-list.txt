@@ -5225,6 +5225,7 @@ payload:
   - '+.sendspace.com'
   - '+.sensortower.com'
   - '+.seraph.me'
+  - '+.servarr.com'
   - '+.servehttp.com'
   - '+.serverlesslibrary.net'
   - '+.serveuser.com'
