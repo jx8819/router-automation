@@ -1385,6 +1385,7 @@ crossborderexpansion.com
 crossfire.co.kr
 crossthewall.net
 crossvpn.net
+croxyproxy.com
 crrev.com
 crucial.com
 crunchyroll.com
@@ -3565,6 +3566,7 @@ liberal.org.hk
 libertytimes.com.tw
 library.usc.cuhk.edu.hk
 libraryinformationtechnology.com
+libredd.it
 lidecheng.com
 lifemiles.com
 lighten.org.tw
@@ -4679,6 +4681,7 @@ pcanywhere.net
 pcc.gov.tw
 pcdvd.com.tw
 pchome.com.tw
+pchomeec.tw
 pcij.org
 pcstore.com.tw
 pct.org.tw
@@ -6262,6 +6265,7 @@ unpo.org
 unseen.is
 unstable.icu
 untraceable.us
+unwire.hk
 uocn.org
 upcoming.yahoo.com
 updates.tdesktop.com
