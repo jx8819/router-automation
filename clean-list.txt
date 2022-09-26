@@ -1940,6 +1940,7 @@ faluninfo.de
 faluninfo.net
 falunpilipinas.net
 falunworld.net
+families.google
 familyfed.org
 famunion.com
 fan-qiang.com
@@ -3331,6 +3332,7 @@ jfqu37.xyz
 jgoodies.com
 jiangweiping.com
 jiaoyou8.com
+jichangtj.com
 jiehua.cz
 jiepang.com
 jieshibaobao.com
@@ -4474,6 +4476,7 @@ o365weve-ppe.com
 o365weve.com
 o3o.ca
 oanda.com
+oann.com
 oaspapps.com
 oaspapps.com.akadns.net
 oauth.net
@@ -4709,6 +4712,7 @@ peoplebookcafe.com
 peoplenews.tw
 peopo.org
 percy.in
+perfect-privacy.com
 perfectgirls.net
 perfectvpn.net
 periscope.tv
@@ -6360,6 +6364,7 @@ venchina.com
 venetianmacao.com
 ventureswell.com
 veoh.com
+vercel.app
 vermonttibet.org
 versavpn.com
 verybs.com
