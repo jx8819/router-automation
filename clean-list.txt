@@ -128,6 +128,7 @@
 8964museum.com
 8news.com.tw
 8z1.net
+9.rarbg.me
 9001700.com
 908taiwan.org
 91porn.com
@@ -6001,6 +6002,9 @@ toytractorshow.com
 tparents.org
 tpi.org.tw
 tracfone.com
+tracker.fatkhoala.org
+tracker.thinelephant.org
+tracker.trackerfix.com
 tradingview.com
 traffichaus.com
 trafficmanager.net
@@ -6008,6 +6012,7 @@ trakt.tv
 trans.wenweipo.com
 translate.goog
 translate.google
+translate.googleapis.com
 translatetheweb.com
 transparency.org
 travelinkcard.com
