@@ -54,6 +54,9 @@
 21join.com
 21pron.com
 21sextury.com
+21vbc.com
+21vbluecloud.com
+21vbluecloud.net
 228.net.tw
 233abc.com
 233v2.com
@@ -150,6 +153,7 @@ a248.e.akamai.net
 a5.com.ru
 a767.dscg3.akamai.net
 a771.dscq.akamai.net
+aadrm.cn
 aadrm.com
 aamacau.com
 abc.com
@@ -209,6 +213,7 @@ af.mil
 afantibbs.com
 afr.com
 afreecatv.com
+aggresmart.com
 agnesb.fr
 agoogleaday.com
 agro.hk
@@ -353,6 +358,7 @@ api.tenor.com
 apiary.io
 apidocs.linksalpha.com
 apigee.com
+apihub-internal.cn
 apisof.net
 apk-dl.com
 apk.support
@@ -376,9 +382,10 @@ appdownloader.net
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
-Applicationinsights.io
-Applicationinsights.net
+applicationinsights.io
+applicationinsights.net
 apps.evozi.com
+appserviceenvironment.cn
 appshopper.com
 appsocks.net
 appspot-preview.com
@@ -473,11 +480,26 @@ avoision.com
 avyahoo.com
 axios.com
 axureformac.com
+azcrmc-test.cn
+azcrmc.cn
 azerbaycan.tv
 azerimix.com
+azk8s.cn
+aznbcontent.cn
+aztask.cn
 azubu.tv
 azure
+azure-api.cn
+azure-apihub.cn
 azure-apim.net
+azure-automation.cn
+azure-connectedvehicles-stage.cn
+azure-connectedvehicles.cn
+azure-devices-int.net
+azure-devices-provisioning.cn
+azure-devices.cn
+azure-devices.net
+azure-dns.cn
 azure-dns.com
 azure-dns.info
 azure-dns.net
@@ -495,6 +517,8 @@ azurecosmos.net
 azurecosmosdb.com
 azurecosmosdb.info
 azurecosmosdb.net
+azurecr-test.cn
+azurecr.cn
 azuredatabricks.net
 azuredevopslaunch.com
 azuredigitaltwin.com
@@ -506,13 +530,19 @@ azureedge-test.net
 azureedge.net
 azurefd.net
 azurefd.us
+azurehdinsight.cn
 azureiotcentral.com
 azureiotsolutions.com
+azureiotsuite.cn
 azureiotsuite.com
 azuremarketplace.microsoft.com
+azuremresolver.cn
 azureplanetscale.info
 azureplanetscale.net
+azureprivatedns.cn
+azurerms.cn
 azurerms.com
+azuresandbox.cn
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
@@ -520,6 +550,8 @@ azurewebsites.net
 b-ok.cc
 b.akamaiedge.net
 b0ne.com
+b2clogin.cn
+b3itech.cn
 baby-kingdom.com
 babylonbee.com
 babynet.com.hk
@@ -852,7 +884,9 @@ bloomberg.de
 bloombergview.com
 bloomfortune.com
 blubrry.com
+blueaggrestore.com
 blueangellive.com
+bluecloudprod.com
 bluehatil.com
 bluehatnights.com
 bmfinn.com
@@ -1073,6 +1107,7 @@ cdpweb.org
 cdpwu.org
 cdw.com
 cecc.gov
+cegid-cloud.cn
 celestiallight.org
 cellulo.info
 cenews.eu
@@ -1134,6 +1169,7 @@ chinaaid.us
 chinachange.org
 chinachannel.hk
 chinacitynews.be
+chinacloud-mobile.cn
 chinacloudapi.cn
 chinacloudapp.cn
 chinacloudsites.cn
@@ -1703,6 +1739,7 @@ dynamicdns.biz
 dynamicdns.co.uk
 dynamicdns.me.uk
 dynamicdns.org.uk
+dynamics.cn
 dynamics.com
 dynawebinc.com
 dyndns-ip.com
@@ -2801,6 +2838,7 @@ hbo.com
 hcaptcha.com
 hclips.com
 hd.stheadline.com
+hdinsightservices.cn
 hdlt.me
 hdtvb.net
 hdzog.com
@@ -3675,6 +3713,7 @@ luxebc.com
 lvhai.org
 lvv2.com
 lyfhk.net
+lync.cn
 lync.com
 lzjscript.com
 lzmtnews.org
@@ -3708,6 +3747,10 @@ makzhou.warehouse333.com
 malaysiakini.com
 mamingzhe.com
 managedmeetingrooms.com
+management-azure-devices-int.net
+management-azure-devices-provisioning.cn
+management-azure-devices.cn
+management-azure-devices.net
 manchukuo.net
 mandiant.com
 mangafox.com
@@ -3756,6 +3799,7 @@ maxing.jp
 mayimayi.com
 mcadforums.com
 mcaf.ee
+mcchcdn.com
 mcfog.com
 mcreasite.com
 md-t.org
@@ -3824,6 +3868,7 @@ mewe.com
 meyou.jp
 meyul.com
 mfxmedia.com
+mgmt-azure-api.cn
 mgoon.com
 mgstage.com
 mh4u.org
@@ -3890,6 +3935,7 @@ microsoftaffiliates.com
 microsoftapp.net
 microsoftapps.azurewebsites.net
 microsoftazuread-sso.com
+microsoftazurestatus.cn
 microsoftcloud.com
 microsoftcloudsummit.com
 microsoftcloudworkshop.com
@@ -3909,6 +3955,7 @@ microsoftiotinsiderlabs.com
 microsoftlatamaitour.com
 microsoftlatamholiday.com
 microsoftlinc.com
+microsoftmetrics.cn
 microsoftmxfilantropia.com
 microsoftnews.cc
 microsoftnews.cn
@@ -3923,8 +3970,16 @@ microsoftnewskids.net
 microsoftnewskids.org
 microsoftol.com
 microsoftol.com.cn
+microsoftonline-i.cn
+microsoftonline-m-i.cn
+microsoftonline-m.cn
+microsoftonline-p-i.cn
+microsoftonline-p-i.net.cn
+microsoftonline-p.cn
 microsoftonline-p.com
 microsoftonline-p.net
+microsoftonline-p.net.cn
+microsoftonline.cn
 microsoftonline.com
 microsoftpartnercommunity.com
 microsoftpartnersolutions.com
@@ -3945,6 +4000,7 @@ microsoftstore.com.hk
 microsoftstream.com
 microsoftteams.com
 microsofttradein.com
+microsofttranslator-int.cn
 microsofttranslator.com
 microsoftusercontent.com
 microsoftuwp.com
@@ -4014,6 +4070,7 @@ mmaaxx.com
 mmais.com.cn
 mmdnn.com
 mmmca.com
+mncmsidlab1.cn
 mnewstv.com
 mo.nightlife141.com
 mobatek.net
@@ -4085,11 +4142,14 @@ ms365surfaceoffer.com
 msa-it.org
 msa.akadns6.net
 msads.net
+msappproxy.cn
 msappproxy.net
 msauth.cn
 msauth.net
+msauthimages.cn
 msauthimages.net
 mschallenge2018.com
+mschcdn.com
 msdn.com
 msecnd.net
 msedge.net
@@ -4097,8 +4157,10 @@ msft.info
 msft.net
 msftauth.cn
 msftauth.net
+msftauthimages.cn
 msftauthimages.net
 msftcenterone.cn
+msftcloudes.cn
 msftconnecttest.com
 msfteducation.ca
 msftidentity.com
@@ -4107,7 +4169,9 @@ msgamesresearch.com
 msgamestudios.com
 msguancha.com
 msha.gov
+msidentity.cn
 msidentity.com
+msidlabpbmc.cn
 msignitechina.com
 msinnovationchallenge.com
 msminico.cn
@@ -4117,6 +4181,7 @@ msn.com
 msn.com.cn
 msn.com.nsatc.net
 msn.com.tw
+msn.net
 msnewskids.com
 msnewskids.net
 msnewskids.org
@@ -4498,6 +4563,8 @@ offbeatchina.com
 office
 office.com
 office.net
+office365-net.cn
+office365.cn
 office365.com
 office365love.com
 office365tw.com
@@ -4505,6 +4572,7 @@ officecdn-microsoft-com.akamaized.net
 officedev.cn
 officeoftibet.com
 officeplus.cn
+officewebapps.cn
 ofile.org
 ogaoga.org
 ogate.org
@@ -4558,6 +4626,7 @@ onlytweets.com
 onmicrosoft.com
 onmoon.com
 onmoon.net
+onmschina.cn
 onmypc.biz
 onmypc.info
 onmypc.net
@@ -4677,6 +4746,7 @@ pastie.org
 patreon.com
 patreonusercontent.com
 paxful.com
+pbiwebcontent.cn
 pbs.org
 pbwiki.com
 pbworks.com
@@ -4848,8 +4918,12 @@ potato.im
 potvpn.com
 power.com
 powerapple.com
+powerapps.cn
 powerappscdn.net
+powerappsportals.cn
+powerautomate.cn
 powerautomate.com
+powerbi.cn
 powerbi.com
 powercx.com
 powerphoto.org
@@ -6007,6 +6081,7 @@ tracker.thinelephant.org
 tracker.trackerfix.com
 tradingview.com
 traffichaus.com
+trafficmanager.cn
 trafficmanager.net
 trakt.tv
 trans.wenweipo.com
@@ -6030,6 +6105,7 @@ truebuddha-md.org
 truenas.com
 truesocial.media
 trulyergonomic.com
+trustcenter.cn
 truth101.co.tv
 truthontour.org
 truthsocial.com
@@ -6267,6 +6343,7 @@ unification.net
 unification.org.tw
 unirule.cloud
 unitedsocialpress.com
+unity3dcloud.cn
 unix100.com
 unknownspace.org
 unlocklimitlesslearning.com
@@ -6677,6 +6754,7 @@ windows.nl
 windows8.hk
 windowsazure.cn
 windowsazure.com
+windowsazurestatus.cn
 windowscommunity.net
 windowslive.cn
 windowsmarketplace.com
