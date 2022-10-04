@@ -442,6 +442,7 @@
 /ip dns static add regexp="^(.*\\.)?assets.bwbx\\.io\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?assimp\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?astrill\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?asus\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?atc.org\\.au\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?atchinese\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?atdmt\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
