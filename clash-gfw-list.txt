@@ -5998,6 +5998,7 @@ payload:
   - '+.tiktok.com'
   - '+.tiktokcdn-us.com'
   - '+.tiktokcdn.com'
+  - '+.tiktokv.com'
   - '+.tiltbrush.com'
   - '+.timdir.com'
   - '+.time.com'
