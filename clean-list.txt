@@ -2296,6 +2296,7 @@ gamez.com.tw
 gamme.com.tw
 gamousa.com
 ganges.com
+ganjing.com
 ganjingworld.com
 gaoming.net
 gaopi.net
@@ -5004,6 +5005,7 @@ pt.im
 pts.org.tw
 ptt.cc
 pttgame.com
+ptthito.com
 pttvan.org
 pttweb.cc
 pttyes.com
@@ -6602,6 +6604,7 @@ vrmtr.com
 vrsmash.com
 vsallin.net
 vsassets.io
+vscode-cdn.net
 vscode-unpkg.net
 vscode-webview.net
 vscode.dev
