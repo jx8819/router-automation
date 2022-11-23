@@ -514,6 +514,7 @@ azure.com
 azure.microsoft.com
 azure.net
 azurecomcdn.net
+azurecomm.net
 azurecontainer.io
 azurecosmos.net
 azurecosmosdb.com
@@ -2984,7 +2985,6 @@ hkusu.net
 hkvwet.com
 hkwcc.org.hk
 hkzone.org
-hls.live-video.net
 hmoegirl.com
 hmonghot.com
 hmv.co.jp

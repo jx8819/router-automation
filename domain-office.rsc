@@ -515,6 +515,7 @@
 /ip dns static add regexp="^(.*\\.)?azure.microsoft\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azure\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azurecomcdn\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?azurecomm\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azurecontainer\\.io\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azurecosmos\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azurecosmosdb\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
@@ -2985,7 +2986,6 @@
 /ip dns static add regexp="^(.*\\.)?hkvwet\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hkwcc.org\\.hk\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hkzone\\.org\$" type=FWD forward-to=192.168.100.3 comment=gfw
-/ip dns static add regexp="^(.*\\.)?hls.live-video\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hmoegirl\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hmonghot\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?hmv.co\\.jp\$" type=FWD forward-to=192.168.100.3 comment=gfw
