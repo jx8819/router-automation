@@ -2155,6 +2155,7 @@ fpmtmexico.org
 fq.wikia.com
 fqok.org
 fqrouter.com
+fragment.com
 franklc.com
 freakshare.com
 free-gate.org
@@ -5642,6 +5643,7 @@ statueofdemocracy.org
 stboy.net
 stc.com.sa
 steamcommunity.com
+steamstatic.com
 steel-storm.com
 steemit.com
 steganos.com
@@ -6966,6 +6968,7 @@ xiaobaiwu.com
 xiaochuncnjp.com
 xiaod.in
 xiaohexie.com
+xiaoice.com
 xiaolan.me
 xiaoma.org
 xiaxiaoqiang.net
