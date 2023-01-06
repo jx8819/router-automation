@@ -4731,6 +4731,7 @@
 /ip dns static add regexp="^(.*\\.)?page2rss\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pages\\.dev\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?pagodabox\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?paimon\\.moe\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?palacemoon\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?paldengyal\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?paljorpublications\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
