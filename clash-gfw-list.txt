@@ -5126,7 +5126,6 @@ payload:
   - '+.rationalwiki.org'
   - '+.ratx.com'
   - '+.raw.githack.com'
-  - '+.raw.githubusercontent.com'
   - '+.rawgit.com'
   - '+.rawgithub.com'
   - '+.razyboard.com'
