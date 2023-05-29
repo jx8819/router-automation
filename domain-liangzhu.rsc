@@ -3595,6 +3595,7 @@
 /ip dns static add regexp="^(.*\\.)?latampartneruniversity\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?latelinenews\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?latibet\\.org\$" type=FWD forward-to=10.10.18.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?launchpadcontent\\.net\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lausan\\.hk\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lbank\\.info\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ld.hao123img\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
