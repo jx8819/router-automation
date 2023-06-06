@@ -1557,6 +1557,7 @@ ddns.us
 de-sci.org
 deadline.com
 deaftone.com
+debian.org
 debug.com
 deck.ly
 decodet.co
@@ -5366,6 +5367,7 @@ seraph.me
 servarr.com
 servehttp.com
 serverlesslibrary.net
+servethehome.com
 serveuser.com
 serveusers.com
 services.googleapis.cn
