@@ -6372,6 +6372,7 @@ payload:
   - '+.ub0.cc'
   - '+.ubddns.org'
   - '+.uberproxy.net'
+  - '+.ubuntu.com'
   - '+.uc-japan.org'
   - '+.ucanews.com'
   - '+.ucdc1998.org'
