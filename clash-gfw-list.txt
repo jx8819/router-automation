@@ -5510,6 +5510,7 @@ payload:
   - '+.skimresources.com'
   - '+.skimtube.com'
   - '+.skybet.com'
+  - '+.skyhook.sonarr.tv'
   - '+.skyking.com.tw'
   - '+.skype'
   - '+.skype.com'
