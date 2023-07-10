@@ -3887,6 +3887,7 @@ merlinblog.xyz
 meshrep.com
 mesotw.com
 messenger.com
+meta.com
 metacafe.com
 metafilter.com
 metart.com
@@ -5959,6 +5960,7 @@ thlib.org
 thomasbernhard.org
 thongdreams.com
 threadreaderapp.com
+threads.net
 threatchaos.com
 throughnightsfire.com
 thumbzilla.com
