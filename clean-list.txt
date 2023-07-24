@@ -2789,6 +2789,7 @@ greenpeace.org
 greenreadings.com
 greenvpn.net
 greenvpn.org
+grindr.com
 grotty-monday.com
 groupme.com
 groups.google.cn
@@ -3282,6 +3283,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 img.dlsite.jp
 img.ly
+imgasd.com
 imgchili.net
 imgmega.com
 imgur.com
@@ -7091,6 +7093,7 @@ xiaohexie.com
 xiaoice.com
 xiaolan.me
 xiaoma.org
+xiaomi.eu
 xiaxiaoqiang.net
 xiezhua.com
 xihua.es
