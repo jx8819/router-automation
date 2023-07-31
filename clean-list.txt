@@ -1623,7 +1623,6 @@ disp.cc
 disqus.com
 dit-inc.us
 ditu.live.com
-diversity.google
 dizhidizhi.com
 dizhuzhishang.com
 djangosnippets.org
@@ -1993,7 +1992,6 @@ faluninfo.de
 faluninfo.net
 falunpilipinas.net
 falunworld.net
-families.google
 familyfed.org
 famunion.com
 fan-qiang.com
@@ -3335,7 +3333,6 @@ inthenameofconfuciusmovie.com
 intunewiki.com
 investigating.wordpress.com
 inxian.com
-io.google
 iotinactionevents.com
 iownyour.biz
 iownyour.org
@@ -3682,7 +3679,6 @@ leisurecafe.ca
 leisurepro.com
 lematin.ch
 lemonde.fr
-lens.google
 lenwhite.com
 leorockwell.com
 lerosua.org
@@ -4568,6 +4564,7 @@ noxinfluencer.com
 noypf.com
 npa.go.jp
 npa.gov.tw
+npm.edu.tw
 npnt.me
 nps.gov
 npsboost.com
@@ -5666,6 +5663,7 @@ soumo.info
 soundcloud.com
 soundofhope.kr
 soundofhope.org
+soundon.fm
 soup.io
 soupofmedia.com
 sourceforge.net
@@ -6812,7 +6810,6 @@ weijingsheng.org
 weiming.info
 weiquanwang.org
 weisuo.ws
-wellbeing.google
 welovecock.com
 welt.de
 wemigrate.org
