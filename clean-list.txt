@@ -2453,6 +2453,7 @@ goagent.codeplex.com
 goagentplus.com
 goagle.de
 gobet.cc
+godaddy.com
 godfootsteps.org
 godns.work
 godoc.org
