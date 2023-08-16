@@ -132,6 +132,7 @@ payload:
   - '+.89.64.charter.constitutionalism.solutions'
   - '+.8964museum.com'
   - '+.8news.com.tw'
+  - '+.8world.com'
   - '+.8z1.net'
   - '+.9.rarbg.me'
   - '+.9001700.com'
