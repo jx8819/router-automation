@@ -1613,6 +1613,7 @@ payload:
   - '+.disconnect.me'
   - '+.discord.com'
   - '+.discord.gg'
+  - '+.discord.media'
   - '+.discordapp.com'
   - '+.discordapp.net'
   - '+.discoverbing.com'
