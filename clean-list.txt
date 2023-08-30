@@ -25,6 +25,7 @@
 17t17p.com
 18board.com
 18board.info
+18comic.org
 18onlygirls.com
 18p2p.com
 18virginsex.com
@@ -111,6 +112,7 @@
 64wiki.com
 66.ca
 666kb.com
+69shu.com
 6do.news
 6park.com
 6parkbbs.com
@@ -217,6 +219,7 @@ af.mil
 afantibbs.com
 afr.com
 afreecatv.com
+agemys.net
 aggresmart.com
 agnesb.fr
 agoogleaday.com
@@ -1020,6 +1023,7 @@ c-est-simple.com
 c-msedge.net
 c-span.org
 c-spanvideo.org
+c.mi.com
 c100tibet.org
 c2cx.com
 cablegatesearch.net
@@ -1287,10 +1291,12 @@ civilhrfront.org
 civiliangunner.com
 civilmedia.tw
 civisec.org
+civitai.com
 ck101.com
 cl.d0z.net
 clarionproject.org
 classicalguitarblog.net
+claude.ai
 clb.org.hk
 cldr.unicode.org
 cleansite.biz
@@ -1671,6 +1677,7 @@ dolc.de
 dolf.org.hk
 dollf.com
 domain.club.tw
+domain.glass
 domainhelp.search.com
 domains.google
 domaintoday.com.au
@@ -1826,6 +1833,7 @@ eic-av.com
 eireinikotaerukai.com
 eisbb.com
 eksisozluk.com
+elconfidencial.com
 electionsmeter.com
 electrek.co
 elgoog.im
@@ -2391,6 +2399,7 @@ gettyimages.com
 getuploader.com
 gfbv.de
 gfgold.com.hk
+gfnormal05at.com
 gfsale.com
 gfw.org.ua
 gfw.press
@@ -2855,6 +2864,7 @@ hackmd.io
 hackthatphone.net
 hahlo.com
 hakkatv.org.tw
+halktv.com.tr
 handcraftedsoftware.org
 hanime.tv
 hanminzu.org
@@ -3168,6 +3178,7 @@ ibvpn.com
 ibytedtos.com
 icams.com
 ice.audionow.com
+icedrive.net
 icerocket.com
 icfcdn.com
 icij.org
@@ -3269,6 +3280,7 @@ ikstar.com
 ikwb.com
 ilbe.com
 ilhamtohtiinstitute.org
+illawarramercury.com.au
 illusionfactory.com
 ilove80.be
 ilovelongtoes.com
@@ -3283,6 +3295,7 @@ imageshack.us
 imagevenue.com
 imagezilla.net
 imaginecup.pl
+imago-images.com
 imb.org
 imdb.com
 img-prod-cms-rt-microsoft-com
@@ -4397,6 +4410,7 @@ myspace.com
 myspacecdn.com
 mytalkbox.com
 mytizi.com
+mywife.cc
 mywww.biz
 myz.info
 naacoalition.org
@@ -4414,8 +4428,10 @@ nanyangpost.com
 nanzao.com
 naol.ca
 naol.cc
+narod.ru
 nat.gov.tw
 nat.moe
+natado.com
 national-lottery.co.uk
 nationalawakening.org
 nationalinterest.org
@@ -4528,6 +4544,7 @@ nic.google
 nic.gov
 nicovideo.jp
 nighost.org
+nightlife141.com
 nikkei.com
 ninecommentaries.com
 ninjacloak.com
@@ -5554,6 +5571,7 @@ simpleproductivityblog.com
 sinchew.com.my
 singaporepools.com.sg
 singfortibet.com
+singlelogin.me
 singpao.com.hk
 singtao.ca
 singtao.com
@@ -6211,6 +6229,7 @@ torguard.net
 torlock.com
 torproject.org
 torrentapi.org
+torrentgalaxy.to
 torrentkitty.tv
 torrentprivacy.com
 torrentproject.se
@@ -6856,6 +6875,7 @@ whichav.com
 whippedass.com
 whispersystems.org
 whitebear.freebearblog.org
+who.is
 whodns.xyz
 whoer.net
 whotalking.com
@@ -7084,6 +7104,7 @@ xcity.jp
 xcritic.com
 xda-developers.com
 xerotica.com
+xfiles.to
 xfinity.com
 xfm.pp.ru
 xgmyd.com
@@ -7105,6 +7126,7 @@ xiaxiaoqiang.net
 xiezhua.com
 xihua.es
 xijie.wordpress.com
+xinbao.de
 xing.com
 xinhuanet.org
 xinjiangpolicefiles.org
@@ -7243,6 +7265,7 @@ yousendit.com
 youshun12.com
 youthforfreechina.org
 youthnetradio.org
+youthwant.com.tw
 youtu.be
 youtube-nocookie.com
 youtube.com
