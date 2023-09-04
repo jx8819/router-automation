@@ -15,6 +15,7 @@
 12vpn.net
 1337x.to
 138.com
+141-hk.com
 141hongkong.com
 141jj.com
 141tube.com
@@ -114,6 +115,7 @@
 666kb.com
 69shu.com
 6do.news
+6do.world
 6park.com
 6parkbbs.com
 6parker.com
@@ -198,6 +200,7 @@ adcex.com
 addictedtocoffee.de
 addyoutube.com
 adelaidebbs.com
+adguard-vpn.com
 admin.recaptcha.net
 admob.com
 adpl.org.hk
@@ -294,6 +297,7 @@ ameba.jp
 ameblo.jp
 americangreencard.com
 americanunfinished.com
+americorps.gov
 amiblockedornot.com
 amigobbs.net
 amitabhafoundation.us
@@ -346,6 +350,7 @@ aofriend.com.au
 aojiao.org
 aol.ca
 aol.co.uk
+aol.com
 aolchannels.aol.com
 aolnews.com
 aomiwang.com
@@ -437,6 +442,7 @@ asianspiss.com
 asianwomensfilm.de
 asiaone.com
 asiatgp.com
+asiatimes.com
 asiatoday.us
 askstudent.com
 askynz.net
@@ -759,6 +765,7 @@ bitsnoop.com
 bitterwinter.org
 bitvise.com
 bitz.ai
+bitz.com
 biying.cn
 biying.com
 biying.com.cn
@@ -1935,6 +1942,7 @@ evoke-windowsservices-tas.msedge
 evschool.net
 exblog.jp
 exchristian.hk
+excite.co.jp
 exhentai.org
 exmo.com
 exmormon.org
@@ -2180,7 +2188,6 @@ fpmtmexico.org
 fq.wikia.com
 fqok.org
 fqrouter.com
-fragment.com
 franklc.com
 freakshare.com
 free-gate.org
@@ -2247,6 +2254,7 @@ freewww.info
 freexinwen.com
 freeyellow.com
 freeyoutubeproxy.net
+friday.tw
 frienddy.com
 friendfeed-media.com
 friendfeed.com
@@ -3112,7 +3120,6 @@ huangyiyu.com
 huaren.us
 huaren4us.com
 huashangnews.com
-huasing.org
 huaxia-news.com
 huaxiabao.org
 huaxin.ph
@@ -3250,7 +3257,6 @@ igoogle.is
 igoogle.it
 igoogle.jo
 igoogle.kz
-igoogle.lv
 igoogle.mn
 igoogle.ms
 igoogle.nl
@@ -3261,7 +3267,6 @@ igoogle.ru
 igoogle.rw
 igoogle.sc
 igoogle.sh
-igoogle.sk
 igoogle.sm
 igoogle.sn
 igoogle.tk
@@ -4334,7 +4339,6 @@ multiupload.com
 mummysgold.com
 murmur.tw
 muscdn.com
-musescore.com
 musicade.net
 musical.ly
 muslimvideo.com
@@ -4431,7 +4435,6 @@ naol.cc
 narod.ru
 nat.gov.tw
 nat.moe
-natado.com
 national-lottery.co.uk
 nationalawakening.org
 nationalinterest.org
@@ -4544,7 +4547,6 @@ nic.google
 nic.gov
 nicovideo.jp
 nighost.org
-nightlife141.com
 nikkei.com
 ninecommentaries.com
 ninjacloak.com
@@ -4702,17 +4704,16 @@ officewebapps.cn
 ofile.org
 ogaoga.org
 ogate.org
-ohchr.org
 ohmyrss.com
 oikos.com.tw
 oiktv.com
 oizoblog.com
 ok.ru
+ok.xxx
 okayfreedom.com
 okex.com
 okk.tw
 okx.com
-olabloga.pl
 old-cat.net
 old.honeynet.org
 old.nabble.com
@@ -4726,7 +4727,6 @@ omni7.jp
 omnitalk.com
 omnitalk.org
 omny.fm
-omy.sg
 on.cc
 on2.com
 onapp.com
@@ -4788,7 +4788,6 @@ opticsforthecloud.net
 optimizely.com
 opus-gaming.com
 oraclecloud.com
-orchidbbs.com
 ordns.he.net
 organcare.org.tw
 organharvestinvestigation.net
@@ -4800,7 +4799,6 @@ orient-doll.com
 orientaldaily.com.my
 orithegame.com
 orn.jp
-orzdream.com
 orzistic.org
 osdinfra.net
 osfoora.com
@@ -4980,6 +4978,7 @@ piring.com
 pixapp.net
 pixelqi.com
 pixiv.net
+pixnet.in
 pixnet.net
 pk.com
 pki.goog
@@ -5024,6 +5023,7 @@ popvote.hk
 popxi.click
 popyard.com
 popyard.org
+porn.biz
 porn.com
 porn2.com
 porn5.com
@@ -5285,7 +5285,6 @@ renminbao.com
 renovacionoffice.com
 renovacionxboxlive.com
 renyurenquan.org
-rerouted.org
 research.google
 research.jmsc.hku.hk
 resilio.com
@@ -5306,7 +5305,6 @@ rferl.org
 rfi.fr
 rfi.my
 rightbtc.com
-rightster.com
 rigpa.org
 riku.me
 rileyguide.com
@@ -5324,7 +5322,6 @@ roadshow.hk
 roboforex.com
 robustnessiskey.com
 rocket-inc.net
-rocketbbs.com
 rocketcdn.me
 rocksdb.org
 rojo.com
@@ -5504,6 +5501,7 @@ shadowsocks.com
 shadowsocks.com.hk
 shadowsocks.org
 shadowsocks9.com
+shafaqna.com
 shahit.biz
 shambalapost.com
 shambhalasun.com
@@ -5606,6 +5604,7 @@ skimtube.com
 skybet.com
 skyhook.sonarr.tv
 skyking.com.tw
+skykiwi.com
 skype
 skype.com
 skype.net
@@ -5616,6 +5615,7 @@ skyvegas.com
 skyxvpn.com
 sl-reverse.com
 slacker.com
+slandr.net
 slashine.onl
 slaytizle.com
 sleazydream.com
@@ -5726,7 +5726,6 @@ springboardplatform.com
 springwood.me
 sprinklesapp.com
 sprite.org
-sprite.page
 sproutcore.com
 sproxy.info
 sqlserveronlinux.com
@@ -5753,7 +5752,9 @@ sss.camp
 sstm.moe
 sstmlt.moe
 sstmlt.net
+stackcommerce.net
 stackoverflow.com
+stacksocial.com
 staffhub.ms
 stage64.hk
 standupfortibet.org
@@ -5978,7 +5979,6 @@ teepr.com
 tehrantimes.com
 telecomspace.com
 telegra.ph
-telegram-store.com
 telegram.dog
 telegram.me
 telegram.org
@@ -6013,6 +6013,7 @@ thebodyshop-usa.com
 thecenter.mit.edu
 thechinabeat.org
 thechinacollection.org
+thechinaproject.com
 thechinastory.org
 theconversation.com
 thedalailamamovie.com
@@ -6204,7 +6205,6 @@ tokyo-247.com
 tokyo-hot.com
 tokyo-porn-tube.com
 tokyocn.com
-tomonews.net
 tongil.or.kr
 tono-oka.jp
 tonymacx86.com
@@ -6839,6 +6839,7 @@ weijingsheng.org
 weiming.info
 weiquanwang.org
 weisuo.ws
+weitt.us
 welovecock.com
 welt.de
 wemigrate.org
@@ -6956,6 +6957,7 @@ withgoogle.com
 withyoutube.com
 witnessleeteaching.com
 witopia.net
+wixsite.com
 wizcrafts.net
 wjbk.org
 wlcnew.jigsy.com
@@ -7265,7 +7267,6 @@ yousendit.com
 youshun12.com
 youthforfreechina.org
 youthnetradio.org
-youthwant.com.tw
 youtu.be
 youtube-nocookie.com
 youtube.com
