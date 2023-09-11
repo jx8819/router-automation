@@ -3534,6 +3534,7 @@ jpl.nasa.gov
 jpopforum.net
 jqueryui.com
 jsdelivr.net
+jsfiddle.net
 jtvnw.net
 jubushoushen.com
 juhuaren.com
@@ -5777,6 +5778,7 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 statueofdemocracy.org
 stboy.net
 stc.com.sa
+steambroadcast.akamaized.net
 steamcommunity.com
 steamstatic.com
 steel-storm.com
