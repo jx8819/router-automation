@@ -121,7 +121,6 @@
 /ip dns static add regexp="^(.*\\.)?6parkbbs\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?6parker\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?6parknews\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?7-zip\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?7capture\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?7cow\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?7mmtv\\.tv\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -3723,6 +3722,7 @@
 /ip dns static add regexp="^(.*\\.)?lflinkup\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lhakar\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lhasocialwork\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?li\\.taipei\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?liangyou\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?liangzhichuanmei\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?lianyue\\.net\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -4224,6 +4224,7 @@
 /ip dns static add regexp="^(.*\\.)?mondex\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?money-link.com\\.tw\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?moneyhome\\.biz\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?monica\\.im\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?monitorchina\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?monlamit\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?mono-project\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -6259,7 +6260,6 @@
 /ip dns static add regexp="^(.*\\.)?trakt\\.tv\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?trans.wenweipo\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?translate\\.goog\$" type=FWD forward-to=10.10.10.1 comment=gfw
-/ip dns static add regexp="^(.*\\.)?translate\\.google\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?translate.googleapis\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?translatetheweb\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?transparency\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw

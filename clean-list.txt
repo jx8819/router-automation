@@ -120,7 +120,6 @@
 6parkbbs.com
 6parker.com
 6parknews.com
-7-zip.org
 7capture.com
 7cow.com
 7mmtv.tv
@@ -3722,6 +3721,7 @@ lflinkup.net
 lflinkup.org
 lhakar.org
 lhasocialwork.org
+li.taipei
 liangyou.net
 liangzhichuanmei.com
 lianyue.net
@@ -4223,6 +4223,7 @@ momoshop.com.tw
 mondex.org
 money-link.com.tw
 moneyhome.biz
+monica.im
 monitorchina.org
 monlamit.org
 mono-project.com
@@ -6258,7 +6259,6 @@ trafficmanager.net
 trakt.tv
 trans.wenweipo.com
 translate.goog
-translate.google
 translate.googleapis.com
 translatetheweb.com
 transparency.org
