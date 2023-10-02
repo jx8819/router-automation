@@ -2484,6 +2484,7 @@ godsdirectcontact.org.tw
 godsimmediatecontact.com
 gofundme.com
 gogle.de
+gogole.com
 gogotunnel.com
 gohappy.com.tw
 gojet.krtco.com.tw
@@ -2915,6 +2916,7 @@ helpshift.com
 helpster.de
 helpuyghursnow.org
 helpzhuling.org
+henduohao.com
 hentai.to
 hentaitube.tv
 hentaivideoworld.com
@@ -4387,6 +4389,7 @@ myfreshnet.com
 myftp.info
 myftp.name
 myhomemsn.com
+myip.com
 myiphide.com
 myiphider.com
 mykomica.org
@@ -4732,6 +4735,7 @@ omny.fm
 on.cc
 on2.com
 onapp.com
+one.one.one.one
 onecollector.cloudapp.aria
 onecollector.cloudapp.aria.akadns.net
 onedrive.co
@@ -4767,6 +4771,7 @@ onmypc.us
 onthehunt.com
 ontrac.com
 oopsforum.com
+open-assistant.io
 open.com.hk
 openai.com
 openallweb.com
@@ -6621,6 +6626,7 @@ venetianmacao.com
 ventureswell.com
 veoh.com
 vercel.app
+vercel.com
 vermonttibet.org
 versavpn.com
 verybs.com
