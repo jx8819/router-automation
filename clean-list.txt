@@ -443,6 +443,7 @@ asiaone.com
 asiatgp.com
 asiatimes.com
 asiatoday.us
+ask.com
 askstudent.com
 askynz.net
 asp.net
@@ -1937,6 +1938,7 @@ eurodasp.com
 euronews.com
 evchk.wikia.com
 evchk.wikia.org
+everipedia.org
 evoke-windowsservices-tas.msedge
 evschool.net
 exblog.jp
@@ -3129,6 +3131,7 @@ hub.docker.com
 hudatoriq.web.id
 hudson.org
 huffingtonpost.com
+huggingface.co
 hugoroy.eu
 huhaitai.com
 huhamhire.com
@@ -5201,6 +5204,7 @@ quran.com
 quranexplorer.com
 qusi8.net
 qvodzy.org
+qwant.com
 qx.net
 qxbbs.org
 qz.com
