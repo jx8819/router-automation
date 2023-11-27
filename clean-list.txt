@@ -3339,6 +3339,7 @@ inews-api.tvb.com
 info-graf.fr
 informer.com
 ingads.com
+ingress.com
 initiativesforchina.org
 inkui.com
 inmediahk.net
@@ -4677,6 +4678,7 @@ o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
 o3o.ca
+oaistatic.com
 oanda.com
 oann.com
 oaspapps.com
