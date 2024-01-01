@@ -1043,6 +1043,7 @@ cahr.org.tw
 caijinglengyan.com
 calameo.com
 calebelston.com
+calendarz.com
 calgarychinese.ca
 calgarychinese.com
 calgarychinese.net
@@ -1113,6 +1114,7 @@ cdef.org
 cdig.info
 cdjp.org
 cdn-images.mailchimp.com
+cdn-telegram.org
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
 cdn.printfriendly.com
@@ -1396,6 +1398,7 @@ com.google
 comefromchina.com
 comic-mega.me
 commandarms.com
+comments.app
 commentshk.com
 communistcrimes.org
 community.windy.com
@@ -1636,6 +1639,7 @@ discuss.com.hk
 discuss4u.com
 dish.com
 disk.yandex.com
+disk.yandex.ru
 disney-plus.net
 disneyplus.com
 disneyplus.com.ssl.sc.omtrdc.net
@@ -2794,6 +2798,7 @@ gradconnection.com
 grammaly.com
 grandtrial.org
 grangorz.org
+graph.org
 graphengine.io
 graphis.ne.jp
 graphql.org
@@ -3133,6 +3138,7 @@ hub.docker.com
 hudatoriq.web.id
 hudson.org
 huffingtonpost.com
+huffpost.com
 huggingface.co
 hugoroy.eu
 huhaitai.com
@@ -4690,6 +4696,7 @@ oaspapps.com.akadns.net
 oauth.net
 observechina.net
 obutu.com
+obyte.org
 ocaspro.com
 occupytiananmen.com
 oclp.hk
@@ -5142,6 +5149,7 @@ psiphon.ca
 psiphon.civisec.org
 psiphon3.com
 psiphontoday.com
+pstatic.net
 pt.im
 pts.org.tw
 ptt.cc
@@ -5204,6 +5212,7 @@ quantumbooter.net
 questvisual.com
 quitccp.net
 quitccp.org
+quiz.directory
 quora.com
 quoracdn.net
 quran.com
@@ -5384,6 +5393,7 @@ s-msedge.net
 s-msft.com
 s-msn.com
 s-nbcnews.com
+s.yimg.com
 s1.nudezz.com
 s1heng.com
 s1s1s1.com
@@ -5998,9 +6008,11 @@ teepr.com
 tehrantimes.com
 telecomspace.com
 telegra.ph
+telegram-cdn.org
 telegram.dog
 telegram.me
 telegram.org
+telegram.space
 telegramdownload.com
 telegraph.co.uk
 telesco.pe
@@ -6823,6 +6835,7 @@ wav.tv
 waveprotocol.org
 waymo.com
 wbd.ms
+wd.bible
 wda.gov.tw
 wdf5.com
 wealth.com.tw
@@ -6982,6 +6995,7 @@ wjbk.org
 wlcnew.jigsy.com
 wlx.sowiki.net
 wlxrs.com
+wmflabs.org
 wn.com
 wnacg.com
 wnacg.org
@@ -6989,7 +7003,6 @@ wo.tc
 wo3t.wordpress.com
 wo3ttt.wordpress.com
 woeser.com
-woesermiddle-way.net
 wokar.org
 wolfax.com
 wombo.ai
@@ -7046,7 +7059,6 @@ www.antd.org
 www.aolnews.com
 www.businessinsider.com.au
 www.cmoinc.org
-www.cool18.com
 www.dmm.com
 www.dwheeler.com
 www.eastturkistan.net
