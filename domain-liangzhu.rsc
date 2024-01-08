@@ -7103,6 +7103,7 @@
 /ip dns static add regexp="^(.*\\.)?x-berry\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?x-wall\\.org\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?x\\.co\$" type=FWD forward-to=10.10.18.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?x\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?x\\.company\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?x1949x\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?x24hr\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
