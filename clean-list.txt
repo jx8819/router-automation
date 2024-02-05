@@ -478,6 +478,7 @@ av-e-body.com
 av.com
 av.movie
 av.nightlife141.com
+av01.tv
 avaaz.org
 avbody.tv
 avcity.tv
@@ -2879,6 +2880,7 @@ hacker.org
 hackmd.io
 hackthatphone.net
 hahlo.com
+haiwaikan.com
 hakkatv.org.tw
 halktv.com.tr
 handcraftedsoftware.org
@@ -3868,6 +3870,7 @@ macts.com.tw
 mad-ar.ch
 madewithcode.com
 madonna-av.com
+madou.club
 madrau.com
 madthumbs.com
 magazines.sina.com.tw
@@ -5412,6 +5415,7 @@ safervpn.com
 safety.google
 saintyculture.com
 saiq.me
+sakura-paris.org
 sakuralive.com
 sakya.org
 salvation.org.hk
@@ -5476,6 +5480,8 @@ seehua.com
 seesmic.com
 seevpn.com
 seezone.net
+sehuatang.net
+sehuatang.org
 sejie.com
 sellclassics.com
 send.firefox.com
@@ -6622,6 +6628,7 @@ uygur.fc2web.com
 uygur.org
 uymaarip.com
 v.roucdn
+v2board.com
 v2ex.com
 v2fly.org
 v2mm.tech
@@ -6803,6 +6810,7 @@ waikeung.org
 wailaike.net
 wainao.me
 waiwaier.com
+wallhaven.cc
 wallmama.com
 wallornot.org
 wallpapercasa.com
