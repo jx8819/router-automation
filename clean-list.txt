@@ -186,6 +186,7 @@ accountkit.com
 aceros-de-hispania.com
 acevpn.com
 acg18.me
+acgbox.link
 acgbox.org
 acgkj.com
 acgnx.se
@@ -941,6 +942,7 @@ bookepub.com
 books.com.tw
 booktopia.com.au
 boomssr.com
+bootstrapcdn.com
 borgenmagazine.com
 boswp.com
 bot.nu
@@ -1713,6 +1715,7 @@ donmai.us
 dontfilter.us
 dontmovetochina.com
 dorjeshugden.com
+dot.ca.gov
 dot.net
 dotgov.gov
 dotplane.com
@@ -3568,6 +3571,7 @@ jp1lib.org
 jpl.nasa.gov
 jpopforum.net
 jqueryui.com
+jrf.org.tw
 jsdelivr.net
 jsfiddle.net
 jtvnw.net
@@ -3829,6 +3833,7 @@ liwangyang.com
 lizhizhuangbi.com
 lkcn.net
 llss.me
+lmsys.org
 lncn.org
 load.to
 lobsangwangyal.com
@@ -5841,6 +5846,7 @@ statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-neu-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
+stats.wp.com
 statueofdemocracy.org
 stboy.net
 stc.com.sa
@@ -6003,6 +6009,7 @@ tapatalk.com
 tarr.uspto.gov
 tascn.com.au
 taup.net
+taup.org.tw
 taweet.com
 tbcollege.org
 tbi.org.hk
@@ -7082,6 +7089,7 @@ wqyd.org
 wrchina.org
 wretch.cc
 writer.zoho.com
+wsimg.com
 wsj.com
 wsj.net
 wsjhk.com
