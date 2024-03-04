@@ -3567,6 +3567,7 @@ payload:
   - '+.joinms.com.cn'
   - '+.joinmva.com'
   - '+.jornaldacidadeonline.com.br'
+  - '+.jotform.com'
   - '+.journalchretien.net'
   - '+.journalofdemocracy.org'
   - '+.joymiihub.com'
