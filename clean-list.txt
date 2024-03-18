@@ -164,6 +164,7 @@ a771.dscq.akamai.net
 aadrm.cn
 aadrm.com
 aamacau.com
+ab.chatgpt.com
 abc.com
 abc.net.au
 abc.pp.ru
@@ -1045,6 +1046,8 @@ c.mi.com
 c100tibet.org
 c2cx.com
 cablegatesearch.net
+cachefly.com
+cachefly.net
 cachinese.com
 cacnw.com
 cactusvpn.com
@@ -1423,6 +1426,7 @@ comparitech.com
 compileheart.com
 compose-spec.io
 compress.to
+congyu.moe
 connect.facebook.net
 conoha.jp
 constitutionalism.solutions
