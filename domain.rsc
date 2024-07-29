@@ -489,6 +489,7 @@
 /ip dns static add regexp="^(.*\\.)?azcrmc\\.cn\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azerbaycan\\.tv\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azerimix\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?azirevpn\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?azk8s\\.cn\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aznbcontent\\.cn\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?aztask\\.cn\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -1321,6 +1322,7 @@
 /ip dns static add regexp="^(.*\\.)?clubhouseapi\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?clyp\\.it\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?cmcn\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?cmegroup\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?cmi.org\\.tw\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?cmoinc\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?cmp.hku\\.hk\$" type=FWD forward-to=10.10.10.1 comment=gfw
@@ -3217,6 +3219,7 @@
 /ip dns static add regexp="^(.*\\.)?imageab\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?imagefap\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?imageflea\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
+/ip dns static add regexp="^(.*\\.)?imageglass\\.org\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?images-gaytube\\.com\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?images.comico\\.tw\$" type=FWD forward-to=10.10.10.1 comment=gfw
 /ip dns static add regexp="^(.*\\.)?imageshack\\.us\$" type=FWD forward-to=10.10.10.1 comment=gfw
