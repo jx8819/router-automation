@@ -5745,6 +5745,7 @@ payload:
   - PROCESS-NAME,org.telegram.messenger
   - PROCESS-NAME,telegram-desktop
   - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,tw.nekomimi.nekogram
   ## > Telegram CIDR
   - IP-CIDR,91.105.192.0/23,no-resolve
   - IP-CIDR,91.108.4.0/22,no-resolve
@@ -6824,9 +6825,13 @@ payload:
   - DOMAIN-SUFFIX,zorincdn.com
   ## > Developer
   - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,b4a.run
+  - DOMAIN-SUFFIX,back4app.com
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,elastic.com
   - DOMAIN-SUFFIX,jitpack.io
+  - DOMAIN-SUFFIX,koyeb.app
+  - DOMAIN-SUFFIX,koyeb.com
   - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,mvnrepository.com
