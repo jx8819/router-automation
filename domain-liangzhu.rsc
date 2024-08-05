@@ -3355,6 +3355,7 @@
 /ip dns static add regexp="^(.*\\.)?ivacy\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iverycd\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ivpn\\.net\$" type=FWD forward-to=10.10.18.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?iwara\\.tv\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ixquick\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ixxx\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iyouport\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
@@ -6043,6 +6044,7 @@
 /ip dns static add regexp="^(.*\\.)?tibetswiss\\.ch\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tibettelegraph\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tibettimes\\.net\$" type=FWD forward-to=10.10.18.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?tibettruth\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tibetwrites\\.org\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ticket.com\\.tw\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tigervpn\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
