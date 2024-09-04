@@ -1001,6 +1001,7 @@
 /ip dns static add regexp="^(.*\\.)?buzzhand\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?buzzhand\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?buzzorange\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?buzzsprout\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bvpn\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bwgyhw\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?bwh1\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
@@ -3354,6 +3355,7 @@
 /ip dns static add regexp="^(.*\\.)?iuksky\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ivacy\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iverycd\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?ivonblog\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ivpn\\.net\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?iwara\\.tv\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?ixquick\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
@@ -3371,6 +3373,7 @@
 /ip dns static add regexp="^(.*\\.)?jamaat\\.org\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?jamestown\\.org\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?jamyangnorbu\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?jan\\.ai\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?jandyx\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?janwongphoto\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?japan-whores\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
@@ -6052,6 +6055,7 @@
 /ip dns static add regexp="^(.*\\.)?tiktok\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tiktokcdn-us\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tiktokcdn\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?tiktokv\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?tiltbrush\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?timdir\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?time\\.com\$" type=FWD forward-to=192.168.100.3 comment=gfw
