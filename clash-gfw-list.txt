@@ -4790,6 +4790,7 @@ payload:
   - '+.passion.com'
   - '+.passiontimes.hk'
   - '+.passport.net'
+  - '+.passwords.google'
   - '+.paste.ee'
   - '+.pastebin.com'
   - '+.pastie.org'
