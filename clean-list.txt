@@ -220,6 +220,7 @@ agro.hk
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.com
 ai.google
 aicscience.com
 aiph.net
@@ -5364,6 +5365,7 @@ sellclassics.com
 sendsmtp.com
 sendspace.com
 sensortower.com
+sentry.io
 seraph.me
 servarr.com
 servehttp.com
@@ -5703,6 +5705,7 @@ streamate.com
 streamingthe.net
 streema.com
 strikingly.com
+stripe.com
 strongvpn.com
 strongwindpress.com
 student.tw
