@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,chatgpt.com
