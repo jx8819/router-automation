@@ -1,4 +1,4 @@
-/ip dns static find comment=gfw
+/ip dns static remove numbers=[/ip dns static find comment=gfw]
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=000webhost.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=030buy.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=0914.global.ssl.fastly.net
