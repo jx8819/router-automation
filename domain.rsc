@@ -1357,6 +1357,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cna.com.tw
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cnabc.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cnbbnews.wordpress.com
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cnbeta.com.tw
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cnd.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cnex.org.cn
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cnineu.com
