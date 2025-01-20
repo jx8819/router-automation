@@ -162,6 +162,7 @@ abc.pp.ru
 abc.xyz
 abchinese.com
 abclite.net
+abebooks.co.uk
 abebooks.com
 abematv.akamaized.net
 abitno.linpie.com
@@ -1059,6 +1060,7 @@ carfax.com
 cari.com.my
 caribbeancom.com
 carmotorshow.com
+carousell.com.hk
 carrd.co
 carryzhou.com
 cartoonmovement.com
@@ -1155,6 +1157,7 @@ changp.com
 changsa.net
 channel8news.sg
 channelnewsasia.com
+chanworld.org
 chaoex.com
 chapm25.com
 charticulator.com
@@ -1340,7 +1343,6 @@ cmx.im
 cn-proxy.com
 cn.bing.com
 cn.bing.net
-cn.dayabook.com
 cn.fmnnow.com
 cn.freeones.com
 cn.giganews.com
@@ -1417,6 +1419,7 @@ coolder.com
 coolloud.org.tw
 coolncute.com
 coolstuffinc.com
+copilot.microsoft.com
 cortana.ai
 cortanaanalytics.com
 cortanaskills.com
@@ -1549,6 +1552,7 @@ darktech.org
 darktoy.net
 darpa.mil
 darrenliuwei.com
+dashlane.com
 dastrassi.org
 data-vocabulary.org
 data.flurry.com
@@ -1916,7 +1920,6 @@ eroticsaloon.net
 esg.t91y.com
 eslite.com
 esmtp.biz
-esu.dog
 esurance.com
 etaa.org.au
 etadult.com
@@ -4952,6 +4955,7 @@ poloniex.com
 polymer-project.org
 polymerhk.com
 poolin.com
+popai.pro
 popo.tw
 popvote.hk
 popxi.click
@@ -6626,6 +6630,7 @@ vot.org
 vovo2000.com
 voxer.com
 voy.com
+vpl.bibliocommons.com
 vpn.ac
 vpn.cjb.net
 vpn.cmu.edu
