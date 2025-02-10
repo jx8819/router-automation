@@ -296,6 +296,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ameblo.jp
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=americangreencard.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=americanunfinished.com
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=americorps.gov
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=amiblockedornot.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=amigobbs.net
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=amitabhafoundation.us
@@ -1106,6 +1107,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cccat.cc
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cccat.co
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ccdtr.org
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ccfd.org.tw
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cchere.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ccim.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=cclife.ca
@@ -2828,6 +2830,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=graphql.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=gravatar.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=greasespot.net
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=greasyfork.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=great-firewall.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=great-roc.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=greatfire.org
@@ -3352,6 +3355,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=iownyour.biz
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=iownyour.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ipalter.com
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ipdefenseforum.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ipfire.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=ipfs.io
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=iphone4hongkong.com
@@ -4570,6 +4574,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nobel.se
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nobelprize.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nobodycanstop.us
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nodeseek.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nofile.io
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nokogiri.org
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=nokola.com
@@ -4837,6 +4842,7 @@ add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comm
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=pachosting.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=pacificpoker.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=packetix.net
+add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=pacom.mil
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=pacopacomama.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=padmanet.com
 add type=FWD match-subdomain=yes forward-to=10.10.10.1 address-list=gfwlist comment=gfw name=page.bid.yahoo.com

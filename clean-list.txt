@@ -294,6 +294,7 @@ ameba.jp
 ameblo.jp
 americangreencard.com
 americanunfinished.com
+americorps.gov
 amiblockedornot.com
 amigobbs.net
 amitabhafoundation.us
@@ -1104,6 +1105,7 @@ cc.com
 cccat.cc
 cccat.co
 ccdtr.org
+ccfd.org.tw
 cchere.com
 ccim.org
 cclife.ca
@@ -2826,6 +2828,7 @@ graphis.ne.jp
 graphql.org
 gravatar.com
 greasespot.net
+greasyfork.org
 great-firewall.com
 great-roc.org
 greatfire.org
@@ -3350,6 +3353,7 @@ iotinactionevents.com
 iownyour.biz
 iownyour.org
 ipalter.com
+ipdefenseforum.com
 ipfire.org
 ipfs.io
 iphone4hongkong.com
@@ -4568,6 +4572,7 @@ no-ip.org
 nobel.se
 nobelprize.org
 nobodycanstop.us
+nodeseek.com
 nofile.io
 nokogiri.org
 nokola.com
@@ -4835,6 +4840,7 @@ p16-tiktokcdn-com.akamaized.net
 pachosting.com
 pacificpoker.com
 packetix.net
+pacom.mil
 pacopacomama.com
 padmanet.com
 page.bid.yahoo.com
