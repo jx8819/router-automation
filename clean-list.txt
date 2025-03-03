@@ -181,6 +181,7 @@ accim.org
 accountkit.com
 aceros-de-hispania.com
 acevpn.com
+acg.rip
 acg18.me
 acgbox.org
 acgkj.com
@@ -326,6 +327,7 @@ animecrazy.net
 animeshippuuden.com
 aniscartujo.com
 ankarazirvesi2018.com
+annas-archive.se
 annatam.com
 anobii.com
 anonfiles.com
@@ -600,6 +602,7 @@ bangbrosnetwork.com
 bangchen.net
 bangdream.space
 bangkokpost.com
+bangumi.moe
 bangyoulater.com
 bankmobilevibe.com
 bannedbook.org
@@ -938,6 +941,7 @@ books.com.tw
 booktopia.com.au
 bookwalker.com.tw
 boomssr.com
+bootstrapcdn.com
 borgenmagazine.com
 boswp.com
 bot.nu
@@ -984,6 +988,7 @@ brookings.edu
 brucewang.net
 brutaltgp.com
 bsky.app
+bsky.network
 bsky.social
 bt2mag.com
 bt95.com
@@ -1300,6 +1305,7 @@ chubun.com
 chuizi.net
 churchinhongkong.org
 chushigangdrug.ch
+ci-en.jp
 ciciai.com
 cienen.com
 cineastentreff.de
@@ -1727,6 +1733,7 @@ dongyangjing.com
 donmai.us
 dontfilter.us
 dontmovetochina.com
+doosho.com
 doourbest.org
 dorjeshugden.com
 dot.net
@@ -2001,6 +2008,7 @@ eyny.com
 ezpc.tk
 ezpeer.com
 ezua.com
+f-droid.org
 f2pool.com
 f8.com
 fa.gov.tw
@@ -2052,6 +2060,7 @@ falunworld.net
 familyfed.org
 famunion.com
 fan-qiang.com
+fanbox.cc
 fangbinxing.com
 fangeming.com
 fangeqiang.com
@@ -2234,6 +2243,7 @@ free-hada-now.org
 free-proxy.cz
 free-ss.site
 free-ssh.com
+free.bg
 free.fr
 free4u.com.ar
 freealim.com
@@ -3078,6 +3088,7 @@ hockeyapp.net
 hojemacau.com.mo
 hola.com
 hola.org
+hole.thu.monster
 hololens.com
 holymountaincn.com
 holyspiritspeaks.org
@@ -3121,6 +3132,7 @@ hotvpn.com
 hougaige.com
 howtoforge.com
 hoxx.com
+hoy.tv
 hpa.gov.tw
 hpjav.com
 hqcdp.org
@@ -3159,7 +3171,6 @@ huaxia-news.com
 huaxiabao.org
 huaxin.ph
 huayuworld.org
-hub.docker.com
 hudatoriq.web.id
 hudson.org
 huffingtonpost.com
@@ -3634,6 +3645,7 @@ koornk.com
 koranmandarin.com
 korea.net
 korenan2.com
+kpkuang.org
 kqes.net
 kraken.com
 krtco.com.tw
@@ -3882,6 +3894,7 @@ management-azure-devices.cn
 management-azure-devices.net
 manchukuo.net
 mandiant.com
+mangabz.com
 mangafox.com
 mangafox.me
 mangmang.run
@@ -4526,6 +4539,7 @@ newstatesman.com
 newsweek.com
 newtaiwan.com.tw
 newtalk.tw
+newthuhole.com
 newyorker.com
 newyorktimes.com
 nexon.com
@@ -4919,6 +4933,7 @@ pemulihan.or.id
 pen.io
 penchinese.com
 penchinese.net
+pendrivelinux.com
 pengyulong.com
 penisbot.com
 penthouse.com
@@ -4946,6 +4961,7 @@ phonegap.com
 phosphation13.rssing.com
 photodharma.net
 photofocus.com
+photonmedia.net
 phprcdn.com
 phptutorial.net
 phuquocservices.com
@@ -4987,11 +5003,13 @@ pixapp.net
 pixeldrain.com
 pixelqi.com
 pixiv.net
+pixiv.org
 pixivsketch.net
 pixnet.net
 pk.com
 pki.goog
 pkqjiasu.com
+pkuanvil.com
 placemix.com
 play-asia.com
 playboy.com
@@ -5017,6 +5035,7 @@ podbean.com
 podcast.co
 podictionary.com
 poe.com
+points-media.com
 pokerstars.com
 pokerstars.net
 pokerstrategy.com
@@ -5884,6 +5903,7 @@ sylfoundation.org
 syncback.com
 syncshop.cn
 synergyse.com
+syosetu.com
 sysinternals.com
 sysresccd.org
 sytes.net
@@ -6024,6 +6044,7 @@ theblemish.com
 thebobs.com
 thebodyshop-usa.com
 thecenter.mit.edu
+thechasernews.co.uk
 thechinabeat.org
 thechinacollection.org
 theconversation.com
@@ -6077,6 +6098,7 @@ threadreaderapp.com
 threads.net
 threatchaos.com
 throughnightsfire.com
+thuhole.com
 thumbzilla.com
 thywords.com
 thywords.com.tw
@@ -6571,6 +6593,7 @@ uscardforum.com
 uscg.mil
 uscnpm.org
 use.fontawesome.com
+use.typekit.net
 usefreevpn.com
 userapi.nytlog.com
 usercontent.goog
@@ -6917,6 +6940,7 @@ wiki.gamerp.jp
 wiki.jqueryui.com
 wiki.keso.cn
 wiki.kfd.me
+wiki.metacubex.one
 wiki.oauth.net
 wiki.phonegap.com
 wikia.com
@@ -6945,6 +6969,7 @@ wiktionary.org
 wildammo.com
 williamhill.com
 willw.net
+wilsoncenter.org
 windows
 windows-int.net
 windows-ppe.net
