@@ -115,6 +115,7 @@
 64wiki.com
 66.ca
 666kb.com
+666pool.cn
 6do.news
 6do.world
 6park.com
@@ -348,6 +349,7 @@ anthropic.com
 anti1984.com
 antichristendom.com
 antiwave.net
+antpool.com
 anyporn.com
 anysex.com
 ao3.org
@@ -672,6 +674,8 @@ bdsmvideos.net
 beaconevents.com
 bebo.com
 beeg.com
+beepool.com
+beepool.org
 beevpn.com
 behance.net
 behindkink.com
@@ -696,6 +700,7 @@ bestvpnserver.com
 bestvpnservice.com
 bestvpnusa.com
 bet365.com
+betaclouds.net
 betfair.com
 beth.games
 bethesda.net
@@ -709,6 +714,7 @@ bewww.net
 beyondfirewall.com
 bfnn.org
 bfsh.hk
+bgme.me
 bgvpn.com
 bianlei.com
 biantailajiao.com
@@ -734,6 +740,7 @@ billypan.com
 binads.com
 binance.com
 binance.us
+binancezh.cc
 binb.com
 binf.com
 bing
@@ -1002,7 +1009,9 @@ bsky.social
 bt2mag.com
 bt95.com
 btaia.com
+btbit.net
 btbtav.com
+btc.com
 btc98.com
 btcbank.bank
 btctrade.im
@@ -1055,6 +1064,7 @@ c-spanvideo.org
 c.mi.com
 c100tibet.org
 c2cx.com
+c3pool.com
 cableav.tv
 cablegatesearch.net
 cachinese.com
@@ -1382,6 +1392,7 @@ cmx.im
 cn-proxy.com
 cn.bing.com
 cn.bing.net
+cn.etherscan.com
 cn.fmnnow.com
 cn.freeones.com
 cn.giganews.com
@@ -1479,6 +1490,7 @@ coze.com
 cpj.org
 cq99.us
 crackle.com
+crazypool.org
 crazys.cc
 crazyshit.com
 crbug.com
@@ -1501,6 +1513,7 @@ croxyproxy.com
 crrev.com
 crucial.com
 crunchyroll.com
+cruxpool.com
 crwdcntrl.net
 cs11.wpc.v0cdn.net
 cs9.wac.phicdn.net
@@ -1533,6 +1546,7 @@ cyberghostvpn.com
 cynscribe.com
 cytode.us
 d-fukyu.com
+d.cash
 d0z.net
 d100.net
 d1b183sg0nvnuh.cloudfront.net
@@ -1756,8 +1770,10 @@ dotsub.com
 dotvpn.com
 doub.io
 doubibackup.com
+doubiyunbackup.com
 doublethinklab.org
 doubmirror.cf
+douchi.space
 dougscripts.com
 douhokanko.net
 doujincafe.com
@@ -1765,6 +1781,7 @@ dowei.org
 download.aircrack-ng.org
 download.cnet.com
 dphk.org
+dpool.top
 dpp.org.tw
 dpr.info
 dragonex.io
@@ -1937,6 +1954,7 @@ epochtimes-romania.com
 epochtimes.co.il
 epochtimes.co.kr
 epochtimes.com
+epochtimes.com.tw
 epochtimes.cz
 epochtimes.de
 epochtimes.fr
@@ -2187,6 +2205,7 @@ flagsonline.it
 flecheinthepeche.fr
 fleshbot.com
 fleursdeslettres.com
+flexpool.io
 flgg.us
 flgjustice.org
 flickr.com
@@ -2202,6 +2221,7 @@ flog.tw
 flowhongkong.net
 fluidpreview.com
 flurry.com
+flypool.org
 flyvpn.com
 flyzy2005.com
 fnac.be
@@ -2302,11 +2322,13 @@ freeopenvpn.com
 freeoz.org
 freeproxylists.net
 freerk.com
+freess.org
 freessh.us
 freetcp.com
 freetibet.net
 freetibet.org
 freetibetanheroes.org
+freetls.fastly.net
 freetribe.me
 freeviewmovies.com
 freevpn.me
@@ -2470,7 +2492,6 @@ getsocialscope.com
 getsync.com
 gettr.com
 gettrials.com
-gettyimages.com
 getuploader.com
 gfbv.de
 gfgold.com.hk
@@ -2478,6 +2499,7 @@ gfsale.com
 gfw.org.ua
 gfw.press
 gfw.report
+gfwatch.org
 gfx.ms
 ggpht.com
 ggssl.com
@@ -2511,6 +2533,7 @@ gjczz.com
 glarity.app
 glass8.eu
 global.bing.com
+global.ssl.fastly.net
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
@@ -2539,6 +2562,7 @@ go-to-zlibrary.se
 go.nesnode.com
 go.sony.com
 go141.com
+go5.dev
 goagent.biz
 goagent.codeplex.com
 goagentplus.com
@@ -2804,7 +2828,6 @@ google.vg
 google.vu
 google.ws
 googleanalytics.com
-googleapis.cn
 googleapis.com
 googleapps.com
 googlearth.com
@@ -3028,6 +3051,7 @@ himemix.com
 himemix.net
 hitbtc.com
 hitomi.la
+hiveon.net
 hiwifi.com
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
@@ -3212,6 +3236,7 @@ huobi.com
 huobi.me
 huobi.pro
 huobi.sc
+huobipool.com
 huobipro.com
 huping.net
 hurgokbayrak.com
@@ -3286,6 +3311,7 @@ ifan.cz.cc
 ifanqiang.com
 ifcss.org
 ifjc.org
+ifreechina.wordpress.com
 ifreewares.com
 ift.tt
 igcd.net
@@ -3333,11 +3359,13 @@ imgchili.net
 imgmega.com
 imgur.com
 imkev.com
+imlive.co
 imlive.com
 immigration.gov.tw
 immoral.jp
 impact.org.au
 impp.mn
+improd.works
 in-disguise.com
 in.com
 in99.org
@@ -3803,6 +3831,7 @@ listennotes.com
 listentoyoutube.com
 listorious.com
 lists.w3.org
+litenews.hk
 liu-xiaobo.org
 liudejun.com
 liuhanyu.com
@@ -3882,6 +3911,7 @@ lzjscript.com
 lzmtnews.org
 m.hkgalden.com
 m.me
+m.moegirl.org
 m.plixi.com
 m.slandr.net
 m12.vc
@@ -3948,6 +3978,7 @@ mash.to
 maskedip.com
 mastodon.cloud
 mastodon.host
+mastodon.online
 mastodon.social
 mastodon.xyz
 matainja.com
@@ -3972,6 +4003,7 @@ mcfog.com
 mcreasite.com
 md-t.org
 me.me
+me.ns.ci
 me.youthwant.com.tw
 meansys.com
 media-amazon.com
@@ -4009,6 +4041,7 @@ memri.org
 memrijttm.org
 mepn.com
 mercari.com
+mercari.jp
 mercatox.com
 mercdn.net
 mercyprophet.org
@@ -4208,6 +4241,7 @@ mingpaovan.com
 mingshengbao.com
 minhhue.net
 miniforum.org
+miningpoolhub.com
 ministrybooks.org
 minzhuhua.net
 minzhuzhanxian.com
@@ -4285,6 +4319,7 @@ moonbingo.com
 mooo.com
 moptt.tw
 morbell.com
+moresci.sale
 morningsun.org
 moroneta.com
 morphcharts.com
@@ -4366,6 +4401,7 @@ mspairlift.com
 mspil.cn
 msra.cn
 msropendata.com
+mstdn.social
 mstea.ms
 msturing.org
 msudalosti.com
@@ -4434,6 +4470,7 @@ myftp.name
 myhomemsn.com
 myiphide.com
 myiphider.com
+myjs.tw
 mykomica.org
 mylftv.com
 mymediarom.com
@@ -4473,6 +4510,7 @@ nalandawest.org
 namgyal.org
 namgyalmonastery.org
 namsisi.com
+nanopool.org
 nanyang.com
 nanyangpost.com
 nanzao.com
@@ -4493,6 +4531,7 @@ navyreserve.navy.mil
 naweeklytimes.com
 nbcnews.com
 nbtvpn.com
+nbyy.tv
 nccwatch.org.tw
 nch.com.tw
 nchrd.org
@@ -4717,6 +4756,7 @@ o365files.cn
 o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
+o3o.ca
 oanda.com
 oann.com
 oaspapps.com
@@ -4761,6 +4801,7 @@ ok.ru
 okayfreedom.com
 okex.com
 okk.tw
+okpool.me
 okx.com
 old-cat.net
 old.honeynet.org
@@ -5073,6 +5114,7 @@ politiscales.net
 poloniex.com
 polymer-project.org
 polymerhk.com
+poolbinance.com
 poolin.com
 popai.pro
 popo.tw
@@ -5114,6 +5156,7 @@ postadult.com
 postimg.org
 posts.careerengine.us
 potato.im
+potatso.com
 potvpn.com
 pourquoi.tw
 power.com
@@ -5255,6 +5298,7 @@ qusi8.net
 qvodzy.org
 qxbbs.org
 qz.com
+r-pool.net
 r0.ru
 r10s.jp
 r18.com
@@ -5570,6 +5614,7 @@ shambalapost.com
 shambhalasun.com
 shangfang.org
 shapeservices.com
+share-videos.se
 share.america.gov
 share.dmhy.org
 share.ovi.com
@@ -5677,6 +5722,7 @@ skyvegas.com
 skyxvpn.com
 sl-reverse.com
 slacker.com
+slashine.onl
 slaytizle.com
 sleazydream.com
 sleazyfork.org
@@ -5708,6 +5754,8 @@ sneakme.net
 snowlionpub.com
 sobees.com
 soc.mil
+social.datalabour.com
+social.edu.ci
 socialblade.com
 socialwhale.com
 socks-proxy.net
@@ -5768,6 +5816,7 @@ spaces.hightail.com
 spankbang.com
 spankingtube.com
 spankwire.com
+sparkpool.com
 spatial.io
 spb.com
 speakerdeck.com
@@ -5779,6 +5828,7 @@ spencertipping.com
 spendee.com
 spicevpn.com
 spideroak.com
+spiderpool.com
 spike.com
 spoprod-a.akamaihd.net
 sports.williamhill.com
@@ -6064,6 +6114,7 @@ tensorflow.org
 tenzinpalmo.com
 terabox.com
 tew.org
+textnow.com
 textnow.me
 tfc-taiwan.org.tw
 tfhub.dev
@@ -6258,6 +6309,7 @@ tintuc101.com
 tiny.cc
 tinychat.com
 tinypaste.com
+tinyurl.com
 tipas.net
 tipo.gov.tw
 tistory.com
@@ -6279,6 +6331,8 @@ tnp.org
 to-porno.com
 togetter.com
 toh.info
+token.im
+tokenlon.im
 tokyo-247.com
 tokyo-hot.com
 tokyo-porn-tube.com
@@ -6594,6 +6648,7 @@ unity3dcloud.cn
 unix100.com
 unknownspace.org
 unlocklimitlesslearning.com
+unmineable.com
 unodedos.com
 unpo.org
 unseen.is
@@ -6650,6 +6705,7 @@ utopianpal.com
 uu-gg.com
 uujiasu.com
 uukanshu.com
+uupool.cn
 uvwxyz.xyz
 uwants.com
 uwants.net
@@ -6671,6 +6727,7 @@ uygur.fc2web.com
 uygur.org
 uymaarip.com
 v.roucdn
+v2.help
 v2ex.com
 v2fly.org
 v2mm.tech
@@ -6774,6 +6831,7 @@ voaindonesia.com
 voanews.com
 voatibetan.com
 voatibetanenglish.com
+vocaroo.com
 vocativ.com
 vocn.tv
 vocus.cc
@@ -6846,6 +6904,7 @@ vtunnel.com
 vuku.cc
 vultryhw.com
 vyprvpn.com
+w-pool.com
 w.idaiwan.com
 w.wiki
 w3schools.com
@@ -7250,6 +7309,7 @@ xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
+xnpool.com
 xnxx-cdn.com
 xnxx.com
 xpdo.net
@@ -7432,10 +7492,12 @@ zhenlibu.info
 zhenlibu1984.com
 zhenxiang.biz
 zhinengluyou.com
+zhizhu.top
 zhongguo.ca
 zhongguorenquan.org
 zhongguotese.net
 zhongmeng.org
+zhongzidi.com
 zhoushuguang.com
 zhreader.com
 zhuangbi.me
@@ -7463,6 +7525,7 @@ zonghexinwen.com
 zonghexinwen.net
 zoogvpn.com
 zoominfo.com
+zooqle.com
 zootool.com
 zoozle.net
 zophar.net
