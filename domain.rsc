@@ -1214,6 +1214,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=character.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=charticulator.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=chat.lmsys.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=chat.openai.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=chatgpt.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=chatnook.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=chaturbate.com
@@ -4880,7 +4881,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=oopsforum.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=open.com.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=open.firstory.me
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openai.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=open.spotify.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openallweb.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openbase.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendemocracy.net
