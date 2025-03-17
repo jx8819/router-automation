@@ -50,6 +50,7 @@
 2017.hk
 2021hkcharter.com
 2047.name
+2047.one
 2049bbs.xyz
 21andy.com
 21join.com
@@ -362,6 +363,7 @@ aol.ca
 aol.co.uk
 aolchannels.aol.com
 aolnews.com
+aomedia.org
 aomiwang.com
 ap.org
 apartmentratings.com
@@ -672,6 +674,7 @@ bcmorning.com
 bcrncdn.com
 bdsmvideos.net
 beaconevents.com
+bearteach.com
 bebo.com
 beeg.com
 beepool.com
@@ -1070,6 +1073,8 @@ c2cx.com
 c3pool.com
 cableav.tv
 cablegatesearch.net
+cachefly.com
+cachefly.net
 cachinese.com
 cacnw.com
 cactusvpn.com
@@ -1544,6 +1549,7 @@ cumlouder.com
 curvefish.com
 cusp.hk
 cusu.hk
+cutout.pro
 cutscenes.net
 cw.com.tw
 cws.conviva.com
@@ -2070,6 +2076,7 @@ facebookquotes4u.com
 faceless.me
 facesofnyfw.com
 facesoftibetanselfimmolators.info
+factchecklab.org
 factpedia.org
 fail.hk
 faith100.org
@@ -2132,7 +2139,6 @@ farwestchina.com
 fast.com
 fast.wistia.com
 fastestvpn.com
-fastgpt.run
 fastpic.ru
 fastssh.com
 faststone.org
@@ -2164,7 +2170,6 @@ fdc89.jp
 feedburner.com
 feeder.co
 feedly.com
-feedly.comfastgpt.run
 feeds.fileforum.com
 feedx.net
 feelssh.com
@@ -2375,6 +2380,7 @@ frootvpn.com
 froth.zone
 fscked.org
 fsurf.com
+ft.com
 ftchinese.com
 ftp1.biz
 ftpserver.biz
@@ -2503,6 +2509,7 @@ getmalus.com
 getmdl.io
 getmicrosoftkey.com
 getoutline.org
+getsession.org
 getsocialscope.com
 getsync.com
 gettr.com
@@ -4572,6 +4579,7 @@ netcolony.com
 netflav.com
 netflix.com
 netflix.net
+netlify.app
 netme.cc
 netsarang.com
 netsneak.com
@@ -5197,6 +5205,7 @@ powerphoto.org
 powershellgallery.com
 ppy.sh
 prayforchina.net
+prcleader.org
 premeforwindows7.com
 premproxy.com
 presentation.new
@@ -5835,6 +5844,7 @@ soumo.info
 soundcloud.com
 soundofhope.kr
 soundofhope.org
+soundon.fm
 soup.io
 soupofmedia.com
 sourceforge.net
@@ -6157,6 +6167,7 @@ tfc-taiwan.org.tw
 tfhub.dev
 tfiflve.com
 tfsallin.net
+tg-me.com
 tgfcer.com
 tgstat.com
 th.hao123.com
@@ -7262,6 +7273,7 @@ wzyboy.im
 x-art.com
 x-berry.com
 x-wall.org
+x.ai
 x.co
 x.com
 x.company
