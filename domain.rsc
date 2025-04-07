@@ -487,6 +487,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=audacy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=audionow.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=auntology.fandom.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=auth.openai.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=authorizeddns.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=authorizeddns.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=authorizeddns.us
@@ -4896,6 +4897,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openallweb.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openbase.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendemocracy.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendesktop.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendn.xyz
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openervpn.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openid.net

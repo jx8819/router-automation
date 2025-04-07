@@ -486,6 +486,7 @@
 /ip dns static add regexp="^(.*\\.)?audacy\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?audionow\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?auntology.fandom\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?auth.openai\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?authorizeddns\\.net\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?authorizeddns\\.org\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?authorizeddns\\.us\$" type=FWD forward-to=10.10.18.3 comment=gfw
@@ -4895,6 +4896,7 @@
 /ip dns static add regexp="^(.*\\.)?openallweb\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?openbase\\.com\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?opendemocracy\\.net\$" type=FWD forward-to=10.10.18.3 comment=gfw
+/ip dns static add regexp="^(.*\\.)?opendesktop\\.org\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?opendn\\.xyz\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?openervpn\\.in\$" type=FWD forward-to=10.10.18.3 comment=gfw
 /ip dns static add regexp="^(.*\\.)?openid\\.net\$" type=FWD forward-to=10.10.18.3 comment=gfw
