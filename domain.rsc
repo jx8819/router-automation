@@ -4672,6 +4672,10 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nicovideo.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nighost.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nightswatch.top
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nikke-en.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nikke-jp.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nikke-kr.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nikke.hotcool.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nikkei.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ninecommentaries.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ninjacloak.com
@@ -4707,6 +4711,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nordstromrack.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nordvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nos.nl
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=notebooklm.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=notepad-plus-plus.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=notify.dropboxapi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nottinghampost.com
