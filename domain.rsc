@@ -655,6 +655,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.mikocon.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.morbell.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.mychat.to
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.naixi.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.netbig.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.nyinfor.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bbs.ozchinese.com
@@ -3786,6 +3787,8 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lausan.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lbank.info
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ld.hao123img.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ldplayer.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ldplayer.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=le-vpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=leafyvpn.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lecloud.net
@@ -5548,6 +5551,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=safeguarddefenders.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=safervpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=safety.google
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sagernet.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=saintyculture.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=saiq.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sakuralive.com
@@ -6365,6 +6369,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ticket.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tigervpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tiktok.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tiktokcdn-eu.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tiktokcdn-us.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tiktokcdn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tiktokv.com
