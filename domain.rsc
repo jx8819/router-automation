@@ -4701,7 +4701,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nobel.se
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nobelprize.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nobodycanstop.us
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nodeloc.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nodeseek.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nofile.io
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nokogiri.org
@@ -5429,6 +5428,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=redchinacn.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=redd.it
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=reddit.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=reddithelp.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=redditlist.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=redditmedia.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=redditspace.com
@@ -7282,6 +7282,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.moztw.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.msn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.nbc.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.nodeloc.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.orchidbbs.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.owind.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.oxid.it
