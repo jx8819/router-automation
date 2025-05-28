@@ -4711,7 +4711,6 @@ nordstrommedia.com
 nordstromrack.com
 nordvpn.com
 nos.nl
-notebooklm.google
 notepad-plus-plus.org
 notify.dropboxapi.com
 nottinghampost.com
@@ -4912,7 +4911,6 @@ openervpn.in
 openid.net
 openleaks.org
 opensea.io
-opensource.google
 openstreetmap.org
 opentech.fund
 opentranslatorstothings.org
@@ -5011,7 +5009,6 @@ partypoker.com
 passion.com
 passiontimes.hk
 passport.net
-passwords.google
 paste.ee
 pastebin.com
 pastie.org
@@ -5128,7 +5125,6 @@ pkqjiasu.com
 pkuanvil.com
 placemix.com
 play-asia.com
-play.google
 playboy.com
 playboyplus.com
 player.fm
@@ -6555,7 +6551,6 @@ tushycash.com
 tuvpn.com
 tuzaijidi.com
 tv.com
-tv.google
 tv.jtbc.joins.com
 tvants.com
 tvboxnow.com

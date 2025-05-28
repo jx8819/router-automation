@@ -4713,7 +4713,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nordstromrack.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nordvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nos.nl
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=notebooklm.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=notepad-plus-plus.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=notify.dropboxapi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nottinghampost.com
@@ -4914,7 +4913,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openid.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openleaks.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opensea.io
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opensource.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openstreetmap.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opentech.fund
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opentranslatorstothings.org
@@ -5013,7 +5011,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=passion.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=passiontimes.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=passport.net
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=passwords.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=paste.ee
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pastebin.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pastie.org
@@ -5130,7 +5127,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pkuanvil.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=placemix.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=play-asia.com
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=play.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=playboy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=playboyplus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=player.fm
@@ -6557,7 +6553,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tuvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tuzaijidi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tv.com
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tv.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tv.jtbc.joins.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tvants.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tvboxnow.com
