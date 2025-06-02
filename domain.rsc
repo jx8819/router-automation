@@ -805,6 +805,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bl-doujinsouko.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=blacked.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=blacklogic.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=blackmagicdesign.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=blackvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=blazor.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=blewpass.com
@@ -1540,6 +1541,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ct.org.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctao.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctfriend.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctinews.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctitv.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctowc.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cts.com.tw
@@ -5534,9 +5536,15 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1.nudezz.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1heng.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1s1s1.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3-ap-northeast-1.amazonaws.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3-ap-northeast-2.amazonaws.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3-ap-southeast-1.amazonaws.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3-ap-southeast-2.amazonaws.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3-eu-central-1.amazonaws.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3.amazonaws.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3.ap-northeast-2.amazonaws.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3.eu-central-1.amazonaws.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3.us-east-1.amazonaws.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s8forum.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sa.hao123.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sacks.com
