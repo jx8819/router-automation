@@ -145,6 +145,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=9.rarbg.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=9001700.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=908taiwan.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=91dasai.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=91porn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=91porny.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=91vps.club
@@ -1165,6 +1166,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdjp.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdn-images.mailchimp.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdn-telegram.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdn.arstechnica.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdn.assets.lfpcontent.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdn.helixstudios.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cdn.jwplayer.com
@@ -1340,6 +1342,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=churchinhongkong.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=chushigangdrug.ch
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ci-en.jp
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cici.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ciciai.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cienen.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cineastentreff.de
@@ -1446,6 +1449,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=codeskulptor.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=codethemicrobit.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cofacts.tw
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=coffeemanga.to
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=coin2co.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=coinbase.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=coinbene.com
