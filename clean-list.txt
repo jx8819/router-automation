@@ -234,6 +234,7 @@ ai-wen.net
 ai.binwang.me
 ai.com
 ai.google
+ai.google.dev
 aicscience.com
 aiosearch.com
 aiph.net
@@ -243,6 +244,7 @@ airitilibrary.com
 airvpn.org
 aisex.com
 aiss.anws.gov.tw
+aistudio.google.com
 ait.org.tw
 aiv-cdn.net
 aiv-cdn.net.c.footprint.net
@@ -269,6 +271,7 @@ alicejapan.co.jp
 aliengu.com
 alive.bar
 aljazeera.com
+alkalicore-pa.clients6.google.com
 alkasir.com
 all4mom.org
 allcoin.com
@@ -375,6 +378,7 @@ api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
 api.dropboxapi.com
+api.github.com
 api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
@@ -618,6 +622,7 @@ bannedbook.org
 bannednews.org
 banorte.com
 baramangaonline.com
+bard.google.com
 barenakedislam.com
 barnabu.co.uk
 bartender.dowjones.com
@@ -1209,6 +1214,7 @@ chaos.social
 chapm25.com
 character.ai
 charticulator.com
+chat.com
 chat.lmsys.org
 chatgpt.com
 chatnook.com
@@ -1370,6 +1376,7 @@ cling.omy.sg
 clinica-tibet.ru
 clipchamp.com
 clipconverter.cc
+clipdrop.co
 clipfish.de
 clips4sale.com
 cloakpoint.com
@@ -1649,6 +1656,7 @@ decodet.co
 deepai.org
 deepdiscount.com
 deepmind.com
+deepmind.google
 deezer.com
 definebabe.com
 deja.com
@@ -1685,6 +1693,7 @@ diaoyuislands.org
 dictate.ms
 dictionary.goo.ne.jp
 difangwenge.org
+dify.ai
 digiland.tw
 digisfera.com
 digitalnomadsproject.org
@@ -2441,6 +2450,7 @@ gartlive.com
 gate-project.com
 gate.io
 gatecoin.com
+gateway.ai.cloudflare.com
 gather.com
 gatherproxy.com
 gati.org.tw
@@ -2470,7 +2480,11 @@ geekerhome.com
 geekheart.info
 gekikame.com
 gelbooru.com
+geller-pa.googleapis.com
+gemini.google.com
 generated.photos
+generativeai.google
+generativelanguage.googleapis.com
 genius.com
 geocities.co.jp
 geocities.com
@@ -2914,6 +2928,7 @@ greenvpn.net
 greenvpn.org
 grindr.com
 grok.com
+groq.com
 grotty-monday.com
 ground.news
 groupme.com
@@ -3517,6 +3532,7 @@ janwongphoto.com
 japan-whores.com
 japanhdv.com
 japantimes.co.jp
+jasper.ai
 jav.com
 jav101.com
 jav321.com
@@ -3609,6 +3625,7 @@ jubushoushen.com
 judicial.gov.tw
 juhuaren.com
 jukujo-club.com
+jules.google.com
 juliepost.com
 juliereyc.com
 junauza.com
@@ -3951,6 +3968,7 @@ maiplus.com
 maizhong.org
 makecode.org
 makemymood.com
+makersuite.google.com
 makkahnewspaper.com
 malaysiakini.com
 mamingzhe.com
@@ -4067,6 +4085,7 @@ merlinblog.xyz
 meshrep.com
 mesotw.com
 messenger.com
+meta.ai
 meta.com
 metacafe.com
 metafilter.com
@@ -4688,6 +4707,8 @@ nordstrommedia.com
 nordstromrack.com
 nordvpn.com
 nos.nl
+notebooklm.google
+notebooklm.google.com
 notepad-plus-plus.org
 notify.dropboxapi.com
 nottinghampost.com
@@ -4774,6 +4795,7 @@ o365weve-dev.com
 o365weve-ppe.com
 o365weve.com
 o3o.ca
+oaistatic.com
 oanda.com
 oann.com
 oaspapps.com
@@ -4878,6 +4900,7 @@ open.com.hk
 open.firstory.me
 openai.com
 openallweb.com
+openart.ai
 openbase.com
 opendemocracy.net
 opendn.xyz
@@ -5212,6 +5235,7 @@ privatepaste.com
 privatetunnel.com
 privatevpn.com
 privoxy.org
+proactivebackend-pa.googleapis.com
 procopytips.com
 prod-video-cms-rt-microsoft-com.akamaized.net
 project-syndicate.org
@@ -5827,6 +5851,7 @@ sonicbbs.cc
 sonidodelaesperanza.org
 sopcast.com
 sopcast.org
+sora.com
 sorazone.net
 sorting-algorithms.com
 sos.org
