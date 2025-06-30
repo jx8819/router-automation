@@ -3379,6 +3379,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img-s-msn-com.akamaized.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img.dlsite.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img.ly
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img.picgo.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=imgasd.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=imgchili.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=imgmega.com
@@ -5363,6 +5364,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radioline.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiovaticana.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiovncr.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radmin-vpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=rael.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=raggedbanner.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=raidcall.com.tw
