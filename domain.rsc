@@ -1776,6 +1776,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=donmai.us
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dontfilter.us
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dontmovetochina.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=doom9.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=doosho.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=doourbest.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dorjeshugden.com
