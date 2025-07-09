@@ -1881,6 +1881,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=e-traderland.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=e-zone.com.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=e123.hk
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=e621.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=earlytibet.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=earthcam.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=earthvpn.com
