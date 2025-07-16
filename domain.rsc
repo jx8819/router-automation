@@ -7282,6 +7282,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.thechinastory.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.wan-press.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.websnapr.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.xicons.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www.zensur.freerk.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www1.american.edu
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=www1.biz
