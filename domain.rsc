@@ -3931,6 +3931,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lsxszzg.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ltn.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=luckydesigner.space
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ludepress.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=luke54.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=luke54.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lupm.org
@@ -7437,6 +7438,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yandex.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yanghengjun.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yangjianli.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yangzhi.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yasni.co.uk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yasukuni.or.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yayabay.com
