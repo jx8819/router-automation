@@ -6990,6 +6990,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wailaike.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wainao.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=waiwaier.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=walletconnect.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallmama.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallornot.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallpapercasa.com
