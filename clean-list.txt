@@ -5104,6 +5104,7 @@ openallweb.com
 openart.ai
 openbase.com
 opendemocracy.net
+opendesktop.org
 opendn.xyz
 openervpn.in
 openid.net
@@ -6203,7 +6204,6 @@ statics-marketingsites-eas-ms-com.akamaized.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-neu-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
-stats.wp.com
 statsig.com
 statueofdemocracy.org
 stboy.net

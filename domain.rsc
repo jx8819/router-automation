@@ -5106,6 +5106,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openart.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openbase.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendemocracy.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendesktop.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opendn.xyz
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openervpn.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openid.net
@@ -6205,7 +6206,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=statics-marketingsites-eus-ms-com.akamaized.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=statics-marketingsites-neu-ms-com.akamaized.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=statics-marketingsites-wcus-ms-com.akamaized.net
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stats.wp.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=statsig.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=statueofdemocracy.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stboy.net
