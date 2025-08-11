@@ -1702,6 +1702,7 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,ttwebview.com
   ## > TVB
   - DOMAIN-SUFFIX,bigbigchannel.com.hk

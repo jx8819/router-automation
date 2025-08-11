@@ -1426,6 +1426,7 @@ cloud.dify.ai
 cloud.mail.ru
 cloudapp.net
 cloudappsecurity.com
+cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare.com
 cloudfront.net
@@ -4199,6 +4200,7 @@ matters.town
 matthewdgreen.wordpress.com
 mattwilcox.net
 maturejp.com
+maven.neoforged.net
 maxai.co
 maxing.jp
 mayimayi.com
@@ -7004,6 +7006,7 @@ unstable.icu
 untraceable.us
 unwire.hk
 uocn.org
+upbit.com
 updates.tdesktop.com
 upghsbc.com
 upholdjustice.org
@@ -7551,7 +7554,6 @@ www.monlamit.org
 www.moztw.org
 www.msn.com
 www.nbc.com
-www.nodeloc.com
 www.orchidbbs.com
 www.owind.com
 www.oxid.it
