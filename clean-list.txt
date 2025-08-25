@@ -1540,6 +1540,7 @@ costco.com
 cotweet.com
 counter.social
 coursehero.com
+covenantswatch.org.tw
 coze.com
 cpj.org
 cpu-monkey.com
@@ -2457,6 +2458,8 @@ ftvnews.com.tw
 ftx.com
 fucd.com
 fuchsia.dev
+fuckccp.com
+fuckccp.xyz
 fuckcnnic.net
 fuckgfw.org
 fulione.com
@@ -3663,6 +3666,7 @@ itemdb.com
 itemfix.com
 ithelp.ithome.com.tw
 ithome.com.tw
+itiger.com
 itsaol.com
 itshidden.com
 itsky.it
@@ -6978,6 +6982,7 @@ udn.com
 udn.com.tw
 udnbkk.com
 udndata.com
+udomain.hk
 uforadio.com.tw
 ufreevpn.com
 ugo.com
