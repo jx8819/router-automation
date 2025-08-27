@@ -1548,6 +1548,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cpu-monkey.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cq99.us
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=crackle.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=crashlytics.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=crazypool.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=crazys.cc
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=crazyshit.com
@@ -4530,6 +4531,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mohu.club
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mohu.ml
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mohu.rocks
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=moj.gov.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mojang.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mojim.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mol.gov.tw

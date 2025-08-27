@@ -1546,6 +1546,7 @@ cpj.org
 cpu-monkey.com
 cq99.us
 crackle.com
+crashlytics.com
 crazypool.org
 crazys.cc
 crazyshit.com
@@ -4528,6 +4529,7 @@ mog.com
 mohu.club
 mohu.ml
 mohu.rocks
+moj.gov.tw
 mojang.com
 mojim.com
 mol.gov.tw
