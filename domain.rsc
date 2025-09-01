@@ -113,6 +113,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5278.cc
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5299.tv
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=55comic.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5657.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=56cun04.jigsy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5aimiku.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5i01.com
@@ -129,6 +130,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=666kb.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=666pool.cn
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=69shu.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=69shuba.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=69shuba.cx
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=6do.news
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=6do.world
@@ -3711,6 +3713,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javakiba.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javbus.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javbus.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javbus.sbs
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javdb.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javfinder.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javfor.me
@@ -3909,6 +3912,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=kpkuang.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=kqes.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=kraken.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=krtc.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=krtco.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ksdl.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ksnews.com.tw
@@ -7750,6 +7754,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yahoo.com.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yahoo.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yahoo.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yahooinc.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yahoosandbox.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yakbutterblues.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yam.com
