@@ -1046,6 +1046,8 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bsky.network
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bsky.social
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bt2mag.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bt4g.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bt4gprx.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bt95.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btaia.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btbit.net
@@ -3619,6 +3621,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=iphonetaiwan.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=iphonix.fr
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ipicture.ru
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ipify.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ipinfo.io
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ipjetable.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ipobar.com
@@ -6405,6 +6408,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tanc.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tangben.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tangren.us
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tanks.gg
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taoism.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taolun.info
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tapanwap.com
