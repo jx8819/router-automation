@@ -2757,6 +2757,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.cl
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.cm
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.cn
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.co.ao
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.co.bw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=google.co.ck
@@ -4241,6 +4242,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcchcdn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcfog.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcreasite.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcusercontent.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=md-t.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=me.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=me.ns.ci
@@ -4319,6 +4321,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mgstage.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mh4u.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mhradio.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=miami-airport.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=michaelmarketl.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=microbit.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=microsoft
@@ -6409,6 +6412,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwanyes.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwanyes.ning.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=talk853.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=talkatone.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=talkboxapp.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=talkcc.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=talkonly.net
