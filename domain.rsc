@@ -1066,6 +1066,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btguard.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btku.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btku.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btloader.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btspread.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=btsynckeys.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=budaedu.org
