@@ -190,6 +190,7 @@ abematv.akamaized.net
 abitno.linpie.com
 ablwang.com
 aboluowang.com
+about.gitlab.com
 about.google
 about.me
 abplive.com
@@ -2536,6 +2537,7 @@ gaozhisheng.org
 gardennetworks.com
 gardennetworks.org
 gartlive.com
+garudalinux.org
 gate-project.com
 gate.io
 gatecoin.com
@@ -4909,6 +4911,7 @@ ninjacloak.com
 ninjaproxy.ninja
 nintendium.com
 ninth.biz
+nirsoft.net
 nitter.cc
 nitter.net
 niu.moe
@@ -6296,6 +6299,7 @@ strongvpn.com
 strongwindpress.com
 student.tw
 studentsforafreetibet.org
+studybuddhism.com
 stumbleupon.com
 stupidvideos.com
 stweetly.com
@@ -7288,6 +7292,7 @@ vpnvip.com
 vpnworldwide.com
 vporn.com
 vpser.net
+vpsxb.net
 vraiesagesse.net
 vrchat.com
 vrmtr.com

@@ -192,6 +192,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=abitno.linpie.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ablwang.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aboluowang.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=about.gitlab.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=about.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=about.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=abplive.com
@@ -2538,6 +2539,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gardennetworks.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gardennetworks.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gartlive.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=garudalinux.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gate-project.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gate.io
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gatecoin.com
@@ -4911,6 +4913,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ninjaproxy.ninja
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nintendium.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ninth.biz
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nirsoft.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nitter.cc
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nitter.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=niu.moe
@@ -6298,6 +6301,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=strongwindpress.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=student.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=studentsforafreetibet.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=studybuddhism.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stumbleupon.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stupidvideos.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stweetly.com
@@ -7290,6 +7294,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vpnworldwide.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vporn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vpser.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vpsxb.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vraiesagesse.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vrchat.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=vrmtr.com
