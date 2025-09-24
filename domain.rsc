@@ -405,6 +405,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.dropboxapi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.github.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.jetbrains.ai
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.palworldgame.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.proxlet.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.pureapk.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.recaptcha.net
@@ -1595,6 +1596,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ct.org.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctao.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctfriend.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctinets.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctinews.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctitv.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ctowc.org
@@ -3610,6 +3612,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=internetexplorer.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=internetfreedom.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=internetpopculture.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=interseclab.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=inthenameofconfuciusmovie.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=intunewiki.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=investigating.wordpress.com
@@ -5053,6 +5056,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ocry.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ocsp.int-x3.letsencrypt.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=october-review.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=octocaptcha.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=oculus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=oculuscdn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=odysee.com
