@@ -2577,6 +2577,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gelbooru.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=geller-pa.googleapis.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gemini.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gemini.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gemini.google.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=generated.photos
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=generativeai.google
@@ -7469,6 +7470,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikimedia.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikinews.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikipedia-on-ipfs.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikipedia.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikipedia.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikiquote.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wikisource.org

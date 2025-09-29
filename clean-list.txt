@@ -2575,6 +2575,7 @@ gekikame.com
 gelbooru.com
 geller-pa.googleapis.com
 gemini.com
+gemini.google
 gemini.google.com
 generated.photos
 generativeai.google
@@ -7467,6 +7468,7 @@ wikimapia.org
 wikimedia.org
 wikinews.org
 wikipedia-on-ipfs.org
+wikipedia.com
 wikipedia.org
 wikiquote.org
 wikisource.org
