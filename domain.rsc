@@ -1120,6 +1120,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cachefly.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cachefly.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cachinese.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cacnews.ca
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cacnw.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cactusvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cafepress.com
