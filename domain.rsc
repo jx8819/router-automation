@@ -544,6 +544,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avmoo.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avmoo.pw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avoision.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avple.tv
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avyahoo.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=axios.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=axureformac.com
@@ -6100,6 +6101,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=solarsystem.nasa.gov
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=solidaritetibet.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=solidfiles.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=solscan.io
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=solv.finance
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=somee.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=songjianjun.com

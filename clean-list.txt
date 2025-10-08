@@ -542,6 +542,7 @@ avmoo.com
 avmoo.net
 avmoo.pw
 avoision.com
+avple.tv
 avyahoo.com
 axios.com
 axureformac.com
@@ -6098,6 +6099,7 @@ solana.com
 solarsystem.nasa.gov
 solidaritetibet.org
 solidfiles.com
+solscan.io
 solv.finance
 somee.com
 songjianjun.com
