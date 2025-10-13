@@ -264,6 +264,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=airconsole.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=airitilibrary.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=airvpn.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aisandbox-pa.googleapis.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aisex.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aiss.anws.gov.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aistudio.google.com
@@ -2412,6 +2413,8 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freefq.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freefuckvids.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freegao.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freegpt.es
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freegpt.tech
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freehongkong.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freeilhamtohti.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=freekazakhs.org
@@ -3513,6 +3516,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img.dlsite.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img.ly
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img.picgo.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=img2go.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=imgasd.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=imgchili.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=imgmega.com
@@ -5712,6 +5716,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=rmjdw.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=rmjdw132.info
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=roadshow.hk
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=robinfrontend-pa.googleapis.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=roboforex.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=robustnessiskey.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=rocket-inc.net
