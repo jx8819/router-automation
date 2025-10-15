@@ -246,6 +246,7 @@ afreecatv.com
 agemys.net
 aggresmart.com
 agnesb.fr
+agnss.goog
 agoogleaday.com
 agro.hk
 ai-kan.net
@@ -485,6 +486,7 @@ asia-gaming.com
 asiaharvest.org
 asianage.com
 asianews.it
+asianfanfics.com
 asiansexdiary.com
 asianspiss.com
 asianwomensfilm.de
@@ -755,6 +757,10 @@ bewww.net
 beyondfirewall.com
 bfnn.org
 bfsh.hk
+bg-call-donation-alpha.goog
+bg-call-donation-canary.goog
+bg-call-donation-dev.goog
+bg-call-donation.goog
 bgme.me
 bgvpn.com
 bianlei.com
@@ -1088,6 +1094,7 @@ business-humanrights.org
 business.page
 business.site
 businessinsider.com
+businessmessages.google
 businesstoday.com.tw
 businessweek.com
 businessweekly.com.tw
@@ -1449,6 +1456,7 @@ cloudflare.com
 cloudfront.net
 cloudfunctions.net
 cloudokyo.cloud
+cloudpartnerservices.goog
 club1069.com
 clubhouseapi.com
 clyp.it
@@ -1793,6 +1801,7 @@ disp.cc
 disqus.com
 dit-inc.us
 ditu.live.com
+diversity.google
 diyin.org
 dizhidizhi.com
 dizhuzhishang.com
@@ -2041,6 +2050,9 @@ englishfromengland.co.uk
 englishpen.org
 enlighten.org.tw
 entermap.com
+enterprisedemo-google.com
+enterprisedemogoogle.org
+enterprisemarketingportal.google
 entnt.com
 environment.google
 epac.to
@@ -2191,6 +2203,7 @@ faluninfo.de
 faluninfo.net
 falunpilipinas.net
 falunworld.net
+families.google
 familyfed.org
 famunion.com
 fan-qiang.com
@@ -2708,6 +2721,7 @@ godsdirectcontact.org
 godsdirectcontact.org.tw
 godsimmediatecontact.com
 gofundme.com
+gogle.com
 gogle.de
 gogole.com
 gogotunnel.com
@@ -2742,6 +2756,7 @@ goodtv.com.tw
 goodtv.tv
 goofind.com
 googel.de
+googl.com
 google-analytics.com
 google-base.de
 google.ad
@@ -3358,7 +3373,6 @@ https443.net
 https443.org
 hua-yue.net
 huaglad.com
-huaibinmall.com
 huanghuagang.org
 huangyiyu.com
 huaren.us
@@ -3578,6 +3592,7 @@ intunewiki.com
 investigating.wordpress.com
 invidio.us
 inxian.com
+io.google
 iotinactionevents.com
 iownyour.biz
 iownyour.org
@@ -3914,6 +3929,7 @@ kzeng.info
 la-forum.org
 lab.skk.moe
 labiennale.org
+labs.google
 ladbrokes.com
 lagranepoca.com
 lala.im
@@ -5120,6 +5136,7 @@ openervpn.in
 openid.net
 openleaks.org
 opensea.io
+opensource.google
 openstreetmap.org
 opentech.fund
 opentranslatorstothings.org
@@ -5570,6 +5587,7 @@ qstatus.com
 qtrac.eu
 qtweeter.com
 quannengshen.org
+quantumai.google
 quantumbooter.net
 questvisual.com
 quitccp.net
@@ -5923,6 +5941,7 @@ shanxivideo.com
 shapeservices.com
 share-videos.se
 share.america.gov
+share.google
 share.ovi.com
 share.youthwant.com.tw
 sharebee.com
@@ -5986,6 +6005,7 @@ simplecd.org
 simpleproductivityblog.com
 simpleswap.io
 simplex.chat
+simtransfer.goog
 sina.com.hk
 sinchew.com.my
 singaporepools.com.sg
@@ -6025,6 +6045,7 @@ sjum.cn
 sketchappsources.com
 skimresources.com
 skimtube.com
+skintone.google
 skybet.com
 skyhook.sonarr.tv
 skyking.com.tw
@@ -6177,6 +6198,7 @@ sqlserveronlinux.com
 squirly.info
 squirrelvpn.com
 srcf.ucam.org
+sre.google
 srocket.us
 ss-link.com
 ss.levyhsu.com
@@ -6261,7 +6283,6 @@ streamable.com
 streamate.com
 streamingthe.net
 streema.com
-striek.com
 strikingly.com
 stripe.com
 strongvpn.com
@@ -6333,6 +6354,7 @@ sylfoundation.org
 synapse.org
 syncback.com
 syncshop.cn
+syndicatedsearch.goog
 synergyse.com
 syosetu.com
 sysinternals.com
@@ -6779,6 +6801,7 @@ truenas.com
 truesocial.media
 trulyergonomic.com
 trustcenter.cn
+trustwallet.com
 truth101.co.tv
 truthontour.org
 truthsocial.com
@@ -6846,6 +6869,7 @@ tushycash.com
 tuvpn.com
 tuzaijidi.com
 tv.com
+tv.google
 tv.jtbc.joins.com
 tvants.com
 tvboxnow.com
@@ -7858,6 +7882,7 @@ z-lib.gd
 z-lib.gl
 z-lib.io
 z-lib.org
+z-library.ec
 z-library.sk
 zacebook.com
 zalmos.com
@@ -7870,6 +7895,7 @@ zapto.org
 zattoo.com
 zb.com
 zdnet.com.tw
+zdns.google
 zello.com
 zengjinyan.org
 zenmate.com
