@@ -1857,6 +1857,7 @@ doc.new
 docker.com
 docker.io
 dockerhub.com
+dockerstatus.com
 docs.cfw.lbyczf.com
 docs.com
 docs.deno.com
@@ -5117,6 +5118,7 @@ old-cat.net
 old.honeynet.org
 olehdtv.com
 olelive.com
+olemovienews.com
 olevod.com
 olumpo.com
 olympicwatch.org

@@ -1859,6 +1859,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docker.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docker.io
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dockerhub.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dockerstatus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.cfw.lbyczf.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.deno.com
@@ -5119,6 +5120,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=old.honeynet.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olehdtv.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olelive.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olemovienews.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olevod.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olumpo.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olympicwatch.org
