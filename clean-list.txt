@@ -180,6 +180,7 @@ a771.dscq.akamai.net
 aadrm.cn
 aadrm.com
 aamacau.com
+aastocks.com
 abc.com
 abc.net.au
 abc.pp.ru
@@ -257,6 +258,7 @@ ai.google
 ai.google.dev
 ai.ls
 aicscience.com
+aida.googleapis.com
 aiosearch.com
 aiph.net
 airasia.com
@@ -1398,6 +1400,7 @@ chrome.com
 chromecast.com
 chromeenterprise.google
 chromeexperiments.com
+chromeos.google
 chromercise.com
 chromestatus.com
 chromium.org
@@ -1464,6 +1467,7 @@ cloud.dify.ai
 cloud.mail.ru
 cloudapp.net
 cloudappsecurity.com
+cloudcode-pa.googleapis.com
 cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare.com
@@ -2779,6 +2783,7 @@ goodreaders.com
 goodreads.com
 goodtv.com.tw
 goodtv.tv
+goody25.com
 goofind.com
 googel.de
 googl.com
@@ -3177,6 +3182,7 @@ hdinsightservices.cn
 hdlt.me
 hdtvb.net
 hdzog.com
+health.google
 heartyit.com
 heavy-r.com
 hec.su
@@ -3302,6 +3308,7 @@ hkjp.org
 hklft.com
 hklts.org.hk
 hkmap.live
+hkong.hk
 hkopentv.com
 hkpeanut.com
 hkptu.org
@@ -4527,6 +4534,7 @@ mirrorbooks.com
 mirrormedia.com.tw
 mirrormedia.mg
 mirrormediagroup.com
+missav.ai
 missav.com
 missav.ws
 mist.vip
@@ -5408,6 +5416,7 @@ pkqjiasu.com
 pkuanvil.com
 placemix.com
 play-asia.com
+play.google
 playbeasts.com
 playboy.com
 playboyplus.com
@@ -5426,6 +5435,7 @@ plus28.com
 plusbb.com
 pmatehunter.com
 pmates.com
+po18.tw
 po2b.com
 pobieramy.top
 podbean.com
@@ -6049,6 +6059,7 @@ shwchurch3.com
 siddharthasintent.org
 sidelinesnews.com
 sidelinessportseatery.com
+sidewalklabs.com
 sierrafriendsoftibet.org
 signal.org
 signalr.net
@@ -6407,6 +6418,7 @@ sway-cdn.com
 sway-extensions.com
 sway.com
 swbusdev.com
+swiffy.co.za
 swissinfo.ch
 swissvpn.net
 switch1.jp
@@ -6560,6 +6572,7 @@ telesco.pe
 tellapart.com
 tellme.pw
 tellmewhygame.com
+temu.com
 tenacy.com
 tenor.com
 tensorflow.org
@@ -7225,6 +7238,7 @@ vaticannews.va
 vatn.org
 vcf-online.org
 vcfbuilder.org
+vct.news
 vds.rightster.com
 vegas.williamhill.com
 vegasred.com
@@ -7503,6 +7517,7 @@ whats.new
 whatsapp.com
 whatsapp.net
 whatsonweibo.com
+whcdn.net
 wheatseeds.org
 wheelockslatin.com
 whereiswerner.com
