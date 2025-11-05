@@ -442,6 +442,9 @@ appbrain.com
 appcenter.ms
 appdefensealliance.dev
 appdownloader.net
+apple-relay.apple.com
+apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
@@ -1585,6 +1588,8 @@ counter.social
 coursehero.com
 covenantswatch.org.tw
 coze.com
+cp2.cloudflare.com
+cp4.cloudflare.com
 cpj.org
 cpu-monkey.com
 cq99.us
@@ -3123,6 +3128,7 @@ gunsandammo.com
 guo.media
 guruonline.hk
 gutteruncensored.com
+guzzoni.apple.com
 gvideo.de
 gvlib.com
 gvm.com.tw
@@ -6155,6 +6161,7 @@ smh.com.au
 smhric.org
 smith.edu
 smn.news
+smoot.apple.com
 smyxy.org
 snapchat.com
 snapseed.com
