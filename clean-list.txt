@@ -256,6 +256,7 @@ ai-kan.net
 ai-wen.net
 ai.binwang.me
 ai.com
+ai.dev
 ai.google
 ai.google.dev
 ai.ls
@@ -383,6 +384,7 @@ anthonycalzadilla.com
 anthropic.com
 anti1984.com
 antichristendom.com
+antigravity.google
 antisocial.science
 antiwave.net
 antpool.com
@@ -1479,6 +1481,7 @@ cloudcode-pa.googleapis.com
 cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare.com
+cloudflarestatus.com
 cloudfront.net
 cloudfunctions.net
 cloudokyo.cloud
@@ -3188,6 +3191,7 @@ hautelookcdn.com
 have8.com
 hbg.com
 hbo.com
+hbomax.com
 hcaptcha.com
 hclips.com
 hd.stheadline.com
@@ -3485,6 +3489,7 @@ i-part.com.tw
 i-scmp.com
 i.111666.best
 i.lithium.com
+i.mij.rip
 i1.hk
 i2p2.de
 i2runner.com
@@ -4571,6 +4576,7 @@ mixx.com
 mizzmona.com
 mjib.gov.tw
 mjj.rip
+mjj.today
 mjlsh.usc.cuhk.edu.hk
 mk5000.com
 mlc.ai
