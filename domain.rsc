@@ -1458,6 +1458,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=class.tn.edu.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=classicalguitarblog.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=claude.ai
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=claude.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=clb.org.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cldr.unicode.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cleansite.biz
@@ -4035,6 +4036,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ldplayer.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=le-vpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=leafyvpn.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=league-funny.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=learning.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lecloud.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ledger.com

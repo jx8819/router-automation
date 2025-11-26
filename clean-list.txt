@@ -1456,6 +1456,7 @@ clarionproject.org
 class.tn.edu.tw
 classicalguitarblog.net
 claude.ai
+claude.com
 clb.org.hk
 cldr.unicode.org
 cleansite.biz
@@ -4033,6 +4034,7 @@ ldplayer.net
 ldplayer.tw
 le-vpn.com
 leafyvpn.net
+league-funny.com
 learning.google
 lecloud.net
 ledger.com
