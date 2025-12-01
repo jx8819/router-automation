@@ -8052,6 +8052,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zannel.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zaobao.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zaobao.com.sg
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zaochenbao.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zaozon.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zapto.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zattoo.com
