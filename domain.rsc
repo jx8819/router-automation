@@ -390,6 +390,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=antisocial.science
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=antiwave.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=antpool.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=anuneko.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=anyporn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=anysex.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ao3.org
@@ -3799,6 +3800,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jfqu36.club
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jfqu37.xyz
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jgoodies.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jhelab.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jiangweiping.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jiaoyou8.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=jiehua.cz
@@ -5488,6 +5490,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=podcast.app
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=podcast.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=podictionary.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=podwise.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=poe.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=points-media.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pokerstars.com
@@ -5720,9 +5723,11 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiko.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radio-canada.ca
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radio-en-ligne.fr
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radio.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radio.garden
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radioaustralia.net.au
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiohilight.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiojar.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radioline.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiovaticana.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=radiovncr.com
