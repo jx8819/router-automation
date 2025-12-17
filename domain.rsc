@@ -5238,6 +5238,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openervpn.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openid.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openleaks.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openrouter.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opensea.io
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=opensource.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=openstreetmap.org
