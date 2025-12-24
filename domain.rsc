@@ -3119,6 +3119,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=greenvpn.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=grindr.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=grok.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=grokipedia.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=groq.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=grotty-monday.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ground.news

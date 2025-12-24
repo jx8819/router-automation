@@ -3118,6 +3118,7 @@ payload:
   - '+.greenvpn.org'
   - '+.grindr.com'
   - '+.grok.com'
+  - '+.grokipedia.com'
   - '+.groq.com'
   - '+.grotty-monday.com'
   - '+.ground.news'
