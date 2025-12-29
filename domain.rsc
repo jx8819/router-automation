@@ -1884,7 +1884,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dockerstatus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.cfw.lbyczf.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.com
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.deno.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=docs.new
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=doctorvoice.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=documentingreality.com
@@ -3716,6 +3715,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ismprofessional.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=isohunt.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=israbox.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=issues.chromium.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=issuu.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=istars.co.nz
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=istef.info

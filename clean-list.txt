@@ -1882,7 +1882,6 @@ dockerhub.com
 dockerstatus.com
 docs.cfw.lbyczf.com
 docs.com
-docs.deno.com
 docs.new
 doctorvoice.org
 documentingreality.com
@@ -3714,6 +3713,7 @@ ismalltits.com
 ismprofessional.net
 isohunt.com
 israbox.com
+issues.chromium.org
 issuu.com
 istars.co.nz
 istef.info
