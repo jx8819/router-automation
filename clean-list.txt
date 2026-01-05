@@ -384,6 +384,7 @@ anthonycalzadilla.com
 anthropic.com
 anti1984.com
 antichristendom.com
+antigravity-unleash.goog
 antigravity.google
 antisocial.science
 antiwave.net
@@ -1694,6 +1695,7 @@ daftporn.com
 dagelijksestandaard.nl
 daidostup.ru
 dailidaili.com
+daily-cloudcode-pa.googleapis.com
 dailymail.co.uk
 dailymotion.com
 dailynews.sina.com
@@ -1745,6 +1747,7 @@ dawangidc.com
 daxa.cn
 dayabook.com
 daylife.com
+dazn.com
 db.tt
 dbc.hk
 dbgjd.com
@@ -5229,6 +5232,8 @@ onmypc.us
 onthehunt.com
 ontrac.com
 oojj.de
+ooni.io
+ooni.org
 oopsforum.com
 open-assistant.io
 open.com.hk
@@ -5377,6 +5382,7 @@ pct.org.tw
 pdetails.com
 pdproxy.com
 pds.nasa.gov
+pdst.fm
 peace.ca
 peacefire.org
 peacehall.com
@@ -5442,14 +5448,23 @@ pinkrod.com
 pinoy-n.com
 pinterest.at
 pinterest.ca
+pinterest.cl
 pinterest.co.kr
 pinterest.co.uk
 pinterest.com
+pinterest.com.au
+pinterest.com.mx
 pinterest.de
 pinterest.dk
+pinterest.es
 pinterest.fr
+pinterest.ie
+pinterest.it
 pinterest.jp
 pinterest.nl
+pinterest.nz
+pinterest.ph
+pinterest.pt
 pinterest.se
 pioneer-worker.forums-free.com
 pionex.com
@@ -7217,6 +7232,7 @@ unstable.icu
 untraceable.us
 unwire.hk
 uocn.org
+up.audio
 upbit.com
 updates.tdesktop.com
 upghsbc.com
@@ -7839,6 +7855,7 @@ xboxstudios.com
 xbtce.com
 xbx.lv
 xcafe.in
+xcancel.com
 xchina.co
 xcity.jp
 xcritic.com
