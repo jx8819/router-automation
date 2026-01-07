@@ -262,6 +262,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ai.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ai.google.dev
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ai.ls
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ai.studio
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aicscience.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aida.googleapis.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aiosearch.com
@@ -3718,7 +3719,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ismprofessional.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=isohunt.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=israbox.com
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=issues.chromium.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=issuu.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=istars.co.nz
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=istef.info

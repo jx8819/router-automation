@@ -260,6 +260,7 @@ ai.dev
 ai.google
 ai.google.dev
 ai.ls
+ai.studio
 aicscience.com
 aida.googleapis.com
 aiosearch.com
@@ -3716,7 +3717,6 @@ ismalltits.com
 ismprofessional.net
 isohunt.com
 israbox.com
-issues.chromium.org
 issuu.com
 istars.co.nz
 istef.info
