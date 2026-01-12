@@ -2579,6 +2579,7 @@ fzlm.com
 g-area.org
 g-desktop.ru
 g-queen.com
+g.ai
 g.akamaiedge.net
 g.co
 g.kfd.me
@@ -2727,6 +2728,7 @@ githubassets.com
 githubcopilot.com
 githubmemory.com
 githubusercontent.com
+gitlab.com
 gitlab.net
 gitmemory.com
 gizlen.net

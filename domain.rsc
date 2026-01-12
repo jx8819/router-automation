@@ -2581,6 +2581,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g-area.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g-desktop.ru
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g-queen.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g.akamaiedge.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=g.kfd.me
@@ -2729,6 +2730,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=githubcopilot.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=githubmemory.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=githubusercontent.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gitlab.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gitlab.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gitmemory.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gizlen.net
