@@ -8030,6 +8030,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youjizz.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youlucky.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youmaker.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youmind.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youngpornvideos.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youngspiration.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=youpai.org
