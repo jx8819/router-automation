@@ -647,6 +647,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=babylonbee.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=babynet.com.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=backchina.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=backend-v2.crixet.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=backpackers.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=backtotiananmen.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bad.news
