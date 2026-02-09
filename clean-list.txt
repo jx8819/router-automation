@@ -395,7 +395,6 @@ antisocial.science
 antiwave.net
 antpool.com
 anuneko.com
-anygate.vip
 anyporn.com
 anysex.com
 ao3.org
@@ -699,6 +698,8 @@ bbg.gov
 bbing.com
 bbkz.com
 bbnradio.org
+bbs-api-os-static.hoyolab.com
+bbs-api-os.hoyolab.com
 bbs-tw.com
 bbs.brockbbs.com
 bbs.cantonese.asia
@@ -708,7 +709,6 @@ bbs.huasing.org
 bbs.junglobal.net
 bbs.kimy.com.tw
 bbs.mikocon.com
-bbs.morbell.com
 bbs.mychat.to
 bbs.naixi.net
 bbs.nyinfor.com
@@ -860,6 +860,7 @@ bitmex.com
 bitshare.com
 bitsnoop.com
 bitterwinter.org
+bittorrent.com
 bitvise.com
 bitz.ai
 bitz.com
@@ -903,7 +904,6 @@ blog.google
 blog.jackjia.com
 blog.jp
 blog.kangye.org
-blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
@@ -3231,6 +3231,7 @@ hechaji.com
 heeact.edu.tw
 hegre-art.com
 heix.pp.ru
+helixstudios.net
 helloandroid.com
 helloavgirls.com
 helloqueer.com
@@ -3243,6 +3244,7 @@ helplinfen.com
 helpshift.com
 helpster.de
 helpzhuling.org
+hembed.com
 henduohao.com
 hentai.to
 hentaipaw.com
@@ -3356,7 +3358,6 @@ hkpeanut.com
 hkptu.org
 hkreadingcity.net
 hkreporter.com
-hkreporter.loved.hk
 hku.hk
 hkupop.hku.hk
 hkusu.net
@@ -3422,7 +3423,6 @@ house.gov
 howtoforge.com
 hoxx.com
 hoy.tv
-hoyolab.com
 hpa.gov.tw
 hpjav.com
 hqcdp.org
@@ -3827,7 +3827,6 @@ jifangge.com
 jigglegifs.com
 jigong1024.com
 jigsy.com
-jihadintel.meforum.org
 jihadology.net
 jiji.com
 jims.net
@@ -4030,9 +4029,7 @@ lamnia.co.uk
 lamrim.com
 landofhope.tv
 lantern.io
-lanterncn.cn
 lantosfoundation.org
-laod.cn
 laogai.org
 laogairesearch.org
 laomiu.com
@@ -4059,7 +4056,6 @@ league-funny.com
 learning.google
 lecloud.net
 ledger.com
-leeao.com.cn
 lefora.com
 left21.hk
 legalporno.com
@@ -7321,6 +7317,7 @@ uygur.org
 uymaarip.com
 v.roucdn
 v2.help
+v2.hysteria.network
 v2board.com
 v2ex.com
 v2fly.org
@@ -7665,6 +7662,7 @@ wikipedia-on-ipfs.org
 wikipedia.com
 wikipedia.org
 wikiquote.org
+wikis.tw
 wikisource.org
 wikiunblocked.org
 wikiversity.org
@@ -7794,6 +7792,7 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
+www.hoyolab.com
 www.hustlercash.com
 www.idlcoyote.com
 www.imdb.com
