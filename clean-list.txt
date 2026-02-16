@@ -116,7 +116,6 @@
 5i01.com
 5isotoi5.org
 5maodang.com
-611.icu
 611study.com
 611study.icu
 63i.com
@@ -195,6 +194,10 @@ about.google
 about.me
 abplive.com
 acast.com
+access.mypikpak.com
+access.mypikpak.net
+access.pikpak.me
+access.pikpakdrive.com
 accountkit.com
 aceros-de-hispania.com
 acevpn.com
@@ -408,12 +411,14 @@ apartmentratings.com
 apartments.com
 apat1989.org
 apetube.com
+api-drive.mypikpak.com
 api-extractor.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
 api.dropboxapi.com
 api.github.com
+api.ipify.org
 api.jetbrains.ai
 api.palworldgame.com
 api.proxlet.com
@@ -538,6 +543,7 @@ av.com
 av.movie
 av.nightlife141.com
 av01.tv
+av28.com
 avaaz.org
 avbody.tv
 avcity.tv
@@ -850,7 +856,6 @@ bitterwinter.org
 bittorrent.com
 bitvise.com
 bitz.ai
-bitz.com
 biying.cn
 biying.com
 biying.com.cn
@@ -1472,6 +1477,7 @@ clips4sale.com
 cloakpoint.com
 cloud.dify.ai
 cloud.mail.ru
+cloud.run
 cloudapp.net
 cloudappsecurity.com
 cloudcode-pa.googleapis.com
@@ -1483,6 +1489,7 @@ cloudfront.net
 cloudfunctions.net
 cloudokyo.cloud
 cloudpartnerservices.goog
+cloudskillsboost.google
 club1069.com
 clubhouseapi.com
 clyp.it
@@ -1728,6 +1735,7 @@ dastrassi.org
 data-vocabulary.org
 data.gov.tw
 data.taipei
+datacenters.google
 daum.net
 david-kilgour.com
 dawangidc.com
@@ -2023,7 +2031,6 @@ ecfa.org.tw
 echainhost.com
 echofon.com
 ecimg.tw
-eckosia.org
 ecministry.net
 economist.com
 ecstart.com
@@ -2192,6 +2199,7 @@ f8.com
 fa.gov.tw
 facebook.br
 facebook.com
+facebook.com.br
 facebook.de
 facebook.design
 facebook.hu
@@ -2389,6 +2397,7 @@ fofg-europe.net
 fofg.org
 fofldfradio.org
 fontsource.org
+foofle.com
 fooooo.com
 footprintdns.com
 footwiball.com
@@ -2515,6 +2524,7 @@ from-sd.com
 fromchinatousa.net
 frommel.net
 frontlinedefenders.org
+froogle.com
 frootvpn.com
 froth.zone
 fscked.org
@@ -2679,7 +2689,6 @@ gettyimages.us
 getuploader.com
 gfbv.de
 gfgold.com.hk
-gfnormal05at.com
 gfsale.com
 gfw.org.ua
 gfw.press
@@ -2711,7 +2720,6 @@ gitbooks.io
 github.blog
 github.com
 github.io
-github.moeyy.xyz
 githubassets.com
 githubcopilot.com
 githubmemory.com
@@ -2739,6 +2747,7 @@ gluckman.com
 glype.com
 gmail.com
 gmgard.com
+gmgn.ai
 gmhz.org
 gmiddle.com
 gmiddle.net
@@ -3046,6 +3055,7 @@ googlecode.com
 googlecommerce.com
 googledomains.com
 googledrive.com
+googlee.com
 googleearth.com
 googlefiber.net
 googlegroups.com
@@ -3058,6 +3068,7 @@ googlemail.com
 googlemaps.sv
 googlemashups.com
 googlepagecreator.com
+googlepages.com
 googleplay.com
 googleplus.com
 googlescholar.com
@@ -3068,6 +3079,8 @@ googleusercontent.com
 googlevideo.com
 googleweblight.com
 googlezip.net
+googlr.com
+gooogle.com
 gopetition.com
 goproxing.net
 goreforum.com
@@ -3218,6 +3231,7 @@ hecaitou.net
 hechaji.com
 heeact.edu.tw
 hegre-art.com
+hegre.com
 heix.pp.ru
 helixstudios.net
 helloandroid.com
@@ -4146,6 +4160,7 @@ lobsangwangyal.com
 lobstertube.com
 localbitcoins.com
 localdomain.ws
+localhost.com
 localpresshk.com
 localytics.com
 lockestek.com
@@ -4271,7 +4286,6 @@ marxist.net
 marxists.org
 masalladeloslimites.com
 mash.to
-mashash.com
 maskedip.com
 mastodon.cloud
 mastodon.host
@@ -4759,6 +4773,7 @@ my-formosa.com
 my-private-network.co.uk
 my-proxy.com
 my.mail.ru
+my.navy.mil
 my.opera.com
 my.pcloud.com
 my03.com
@@ -4965,6 +4980,7 @@ nhk-ondemand.jp
 nic.cz.cc
 nic.google
 nic.gov
+nic.youtube
 nicovideo.jp
 nighost.org
 nightswatch.top
@@ -5071,6 +5087,7 @@ nutaku.net
 nutsvpn.work
 nuuvem.com
 nuvid.com
+nuzzel.com
 nvdst.com
 nvquan.org
 nvtongzhisheng.org
@@ -5318,7 +5335,6 @@ panoramio.com
 pao-pao.net
 paper.li
 paperb.us
-paperclip.tk
 paradisehill.cc
 paradisepoker.com
 parkansky.com
@@ -5408,6 +5424,7 @@ phuquocservices.com
 piaotia.com
 picacomic.com
 picacomiccn.com
+picasa.com
 picasaweb.com
 picidae.net
 picsart.com
@@ -5449,6 +5466,7 @@ pipii.tv
 piposay.com
 piraattilahti.org
 piring.com
+pittpatt.com
 pixapp.net
 pixeldrain.com
 pixelqi.com
@@ -6286,6 +6304,7 @@ southpark.cc.com
 sowers.org.hk
 soylentnews.org
 spaces.hightail.com
+spacex.com
 spankbang.com
 spankingtube.com
 spankwire.com
@@ -6360,6 +6379,7 @@ startuplivingchina.com
 stat.gov.tw
 statearmor.org
 static-economist.com
+static.bevylabs.com
 static.pocketcasts.com
 static.shemalez.com
 static01.nyt.com
@@ -6561,7 +6581,6 @@ tardigrade.io
 tarr.uspto.gov
 tascn.com.au
 taup.net
-taup.org.tw
 taweet.com
 tbcollege.org
 tbi.org.hk
@@ -7466,12 +7485,14 @@ wainao.me
 waiwaier.com
 wallet.google
 walletconnect.com
+walletconnect.org
 wallhaven.cc
 wallmama.com
 wallornot.org
 wallpapercasa.com
 wallproxy.com
 wallsttv.com
+wallzhihu.com
 waltermartin.com
 waltermartin.org
 wanderinghorse.net
@@ -8013,7 +8034,6 @@ ytn.co.kr
 yts.ag
 yts.am
 yts.lt
-yts.mx
 yuanming.net
 yuanzhengtang.org
 yulghun.com

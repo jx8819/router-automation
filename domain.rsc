@@ -118,7 +118,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5i01.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5isotoi5.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=5maodang.com
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=611.icu
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=611study.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=611study.icu
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=63i.com
@@ -197,6 +196,10 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=about.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=abplive.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=acast.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=access.mypikpak.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=access.mypikpak.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=access.pikpak.me
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=access.pikpakdrive.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=accountkit.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aceros-de-hispania.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=acevpn.com
@@ -410,12 +413,14 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=apartments.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=apat1989.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=apetube.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api-drive.mypikpak.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api-extractor.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api-secure.recaptcha.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api-verify.recaptcha.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.dropboxapi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.github.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.ipify.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.jetbrains.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.palworldgame.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=api.proxlet.com
@@ -540,6 +545,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=av.movie
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=av.nightlife141.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=av01.tv
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=av28.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avaaz.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avbody.tv
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=avcity.tv
@@ -852,7 +858,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bittorrent.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bitvise.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bitz.ai
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=bitz.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=biying.cn
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=biying.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=biying.com.cn
@@ -1474,6 +1479,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloakpoint.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloud.dify.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloud.mail.ru
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloud.run
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudapp.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudappsecurity.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudcode-pa.googleapis.com
@@ -1485,6 +1491,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudfunctions.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudokyo.cloud
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudpartnerservices.goog
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cloudskillsboost.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=club1069.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=clubhouseapi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=clyp.it
@@ -1730,6 +1737,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=data-vocabulary.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=data.gov.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=data.taipei
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=datacenters.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=daum.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=david-kilgour.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dawangidc.com
@@ -2025,7 +2033,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=echainhost.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=echofon.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ecimg.tw
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=eckosia.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ecministry.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=economist.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ecstart.com
@@ -2194,6 +2201,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fa.gov.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=facebook.br
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=facebook.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=facebook.com.br
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=facebook.de
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=facebook.design
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=facebook.hu
@@ -2391,6 +2399,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fofg.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fofldfradio.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fontsource.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=foofle.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fooooo.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=footprintdns.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=footwiball.com
@@ -2517,6 +2526,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fromchinatousa.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=frommel.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=frontlinedefenders.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=froogle.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=frootvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=froth.zone
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=fscked.org
@@ -2681,7 +2691,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=getuploader.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gfbv.de
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gfgold.com.hk
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gfnormal05at.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gfsale.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gfw.org.ua
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gfw.press
@@ -2713,7 +2722,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=github.blog
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=github.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=github.io
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=github.moeyy.xyz
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=githubassets.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=githubcopilot.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=githubmemory.com
@@ -2741,6 +2749,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=glype.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gmail.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gmgard.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gmgn.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gmhz.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gmiddle.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gmiddle.net
@@ -3048,6 +3057,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlecommerce.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googledomains.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googledrive.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlee.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googleearth.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlefiber.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlegroups.com
@@ -3060,6 +3070,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlemaps.sv
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlemashups.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlepagecreator.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlepages.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googleplay.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googleplus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlescholar.com
@@ -3070,6 +3081,8 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlevideo.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googleweblight.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlezip.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=googlr.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gooogle.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=gopetition.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=goproxing.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=goreforum.com
@@ -3220,6 +3233,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hechaji.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=heeact.edu.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hegre-art.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hegre.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=heix.pp.ru
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=helixstudios.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=helloandroid.com
@@ -4148,6 +4162,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lobstertube.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=localbitcoins.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=localdomain.ws
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=localhost.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=localpresshk.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=localytics.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lockestek.com
@@ -4273,7 +4288,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=marxists.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=masalladeloslimites.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mash.to
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mashash.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=maskedip.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mastodon.cloud
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mastodon.host
@@ -4761,6 +4775,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my-private-network.co.uk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my-proxy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my.mail.ru
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my.navy.mil
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my.opera.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my.pcloud.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=my03.com
@@ -4967,6 +4982,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nic.cz.cc
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nic.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nic.gov
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nic.youtube
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nicovideo.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nighost.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nightswatch.top
@@ -5073,6 +5089,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nutsvpn.work
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nuuvem.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nuvid.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nuzzel.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nvdst.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nvquan.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=nvtongzhisheng.org
@@ -5320,7 +5337,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pao-pao.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=paper.li
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=paperb.us
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=paperclip.tk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=paradisehill.cc
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=paradisepoker.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=parkansky.com
@@ -5410,6 +5426,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=piaotia.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=picacomic.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=picacomiccn.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=picasa.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=picasaweb.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=picidae.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=picsart.com
@@ -5451,6 +5468,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=piposay.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=piraattilahti.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=piring.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pittpatt.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pixapp.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pixeldrain.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pixelqi.com
@@ -6288,6 +6306,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sowers.org.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=soylentnews.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=spaces.hightail.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=spacex.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=spankbang.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=spankingtube.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=spankwire.com
@@ -6362,6 +6381,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stat.gov.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=statearmor.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=static-economist.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=static.bevylabs.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=static.pocketcasts.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=static.shemalez.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=static01.nyt.com
@@ -6563,7 +6583,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tarr.uspto.gov
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tascn.com.au
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taup.net
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taup.org.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taweet.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tbcollege.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tbi.org.hk
@@ -7468,12 +7487,14 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=waiwaier.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallet.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=walletconnect.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=walletconnect.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallhaven.cc
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallmama.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallornot.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallpapercasa.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallproxy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallsttv.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wallzhihu.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=waltermartin.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=waltermartin.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wanderinghorse.net
@@ -8015,7 +8036,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yts.ag
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yts.am
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yts.lt
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yts.mx
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yuanming.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yuanzhengtang.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=yulghun.com
