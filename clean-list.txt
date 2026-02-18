@@ -266,7 +266,6 @@ airitilibrary.com
 airvpn.org
 aisandbox-pa.googleapis.com
 aisex.com
-aiss.anws.gov.tw
 aistudio.google.com
 ait.org.tw
 aiv-cdn.net
@@ -475,7 +474,6 @@ archive.vn
 archiveofourown.com
 archiveofourown.org
 archives.gov
-archives.gov.tw
 arctosia.com
 areca-backup.org
 arena.taipei
@@ -1733,7 +1731,6 @@ darrenliuwei.com
 dashlane.com
 dastrassi.org
 data-vocabulary.org
-data.gov.tw
 data.taipei
 datacenters.google
 daum.net
@@ -2164,7 +2161,6 @@ evchk.wikia.org
 everipedia.org
 evoke-windowsservices-tas.msedge
 evschool.net
-exam.gov.tw
 exblog.jp
 exchristian.hk
 excite.co.jp
@@ -2187,7 +2183,6 @@ extratorrent.st
 extratorrent.unblockit.bet
 extremetube.com
 exx.com
-ey.gov.tw
 eyevio.jp
 eyny.com
 ezpc.tk
@@ -2196,7 +2191,6 @@ ezua.com
 f-droid.org
 f2pool.com
 f8.com
-fa.gov.tw
 facebook.br
 facebook.com
 facebook.com.br
@@ -2301,7 +2295,6 @@ fc2blog.net
 fc2china.com
 fc2cn.com
 fc2web.com
-fda.gov.tw
 fdbox.com
 fdc64.de
 fdc64.jp
@@ -3421,7 +3414,6 @@ house.gov
 howtoforge.com
 hoxx.com
 hoy.tv
-hpa.gov.tw
 hpjav.com
 hqcdp.org
 hqjapanesesex.com
@@ -3618,7 +3610,6 @@ imgur.com
 imkev.com
 imlive.co
 imlive.com
-immigration.gov.tw
 immoral.jp
 impact.org.au
 impp.mn
@@ -3733,7 +3724,6 @@ isunaffairs.com
 isuntv.com
 isupportuyghurs.org
 itaboo.info
-itaiwan.gov.tw
 italiatibet.org
 itasoftware.com
 itch.io
@@ -3869,7 +3859,6 @@ jsdelivr.net
 jsfiddle.net
 jtvnw.net
 jubushoushen.com
-judicial.gov.tw
 juhuaren.com
 jukujo-club.com
 jules.google.com
@@ -4208,7 +4197,6 @@ lushstories.com
 luxebc.com
 lvhai.org
 lvv2.com
-ly.gov.tw
 lyfhk.net
 lync.cn
 lync.com
@@ -4594,7 +4582,6 @@ mixpod.com
 mixx.com
 mizzmona.com
 mji.rip
-mjib.gov.tw
 mjj.rip
 mjj.today
 mjlsh.usc.cuhk.edu.hk
@@ -4617,21 +4604,17 @@ moby.to
 mobypicture.com
 mod.io
 modernchinastudies.org
-moeaic.gov.tw
 moeerolibrary.com
 moegirl.org
 moeshare.cc
-mofa.gov.tw
 mofaxiehui.com
 mofos.com
 mog.com
 mohu.club
 mohu.ml
 mohu.rocks
-moj.gov.tw
 mojang.com
 mojim.com
-mol.gov.tw
 molihua.org
 momentumms.com
 momoshop.com.tw
@@ -4765,7 +4748,6 @@ muslimvideo.com
 muzi.com
 muzi.net
 muzu.tv
-mvdis.gov.tw
 mvg.jp
 mwf-service.akamaized.net
 mx981.com
@@ -4858,7 +4840,6 @@ nanyangpost.com
 naol.ca
 naol.cc
 narod.ru
-nat.gov.tw
 nat.moe
 national-lottery.co.uk
 nationalawakening.org
@@ -4975,7 +4956,6 @@ nftstorage.link
 nga.mil
 ngensis.com
 nhentai.net
-nhi.gov.tw
 nhk-ondemand.jp
 nic.cz.cc
 nic.google
@@ -5040,9 +5020,7 @@ nowtorrents.com
 noxinfluencer.com
 noypf.com
 npa.go.jp
-npa.gov.tw
 npm.edu.tw
-npm.gov.tw
 npnt.me
 nps.gov
 npsboost.com
@@ -5059,10 +5037,6 @@ ns02.us
 ns1.name
 ns2.name
 ns3.name
-nsc.gov.tw
-ntbk.gov.tw
-ntbna.gov.tw
-ntbt.gov.tw
 ntd.tv
 ntdsf.tv
 ntdtv.ca
@@ -5363,7 +5337,6 @@ pbworks.com
 pbxes.com
 pbxes.org
 pcanywhere.net
-pcc.gov.tw
 pcdvd.com.tw
 pcgamestorrents.com
 pchome.com.tw
@@ -6376,7 +6349,6 @@ starfishfx.com
 starp2p.com
 startpage.com
 startuplivingchina.com
-stat.gov.tw
 statearmor.org
 static-economist.com
 static.bevylabs.com
@@ -6522,7 +6494,6 @@ t66y.com
 taa-usa.org
 taaze.tw
 tabtter.jp
-tacc.cwb.gov.tw
 tacem.org
 taconet.com.tw
 taedp.org.tw
@@ -6533,7 +6504,6 @@ tagwalk.com
 tahr.org.tw
 tails.net
 tailwindtraders.com
-taipei.gov.tw
 taipeisociety.org
 taipeitimes.com
 taisounds.com
@@ -6545,7 +6515,6 @@ taiwandaily.net
 taiwandc.org
 taiwanembassy.org
 taiwanhot.net
-taiwanjobs.gov.tw
 taiwanjustice.com
 taiwanjustice.net
 taiwankiss.com
@@ -6664,7 +6633,6 @@ tg.dev
 tgfcer.com
 tgstat.com
 thaicn.com
-thb.gov.tw
 theage.com.au
 theatlantic.com
 theatrum-belli.com
@@ -6865,7 +6833,6 @@ tinychat.com
 tinypaste.com
 tinyurl.com
 tipas.net
-tipo.gov.tw
 tistory.com
 tkcs-collins.com
 tl.gd
@@ -7082,6 +7049,7 @@ tweez.net
 twelve.today
 twerkingbutt.com
 twftp.org
+twgov.tw
 twgreatdaily.com
 twibase.com
 twibble.de
@@ -7522,7 +7490,6 @@ waybig.com
 waymo.com
 wbd.ms
 wd.bible
-wda.gov.tw
 wdf5.com
 wealth.com.tw
 wearehairy.com
