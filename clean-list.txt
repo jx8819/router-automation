@@ -280,6 +280,7 @@ akamai.tvb.com
 akamaihd.net
 akiba-online.com
 akiba-web.com
+akile.io
 akinator.com
 akow.org
 al-islam.com
@@ -513,8 +514,10 @@ aspistrategist.org.au
 aspnetcdn.com
 asrockind.com
 assembla.com
+assembly.go.kr
 assets-yammer.com
 assets.bwbx.io
+assets.nxtrace.org
 assimp.org
 astrill.com
 asus.com
@@ -1890,6 +1893,7 @@ domain.glass
 domainhelp.search.com
 domains.google
 domaintoday.com.au
+dongjak.go.kr
 dongtaiwang.com
 dongtaiwang.net
 dongyangjing.com
@@ -2352,6 +2356,7 @@ fireofliberty.info
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
+firstory.io
 firstpost.com
 firstrade.com
 fish.audio
@@ -2663,6 +2668,7 @@ geti2p.net
 getiton.com
 getjetso.com
 getlantern.org
+getliner.com
 getmalus.com
 getmdl.io
 getmicrosoftkey.com
@@ -3135,6 +3141,7 @@ gs-discuss.com
 gsearch.media
 gsp.target.com
 gstatic.com
+gstc.com.tw
 gstf.org
 gtricks.com
 gts-vpn.com
@@ -3666,6 +3673,7 @@ investigating.wordpress.com
 invidio.us
 inxian.com
 io.google
+iopenmall.tw
 iotinactionevents.com
 iownyour.biz
 iownyour.org
@@ -3896,6 +3904,7 @@ kagyuoffice.org
 kagyuoffice.org.tw
 kaiyuan.de
 kakao.com
+kakaocdn.net
 kalachakralugano.org
 kanald.com.tr
 kankan.today
@@ -4086,6 +4095,7 @@ lightyearvpn.com
 lih.kg
 lihkg.com
 like.com
+likr.tw
 lilaoshibushinilaoshi.com
 limelight.moe
 limiao.net
@@ -4179,6 +4189,7 @@ lrfz.com
 lrip.org
 lsd.org.hk
 lsforum.net
+lshosp.com.tw
 lsm.org
 lsmchinese.org
 lsmkorean.org
@@ -4319,6 +4330,7 @@ mediawiki.org
 medicalnewstoday.com
 medium.com
 mee6.xyz
+meee.com.tw
 meetav.com
 meetfasttrack.com
 meetup.com
@@ -4642,6 +4654,7 @@ morningsun.org
 moroneta.com
 morphcharts.com
 mos.ru
+mosavi.io
 mosucloud.site
 motherless.com
 motiyun.com
@@ -4824,6 +4837,7 @@ mywww.biz
 myz.info
 n-tv.de
 naacoalition.org
+nabo.go.kr
 naitik.net
 nakedsecurity.sophos.com
 nakido.com
@@ -4840,6 +4854,7 @@ nanyangpost.com
 naol.ca
 naol.cc
 narod.ru
+nars.go.kr
 nat.moe
 national-lottery.co.uk
 nationalawakening.org
@@ -5184,6 +5199,7 @@ onevps.com
 onion.city
 onion.ly
 onion666.com
+onkakao.net
 online.recoveryversion.org
 onlinecha.com
 onlineyoutube.com
@@ -5211,6 +5227,7 @@ openai.com
 openallweb.com
 openart.ai
 openbase.com
+opencritic.com
 opendemocracy.net
 opendesktop.org
 opendn.xyz
@@ -5411,6 +5428,7 @@ pin6.com
 pincong.rocks
 ping.fm
 pinimg.com
+pinkoi.com
 pinkrod.com
 pinoy-n.com
 pinterest.at
@@ -6876,6 +6894,7 @@ topshareware.com
 topsy.com
 toptip.ca
 toptoon.net
+tor.eff.org
 tor.updatestar.com
 tora.to
 torcn.com
@@ -7174,6 +7193,7 @@ uni.cc
 unification.net
 unification.org.tw
 unirule.cloud
+uniswap.org
 unitedsocialpress.com
 unity3dcloud.cn
 unix100.com
@@ -7444,6 +7464,7 @@ w-pool.com
 w.wiki
 w3s.link
 w3schools.com
+wa.me
 waffle1999.com
 wahas.com
 waigaobu.com
@@ -7721,6 +7742,7 @@ www.americorps.gov
 www.antd.org
 www.aolnews.com
 www.bing.com
+www.clashverge.dev
 www.cmoinc.org
 www.dmm.com
 www.eastturkistan.net
