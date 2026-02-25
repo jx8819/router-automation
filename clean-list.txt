@@ -1110,6 +1110,7 @@ business.page
 business.site
 businessinsider.com
 businessmessages.google
+businesstimes.com.sg
 businesstoday.com.tw
 businessweek.com
 businessweekly.com.tw
@@ -2455,6 +2456,7 @@ freechinaweibo.com
 freeddns.com
 freeddns.org
 freedl.org
+freedom.gov
 freedomchina.info
 freedomcollection.org
 freedomhongkong.org
@@ -3208,6 +3210,7 @@ hao.news
 happy-vpn.com
 haproxy.org
 hardsextube.com
+hardwarezone.com.sg
 harunyahya.com
 hasi.wang
 hautelook.com
@@ -3456,6 +3459,7 @@ huaren.us
 huaren4us.com
 huarenjie.com
 huashangnews.com
+huasing.org
 huaxia-news.com
 huaxiabao.org
 huaxin.ph
@@ -4847,6 +4851,7 @@ nalandawest.org
 namgyal.org
 namgyalmonastery.org
 namu.wiki
+nandazhan.com
 nanhuyt.com
 nanopool.org
 nanyang.com
@@ -6867,6 +6872,7 @@ tnaflix.com
 tngrnow.com
 tngrnow.net
 tnp.org
+tnp.sg
 to-porno.com
 togetter.com
 toh.info
@@ -6941,6 +6947,7 @@ trickip.net
 trickip.org
 trimondi.de
 tron.network
+tronlink.org
 tronscan.org
 trouw.nl
 trt.net.tr
@@ -7890,6 +7897,7 @@ xn--u2u927b.com
 xnpool.com
 xnxx-cdn.com
 xnxx.com
+xp1024.com
 xpdo.net
 xpud.org
 xrentdvd.com
