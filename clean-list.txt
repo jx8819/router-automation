@@ -1492,6 +1492,7 @@ cloudfunctions.net
 cloudokyo.cloud
 cloudpartnerservices.goog
 cloudskillsboost.google
+cltv.com.tw
 club1069.com
 clubhouseapi.com
 clyp.it
@@ -1528,6 +1529,7 @@ cnn.com
 cnnews.chosun.com
 cnpolitics.org
 cnproxy.com
+cnt.com.tw
 cnyes.com
 co.ng.mil
 coat.co.jp
@@ -2320,6 +2322,7 @@ femalefounderscomp.com
 feministteacher.com
 fengzhenghu.com
 fengzhenghu.net
+fetc.net.tw
 fevernet.com
 ff.im
 fffff.at
@@ -3211,6 +3214,7 @@ happy-vpn.com
 haproxy.org
 hardsextube.com
 hardwarezone.com.sg
+harpersbazaar.com.hk
 harunyahya.com
 hasi.wang
 hautelook.com
@@ -3389,6 +3393,7 @@ homeperversion.com
 homeservershow.com
 hongkong.fandom.com
 hongkongfp.com
+hongkongwatch.org
 hongmeimei.com
 hongzhi.li
 honven.xyz
@@ -4022,6 +4027,7 @@ lama.com.tw
 lamayeshe.com
 lamnia.co.uk
 lamrim.com
+landbank.com.tw
 landofhope.tv
 lantern.io
 lantosfoundation.org
@@ -4585,6 +4591,7 @@ mirrormediagroup.com
 missav.ai
 missav.app
 missav.com
+missav.live
 missav.ws
 missav123.com
 mist.vip
@@ -5006,6 +5013,7 @@ njavtv.com
 njuice.com
 nko.navy.mil
 nlfreevpn.com
+nmns.edu.tw
 nmsl.website
 nnews.eu
 no-ip.org
@@ -6548,6 +6556,7 @@ taiwannews.com.tw
 taiwanstay.net.tw
 taiwantoday.tw
 taiwantp.net
+taiwantrip.com.tw
 taiwantt.org.tw
 taiwanus.net
 taiwanyes.com
@@ -6605,6 +6614,7 @@ tcpspeed.com
 tcsofbc.org
 tcsovi.org
 tdm.com.mo
+tdtv.com.tw
 teachparentstech.org
 teamamericany.com
 techcrunch.com
@@ -6850,6 +6860,7 @@ timtales.com
 tinc-vpn.org
 tineye.com
 tingtalk.me
+tinp.net.tw
 tintuc101.com
 tiny.cc
 tinychat.com
@@ -6894,6 +6905,7 @@ top10vpn.com
 top81.ws
 topbtc.com
 topic.youthwant.com.tw
+topmso.com.tw
 topnews.in
 toppornsites.com
 topshareware.com
@@ -7053,6 +7065,7 @@ twbbs.net.tw
 twbbs.org
 twbbs.tw
 twblogger.com
+twcert.org.tw
 twcomix.com
 tweepguide.com
 tweeplike.me
@@ -7145,6 +7158,7 @@ twurl.nl
 twyac.org
 tx.me
 txxx.com
+tyc.edu.tw
 tycool.com
 typekit.net
 typepad.com
@@ -7734,6 +7748,7 @@ wsjhk.com
 wtbn.org
 wtfpeople.com
 wufafangwen.com
+wufc.com.tw
 wufi.org.tw
 wuguoguang.com
 wujie.net
