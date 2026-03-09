@@ -1867,6 +1867,7 @@ dmm.co.jp
 dmm.com
 dns-dns.com
 dns-stuff.com
+dns.cloudflare.com
 dns.google
 dns04.com
 dns05.com
@@ -1929,6 +1930,7 @@ doujincafe.com
 dowei.org
 download.aircrack-ng.org
 download.cnet.com
+download.dappcdn.com
 dphk.org
 dpool.top
 dpp.org.tw
@@ -3682,6 +3684,7 @@ interseclab.org
 inthenameofconfuciusmovie.com
 intunewiki.com
 investigating.wordpress.com
+investing.com
 invidio.us
 inxian.com
 io.google
@@ -4216,6 +4219,7 @@ luckymobile.ca
 ludepress.com
 luke54.com
 luke54.org
+luminews.my
 lupm.org
 lushstories.com
 luxebc.com
@@ -6119,6 +6123,7 @@ shinychan.com
 shipcamouflage.com
 shireyishunjian.com
 shitaotv.org
+shitjournal.org
 shixiao.org
 shizhao.org
 shkspr.mobi
@@ -6622,6 +6627,7 @@ tdm.com.mo
 tdtv.com.tw
 teachparentstech.org
 teamamericany.com
+techbang.com
 techcrunch.com
 techhub.ms
 technews.tw
