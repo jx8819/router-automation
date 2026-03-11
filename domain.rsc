@@ -3558,6 +3558,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=id.heroku.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=id.taipei
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=idaiwan.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=idbi.bank.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=idcflare.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=iddddg.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=idemocracy.asia
@@ -4106,6 +4107,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lidecheng.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lifeattiktok.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lifemiles.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ligamx.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lighten.org.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lighti.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=lightnovel.cn

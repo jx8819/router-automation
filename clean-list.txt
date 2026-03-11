@@ -3556,6 +3556,7 @@ icu-project.org
 id.heroku.com
 id.taipei
 idaiwan.com
+idbi.bank.in
 idcflare.com
 iddddg.com
 idemocracy.asia
@@ -4104,6 +4105,7 @@ libredd.it
 lidecheng.com
 lifeattiktok.com
 lifemiles.com
+ligamx.net
 lighten.org.tw
 lighti.me
 lightnovel.cn
