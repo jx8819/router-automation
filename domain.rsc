@@ -180,6 +180,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aadrm.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aamacau.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aastocks.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=aave.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=abc.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=abc.net.au
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=abc.pp.ru
@@ -3213,6 +3214,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=handcraftedsoftware.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=handelsblatt.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hanime.tv
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hanime1.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hanime1.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hanminzu.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=hanunyi.com
@@ -5185,6 +5187,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=okex.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=okinawatimes.co.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=okk.tw
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=oklink.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=okpool.me
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=okx.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=old-cat.net
@@ -5937,6 +5940,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s-msft.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s-msn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s-nbcnews.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s.rmimg.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s.yimg.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1heng.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1s1s1.com
