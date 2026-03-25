@@ -3800,6 +3800,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javbus.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javbus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javbus.sbs
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javchu.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javdb.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javfinder.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=javfor.me
@@ -7919,6 +7920,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xmonk.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xmovies.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xn--11xs86f.icu
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xn--1jqvh729avzfcy2d8ummib.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xn--4gq171p.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xn--90wwvt03e.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xn--9iqy04a7fi01l.com
