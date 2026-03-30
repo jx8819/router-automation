@@ -1121,6 +1121,7 @@ businessweekly.com.tw
 busu.org
 busytrade.com
 buugaa.com
+buzzfeed.com
 buzzhand.com
 buzzhand.net
 buzzorange.com
@@ -1498,6 +1499,7 @@ cloudpartnerservices.goog
 cloudskillsboost.google
 cltv.com.tw
 club1069.com
+clubhouse.com
 clubhouseapi.com
 clyp.it
 cmcn.org
@@ -3318,7 +3320,6 @@ hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
 hjclub.info
-hjd.tw
 hjd2048.com
 hk-pub.com
 hk.gradconnection.com
@@ -3899,6 +3900,7 @@ juoaa.com
 justdied.com
 justfreevpn.com
 justhost.ru
+justice.gov
 justicefortenzin.org
 justmysocks.net
 justmysocks1.net
@@ -3924,6 +3926,7 @@ kagyuoffice.org.tw
 kaiyuan.de
 kakao.com
 kakaocdn.net
+kakaocorp.com
 kalachakralugano.org
 kanald.com.tr
 kankan.today
@@ -5939,7 +5942,6 @@ s-msedge.net
 s-msft.com
 s-msn.com
 s-nbcnews.com
-s.rmimg.com
 s.yimg.com
 s1heng.com
 s1s1s1.com
@@ -6014,6 +6016,7 @@ search.yahoo.co.jp
 searchapi.culture.tw
 searchtruth.com
 searx.me
+searx.space
 seattlefdc.com
 secretchina.com
 secretgarden.no
@@ -7925,6 +7928,7 @@ xn--9iqy04a7fi01l.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
+xn--kcrv3utim32hx9f6qe.com
 xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc
