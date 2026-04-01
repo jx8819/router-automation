@@ -7873,6 +7873,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xchina.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xcity.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xcritic.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xda-developers.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xdaforums.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xerotica.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=xfiles.to
