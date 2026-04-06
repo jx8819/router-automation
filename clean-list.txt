@@ -68,6 +68,7 @@
 228.net.tw
 233abc.com
 233v2.com
+24av.net
 24hrs.ca
 24smile.org
 25u.com
@@ -136,6 +137,7 @@
 6parknews.com
 7capture.com
 7cow.com
+7mmtv.sx
 7mmtv.tv
 8-d.com
 85cc.net
@@ -465,6 +467,7 @@ appspot-preview.com
 appspot.com
 appsto.re
 aptoide.com
+archive-it.org
 archive.fo
 archive.is
 archive.li
@@ -565,6 +568,7 @@ avmoo.net
 avmoo.pw
 avoision.com
 avple.tv
+avsox.click
 avyahoo.com
 axios.com
 axureformac.com
@@ -1621,6 +1625,7 @@ crchina.org
 crd-net.org
 creaders.net
 creadersnet.com
+creative.myavlive.com
 creativelab5.com
 crisisresponse.google
 cristyli.com
@@ -1872,6 +1877,7 @@ dns-dns.com
 dns-stuff.com
 dns.cloudflare.com
 dns.google
+dns.sb
 dns04.com
 dns05.com
 dns1.us
@@ -1893,6 +1899,7 @@ docs.new
 doctorvoice.org
 documentingreality.com
 dogfartnetwork.com
+doh.sb
 dojin.com
 dok-forum.net
 dolc.de
@@ -1917,6 +1924,7 @@ doourbest.org
 dorjeshugden.com
 dot.ca.gov
 dot.net
+dot.sb
 dotgov.gov
 dotplane.com
 dotsub.com
@@ -5293,6 +5301,7 @@ orzistic.org
 osdinfra.net
 osfoora.com
 osm.tw
+osmand.net
 otcbtc.com
 otnd.org
 otto.de
@@ -6071,6 +6080,7 @@ sexhu.com
 sexhuang.com
 sexidude.com
 sexinsex.net
+sextb.net
 sextvx.com
 sf.net
 sfbassets.com
