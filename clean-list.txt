@@ -752,6 +752,7 @@ beijingspring.com
 beijingzx.org
 belamionline.com
 bell.wiki
+belonging.google
 bemywife.cc
 beric.me
 berlinerbericht.de
@@ -938,11 +939,19 @@ blogspot.am
 blogspot.ba
 blogspot.be
 blogspot.bg
+blogspot.bj
 blogspot.ca
 blogspot.cat
+blogspot.cf
 blogspot.ch
 blogspot.cl
+blogspot.co.at
+blogspot.co.id
+blogspot.co.il
+blogspot.co.ke
+blogspot.co.nz
 blogspot.co.uk
+blogspot.co.za
 blogspot.com
 blogspot.com.ar
 blogspot.com.au
@@ -957,6 +966,7 @@ blogspot.com.mt
 blogspot.com.ng
 blogspot.com.tr
 blogspot.com.uy
+blogspot.cv
 blogspot.cz
 blogspot.de
 blogspot.dk
@@ -984,15 +994,19 @@ blogspot.no
 blogspot.pe
 blogspot.pt
 blogspot.qa
+blogspot.re
 blogspot.ro
+blogspot.rs
 blogspot.ru
 blogspot.se
 blogspot.sg
 blogspot.si
 blogspot.sk
 blogspot.sn
+blogspot.td
 blogspot.tw
 blogspot.ug
+blogspot.vn
 blogtd.net
 blogtd.org
 bloodshed.net
@@ -1354,6 +1368,7 @@ chinadigitaltimes.net
 chinaelections.org
 chinaeweekly.com
 chinafile.com
+chinafirewalltest.com
 chinafreepress.org
 chinagate.com
 chinageeks.org
@@ -1565,6 +1580,7 @@ coinrail.co.kr
 cointiger.com
 cointobe.com
 coinut.com
+coinw.com
 colab.google
 colacloud.net
 collateralmurder.com
@@ -2146,6 +2162,7 @@ erights.net
 eriversoft.com
 erktv.com
 ernestmandel.org
+ero-video.net
 erodaizensyu.com
 erodoujinlog.com
 erodoujinworld.com
@@ -3237,6 +3254,7 @@ hasi.wang
 hautelook.com
 hautelookcdn.com
 have8.com
+hayav.com
 hbg.com
 hbo.com
 hbomax.com
@@ -3808,6 +3826,7 @@ javbus.co
 javbus.com
 javbus.sbs
 javchu.com
+javdatabase.com
 javdb.com
 javfinder.ai
 javfor.me
@@ -4619,6 +4638,7 @@ missav.live
 missav.ws
 missav123.com
 mist.vip
+mistral.ai
 mitao.com.tw
 mitbbs.com
 mitbbsau.com
@@ -5063,7 +5083,9 @@ notebooklm.google
 notebooklm.google.com
 notepad-plus-plus.org
 notify.dropboxapi.com
+notion.com
 notion.site
+notion.so
 nottinghampost.com
 novelasia.com
 now.com
@@ -7561,6 +7583,7 @@ wav.tv
 waveprotocol.org
 waybig.com
 waymo.com
+waze.com
 wbd.ms
 wd.bible
 wdf5.com
@@ -7970,6 +7993,7 @@ xvideos-cdn.com
 xvideos.com
 xvideos.es
 xvideos2.com
+xvideos3.com
 xvinlink.com
 xxbbx.com
 xxlmovies.com
