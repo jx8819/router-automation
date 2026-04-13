@@ -368,11 +368,9 @@ animeshippuuden.com
 animezilla.com
 aniscartujo.com
 ankarazirvesi2018.com
-annas-archive.in
-annas-archive.li
-annas-archive.org
-annas-archive.pm
-annas-archive.se
+annas-archive.gd
+annas-archive.gl
+annas-archive.pk
 annatam.com
 anobii.com
 anonfiles.com
@@ -5744,7 +5742,6 @@ python.com
 python.com.tw
 python.org
 pythonhackers.com
-pytorch.org
 qanote.com
 qbittorrent.org
 qgirl.com.tw
@@ -6023,6 +6020,7 @@ savevid.com
 say2.info
 sbme.me
 sbs.com.au
+sbti.unun.dev
 scache.vzw.com
 scache1.vzw.com
 scache2.vzw.com
@@ -6674,7 +6672,6 @@ techcrunch.com
 techhub.ms
 technews.tw
 technorati.com
-techspot.com
 techviz.net
 teck.in
 teco-hk.org
