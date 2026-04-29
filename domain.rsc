@@ -7299,6 +7299,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=upmedia.mg
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=upornia.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=uproxy.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=upsangel.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=uptodown.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=upwill.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ur7s.com
