@@ -8149,6 +8149,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zdnet.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zdns.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zello.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zendesk.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zengjinyan.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zenmate.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zenmate.com.ru
