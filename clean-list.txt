@@ -204,6 +204,7 @@ access.pikpakdrive.com
 accountkit.com
 aceros-de-hispania.com
 acevpn.com
+acg.mn
 acg.rip
 acg18.me
 acgbox.link
@@ -883,6 +884,7 @@ blacklogic.com
 blackmagicdesign.com
 blackvpn.com
 blazor.net
+bleepingcomputer.com
 blewpass.com
 blingblingsquad.net
 blinkx.com
@@ -1048,6 +1050,7 @@ books.com.tw
 booktopia.com.au
 bookwalker.com.tw
 bookwalker.jp
+boomplay.com
 boomssr.com
 bootstrapcdn.com
 borgenmagazine.com
@@ -1549,6 +1552,7 @@ cn6.eu
 cna.com.tw
 cnabc.com
 cnbbnews.wordpress.com
+cnbc.com
 cnbeta.com.tw
 cnd.org
 cnex.org.cn
@@ -1677,6 +1681,7 @@ ctee.com.tw
 ctfriend.net
 ctinets.com
 ctinews.com
+ctinsider.com
 ctitv.com.tw
 ctowc.org
 cts.com.tw
@@ -1768,6 +1773,7 @@ dashlane.com
 dastrassi.org
 data-vocabulary.org
 data.taipei
+data18.com
 datacenters.google
 daum.net
 david-kilgour.com
@@ -1982,6 +1988,7 @@ dsmtp.com
 dssott.com
 dssott.com.akamaized.net
 dstk.dk
+dt18.com
 dtdns.net
 dtiblog.com
 dtic.mil
@@ -2075,6 +2082,7 @@ ecstart.com
 edgecastcdn.net
 edgesuite.net
 edicypages.com
+edigest.hk
 edmontonchina.cn
 edmontonservice.com
 edns.biz
@@ -3348,6 +3356,7 @@ hindustantimes.com
 hinet.net
 hitbtc.com
 hitomi.la
+hive.blog
 hiveon.net
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
@@ -3691,6 +3700,7 @@ indsr.org.tw
 inews-api.tvb.com
 info-graf.fr
 informer.com
+infosec.exchange
 infura.io
 ingads.com
 inherit.live
@@ -3977,6 +3987,7 @@ kards.com
 karkhung.com
 karmapa-teachings.org
 karmapa.org
+kathmandupost.com
 kawaiikawaii.jp
 kawase.com
 kb.monitorware.com
@@ -4140,6 +4151,7 @@ liaowangxizang.net
 liberal.org.hk
 libertysculpturepark.com
 libertytimes.com.tw
+libgen.is
 library-access.sk
 library.usc.cuhk.edu.hk
 libraryinformationtechnology.com
@@ -4388,6 +4400,7 @@ media.org.hk
 mediachinese.com
 mediafire.com
 mediafreakcity.com
+mediamatters.org
 mediawiki.org
 medicalnewstoday.com
 medium.com
@@ -4818,6 +4831,7 @@ multiupload.com
 mummysgold.com
 murmur.tw
 muscdn.com
+music.amazon.com
 musicade.net
 musical.ly
 musixmatch.com
@@ -5003,12 +5017,14 @@ newschinacomment.org
 newscn.org
 newsdetox.ca
 newsdh.com
+newshub.co.nz
 newsmax.com
 newspeak.cc
 newstamago.com
 newstapa.org
 newstarnet.com
 newstatesman.com
+newstimes.com
 newswav.com
 newsweek.com
 newtaiwan.com.tw
@@ -5032,6 +5048,8 @@ nflximg.com
 nflximg.net
 nflxso.net
 nflxvideo.net
+nfsc.press
+nfscofficial.com
 nftstorage.link
 nga.mil
 ngensis.com
@@ -5351,6 +5369,7 @@ outlookgroups.ms
 outlookmobile.com
 overcast.fm
 overdaily.org
+overdrive.com
 overplay.net
 oversea.istarshine.com
 ovi.com.cn
@@ -5450,6 +5469,7 @@ pen.io
 penchinese.com
 penchinese.net
 pendrivelinux.com
+penguin.com.au
 pengyulong.com
 penisbot.com
 penthouse.com
@@ -5961,6 +5981,7 @@ rthklive2-lh.akamaihd.net
 rti.org.tw
 rti.tw
 rtm.tnt-ea.com
+rts.ch
 rtycminnesota.org
 ruanyifeng.com
 rukor.org
@@ -6722,6 +6743,7 @@ tg.dev
 tgfcer.com
 tgstat.com
 thaicn.com
+the-sun.com
 theage.com.au
 theatlantic.com
 theatrum-belli.com
@@ -6778,6 +6800,7 @@ thetinhat.com
 thetrotskymovie.com
 thetvdb.com
 thevivekspot.com
+theweek.com
 thewgo.org
 thewirechina.com
 theync.com
@@ -7102,6 +7125,7 @@ tvants.com
 tvbanywhere.com
 tvboxnow.com
 tvbs.com.tw
+tvdy1.com
 tvider.com
 tvmost.com.hk
 tvplayvideos.com
@@ -7256,6 +7280,7 @@ ultrasurf.us
 ultravpn.com
 ultravpn.fr
 ultraxs.com
+umap.openstreetmap.fr
 umich.edu
 unblock-us.com
 unblock.cn.com
