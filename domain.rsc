@@ -4605,6 +4605,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=microsoftuwp.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=microvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=middle-way.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=midphoto.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mihk.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mihr.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mihua.org
@@ -5489,6 +5490,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=persgroep.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=persiankitty.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pewresearch.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pf.org.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pfd.org.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=phapluan.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=phayul.com
@@ -5750,6 +5752,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=puffstore.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pullfolio.co
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pullfolio.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pulsehknews.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=punjab.gov.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=punjab.gov.pk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=punyu.com
