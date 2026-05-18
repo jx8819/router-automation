@@ -1431,6 +1431,7 @@ chinman.net
 chithu.org
 chn.chosun.com
 chobit.cc
+chonglangtv.org
 chped.com
 chrdnet.com
 christianfreedom.org
@@ -1462,7 +1463,6 @@ ciciaicdn.com
 cienen.com
 cineastentreff.de
 cipfg.org
-circle19.org
 circlethebayfortibet.org
 cirosantilli.com
 citizencn.com
@@ -2657,6 +2657,7 @@ gaozhisheng.net
 gaozhisheng.org
 gardennetworks.com
 gardennetworks.org
+garminmap.com
 gartlive.com
 garudalinux.org
 gate-project.com
@@ -5265,6 +5266,7 @@ omni7.jp
 omnitalk.com
 omnitalk.org
 omny.fm
+omt.garmin.com
 on.cc
 on2.com
 onapp.com
@@ -6214,6 +6216,7 @@ shwchurch3.com
 siddharthasintent.org
 sidelinesnews.com
 sidelinessportseatery.com
+sider.ai
 sidewalklabs.com
 sierrafriendsoftibet.org
 signal.org
@@ -8194,6 +8197,7 @@ zh.wikiquote.org
 zhanbin.net
 zhangboli.net
 zhangtianliang.com
+zhangzhehan.net
 zhanlve.org
 zhao.1984.city
 zhenghui.org
