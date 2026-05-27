@@ -69,6 +69,7 @@
 233abc.com
 233v2.com
 24av.net
+24hbook.com
 24hrs.ca
 24smile.org
 25u.com
@@ -2242,6 +2243,7 @@ ezua.com
 f-droid.org
 f2pool.com
 f8.com
+f95zone.to
 facebook.br
 facebook.com
 facebook.com.br
@@ -4130,6 +4132,7 @@ lematin.ch
 lemonde.fr
 lens.google
 lenwhite.com
+leonardo.ai
 lerosua.org
 lers.google
 lesoir.be
@@ -4358,6 +4361,7 @@ maruta.be
 marxist.com
 marxist.net
 marxists.org
+mas.to
 masalladeloslimites.com
 mash.to
 maskedip.com
@@ -4741,6 +4745,7 @@ motor4ik.ru
 mousebreaker.com
 movements.org
 moviefap.com
+mozilla.ai
 mp3buscador.com
 mp3ye.eu
 mpettis.com
@@ -4963,6 +4968,7 @@ nemesis2.qx.net
 nengcard.com
 neo-miracle.com
 neo.com.tw
+neodb.social
 neowin.net
 nephobox.com
 netalert.me
@@ -5854,6 +5860,7 @@ rangzen.net
 rangzen.org
 ranyunfei.com
 rapbull.net
+raphael.app
 rapidgator.net
 rapidmoviez.com
 rapidvpn.com
@@ -5990,6 +5997,7 @@ rts.ch
 rtycminnesota.org
 ruanyifeng.com
 rukor.org
+rule34.us
 rule34.xxx
 rule34video.com
 rumble.com
@@ -6783,6 +6791,7 @@ thehots.info
 thehousenews.com
 thehun.net
 theinitium.com
+thelallantop.com
 themoviedb.org
 thenewslens.com
 thepiratebay.ee
