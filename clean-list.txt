@@ -679,6 +679,7 @@ bangchen.net
 bangdream.space
 bangkokpost.com
 bangumi.moe
+bangumi.tv
 bangyoulater.com
 bankmobilevibe.com
 bannedbook.org
@@ -793,6 +794,7 @@ bg-call-donation-alpha.goog
 bg-call-donation-canary.goog
 bg-call-donation-dev.goog
 bg-call-donation.goog
+bgm.tv
 bgme.me
 bgvpn.com
 biantailajiao.com
@@ -1344,6 +1346,7 @@ chenshan20042005.wordpress.com
 cherrysave.com
 chhongbi.org
 chicagoncmtv.com
+chii.in
 china-mmm.jp.net
 china-mmm.net
 china-mmm.sa.com
@@ -1965,6 +1968,7 @@ dougscripts.com
 douhokanko.net
 doujincafe.com
 dowei.org
+dowjones.io
 download.cnet.com
 download.dappcdn.com
 dphk.org
@@ -2699,6 +2703,7 @@ geller-pa.googleapis.com
 gemini.com
 gemini.google
 gemini.google.com
+gencraft.com
 generated.photos
 generativeai.google
 generativelanguage.googleapis.com
@@ -3249,6 +3254,7 @@ hacker.org
 hackmd.io
 hackthatphone.net
 hahlo.com
+haijiao.ai
 haijiao.com
 haiwaikan.com
 haiwaiwai.com
@@ -3333,6 +3339,7 @@ hi-on.org.tw
 hicairo.com
 hiccears.com
 hidden-advent.org
+hiddify.com
 hide.me
 hidecloud.com
 hidein.net
@@ -3366,6 +3373,7 @@ hizb-ut-tahrir.org
 hizbuttahrir.org
 hjclub.info
 hjd2048.com
+hjw01.com
 hk-pub.com
 hk.gradconnection.com
 hk.jiepang.com
@@ -7421,6 +7429,7 @@ vcf-online.org
 vcfbuilder.org
 vct.news
 vds.rightster.com
+veed.io
 vegas.williamhill.com
 vegasred.com
 velkaepocha.sk
