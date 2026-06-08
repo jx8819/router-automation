@@ -6536,6 +6536,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=streamingthe.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=streema.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=strikingly.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stripchat.cam
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=stripe.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=strongvpn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=strongwindpress.com
@@ -6587,6 +6588,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=surrenderat20.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sustainability.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=suyangg.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=suyingtv.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=svc.ms
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=svsfx.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=swag.live
@@ -7847,6 +7849,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=woyaolian.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wozy.in
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wp.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wplace.live
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wpoforum.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wqyd.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wrchina.org
