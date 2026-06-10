@@ -1933,6 +1933,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=doh.sb
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dojin.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dok-forum.net
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dola.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dolc.de
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dolf.org.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dollf.com
@@ -3744,6 +3745,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=interseclab.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=inthenameofconfuciusmovie.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=intunewiki.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=invade.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=investigating.wordpress.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=investing.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=invidio.us
@@ -6642,7 +6644,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taipeitimes.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taisounds.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwan-sex.com
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwan.net.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwanbible.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwancon.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwandaily.net
@@ -6659,7 +6660,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwanstay.net.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwantoday.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwantp.net
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwantrip.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwantt.org.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwanus.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=taiwanyes.com
@@ -7375,8 +7375,10 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=users.skynet.be
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=uservoice.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usfk.mil
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ushmm.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usinfo.state.gov
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usma.edu
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usmart.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usmc.mil
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usmgtcg.ning.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=usno.navy.mil

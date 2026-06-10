@@ -1931,6 +1931,7 @@ dogfartnetwork.com
 doh.sb
 dojin.com
 dok-forum.net
+dola.com
 dolc.de
 dolf.org.hk
 dollf.com
@@ -3742,6 +3743,7 @@ internetpopculture.com
 interseclab.org
 inthenameofconfuciusmovie.com
 intunewiki.com
+invade.tw
 investigating.wordpress.com
 investing.com
 invidio.us
@@ -6640,7 +6642,6 @@ taipeisociety.org
 taipeitimes.com
 taisounds.com
 taiwan-sex.com
-taiwan.net.tw
 taiwanbible.com
 taiwancon.com
 taiwandaily.net
@@ -6657,7 +6658,6 @@ taiwannews.com.tw
 taiwanstay.net.tw
 taiwantoday.tw
 taiwantp.net
-taiwantrip.com.tw
 taiwantt.org.tw
 taiwanus.net
 taiwanyes.com
@@ -7373,8 +7373,10 @@ userpxt.io
 users.skynet.be
 uservoice.com
 usfk.mil
+ushmm.org
 usinfo.state.gov
 usma.edu
+usmart.hk
 usmc.mil
 usmgtcg.ning.com
 usno.navy.mil
