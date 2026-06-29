@@ -272,6 +272,7 @@ aiph.net
 airasia.com
 airconsole.com
 airitilibrary.com
+airuniversity.af.edu
 airvpn.org
 aisandbox-pa.googleapis.com
 aisex.com
@@ -1662,12 +1663,14 @@ crazyshit.com
 crbug.com
 crchina.org
 crd-net.org
+creader.com
 creaders.net
 creadersnet.com
 creative.myavlive.com
 creativelab5.com
 crisisresponse.google
 cristyli.com
+crixet.com
 crmdynint-gcc.com
 crmdynint.com
 crocotube.com
@@ -2244,6 +2247,7 @@ expekt.com
 experts-univers.com
 exploader.net
 explorebing.com
+expressnews.com
 expressvpn.com
 exrates.me
 extmatrix.com
@@ -2710,6 +2714,7 @@ garminmap.com
 gartlive.com
 garudalinux.org
 gate-project.com
+gate.com
 gate.io
 gatecoin.com
 gateway.ai.cloudflare.com
@@ -2757,6 +2762,7 @@ geocities.jp
 geph.io
 gerefoundation.org
 get.app
+get.dappcdn.com
 get.dev
 get.how
 get.page
@@ -3309,6 +3315,7 @@ handelsblatt.com
 hanime.tv
 hanime1.com
 hanime1.me
+hanimeone.me
 hanminzu.org
 hanunyi.com
 hao.news
@@ -4063,6 +4070,7 @@ keontech.net
 kepard.com
 kex.com
 keycdn.com
+kfor.com
 khabdha.org
 khatrimaza.org
 khmusic.com.tw
@@ -4540,6 +4548,7 @@ mgoon.com
 mgstage.com
 mh4u.org
 mhradio.org
+mhwindow.org
 miami-airport.com
 michaelmarketl.com
 microbit.org
@@ -5531,6 +5540,7 @@ pbxes.com
 pbxes.org
 pcanywhere.net
 pcdvd.com.tw
+pcgamesn.com
 pcgamestorrents.com
 pchome.com.tw
 pchomeec.tw
@@ -5567,6 +5577,7 @@ perfect-privacy.com
 perfectgirls.net
 perfectvpn.net
 periscope.tv
+perma.cc
 perplexity.ai
 persecutionblog.com
 persgroep.net
@@ -6008,6 +6019,7 @@ renyurenquan.org
 research.google
 resilio.com
 resistchina.org
+restofworld.org
 retweeteffect.com
 retweetist.com
 retweetrank.com
@@ -6484,6 +6496,7 @@ southmongolia.org
 southnews.com.tw
 southpark.cc.com
 sowers.org.hk
+spaceforce.mil
 spaces.hightail.com
 spacex.com
 spankbang.com
@@ -6656,6 +6669,7 @@ superzooi.com
 supjav.com
 suppig.net
 support.futunn.com
+supremecourt.gov
 suprememastertv.com
 surface.com
 surfeasy.com
@@ -6832,6 +6846,7 @@ tenor.com
 tensorflow.org
 tenzinpalmo.com
 terabox.com
+terminus2049.xyz
 terobox.com
 tew.org
 textnow.com
@@ -6879,6 +6894,7 @@ thehots.info
 thehousenews.com
 thehun.net
 theinitium.com
+theintercept.com
 thelallantop.com
 themoviedb.org
 thenewslens.com
@@ -7156,6 +7172,7 @@ tronscan.org
 trouw.nl
 trt.net.tr
 trtc.com.tw
+trtworld.com
 truebuddha-md.org
 truenas.com
 truesocial.media
@@ -7341,6 +7358,7 @@ twkan.com
 twnorth.org.tw
 twreporter.org
 twskype.com
+twstalker.com
 twstar.net
 twt.tl
 twtkr.com
@@ -7719,10 +7737,12 @@ warroom.org
 waselpro.com
 washeng.net
 washingtonpost.com
+washingtontimes.com
 watch8x.com
 watchinese.com
 watchmygf.net
 watchout.tw
+watchpeopledie.tv
 wattpad.com
 wav.tv
 waveprotocol.org
