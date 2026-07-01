@@ -4463,6 +4463,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=maxing.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mayimayi.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mbct.mlc.edu.tw
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mc.yandex.ru
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcadforums.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcaf.ee
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mcchcdn.com
@@ -4835,6 +4836,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mqxd.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mrbasic.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mrbonus.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mrds66.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mrface.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mrslove.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=mrtweet.com
