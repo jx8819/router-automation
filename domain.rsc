@@ -1,5 +1,6 @@
 /ip dns static remove numbers=[/ip dns static find comment=gfw]
 /ip dns static
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=000aa.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=000webhost.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=0914.global.ssl.fastly.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=0rz.tw
@@ -5975,6 +5976,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=qxbbs.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=qycz.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=qz.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=r-art.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=r-pool.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=r0.ru
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=r10s.jp
