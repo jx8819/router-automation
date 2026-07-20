@@ -6772,6 +6772,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=syosetu.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sysinternals.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sysresccd.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sysub.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sytes.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sz.de
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=szbbs.net
