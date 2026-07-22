@@ -1518,6 +1518,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cixiaoya.club
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ck101.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=clarionproject.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=clashyun.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=class.tn.edu.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=classicalguitarblog.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=claude.ai
@@ -5374,6 +5375,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=officeplus.cn
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=officewebapps.cn
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ofile.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ofox.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ogaoga.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ogate.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ohmyrss.com
@@ -8393,6 +8395,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zengjinyan.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zenmate.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zenmate.com.ru
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zenmux.ai
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zergpool.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zerohedge.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=zeronet.io

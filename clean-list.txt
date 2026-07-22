@@ -1516,6 +1516,7 @@ civitai.com
 cixiaoya.club
 ck101.com
 clarionproject.org
+clashyun.com
 class.tn.edu.tw
 classicalguitarblog.net
 claude.ai
@@ -5372,6 +5373,7 @@ officeoftibet.com
 officeplus.cn
 officewebapps.cn
 ofile.org
+ofox.ai
 ogaoga.org
 ogate.org
 ohmyrss.com
@@ -8391,6 +8393,7 @@ zendesk.com
 zengjinyan.org
 zenmate.com
 zenmate.com.ru
+zenmux.ai
 zergpool.com
 zerohedge.com
 zeronet.io
