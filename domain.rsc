@@ -1496,6 +1496,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cienen.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cineastentreff.de
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cipfg.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=circle19.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=circlethebayfortibet.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cirosantilli.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=citizencn.com
@@ -7165,6 +7166,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=toh.info
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=token.im
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tokenlon.im
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tokenplus.app
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tokyo-247.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tokyo-hot.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tokyo-porn-tube.com
@@ -7255,6 +7257,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=truthontour.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=truthsocial.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=truveo.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tryai.dev
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tryfunctions.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tryheart.jp
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=tsb.co.uk
@@ -7833,6 +7836,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wealth.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wearehairy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wearn.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=weavai.app
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=web.dev
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=web2project.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=webbang.net
