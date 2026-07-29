@@ -351,6 +351,7 @@ americorps.gov
 amiblockedornot.com
 amigobbs.net
 amitabhafoundation.us
+amnesty-usa.org
 amnesty.org
 amnesty.org.hk
 amnesty.tw
@@ -1738,6 +1739,7 @@ cutscenes.net
 cw.com.tw
 cwgv.com.tw
 cws.conviva.com
+cxense.com
 cyberctm.com
 cyberghost.natado.com
 cyberghostvpn.com
@@ -5897,7 +5899,6 @@ pttgame.com
 ptthito.com
 pttvan.org
 pttweb.cc
-pttyes.com
 ptwxz.com
 publicpolicy.google
 pubu.com.tw

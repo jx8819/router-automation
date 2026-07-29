@@ -353,6 +353,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amiblockedornot.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amigobbs.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amitabhafoundation.us
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amnesty-usa.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amnesty.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amnesty.org.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=amnesty.tw
@@ -1740,6 +1741,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cw.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cwgv.com.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cws.conviva.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cxense.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cyberctm.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cyberghost.natado.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cyberghostvpn.com
@@ -5899,7 +5901,6 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ptthito.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pttvan.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pttweb.cc
-add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pttyes.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ptwxz.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=publicpolicy.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=pubu.com.tw
