@@ -1327,6 +1327,7 @@ centerforhumanreprod.com
 centralnation.com
 centralvalidation.com
 centurys.net
+cerebras.ai
 certificate-transparency.org
 certificate.revocationcheck.com
 cex.io
@@ -4249,6 +4250,7 @@ lesoir.be
 lester850.info
 letou.com
 letscorp.net
+level-plus.net
 level1techs.com
 lexica.art
 lflink.com
@@ -4870,7 +4872,6 @@ motor4ik.ru
 mousebreaker.com
 movements.org
 moviefap.com
-mozilla.ai
 mp3buscador.com
 mp3ye.eu
 mpettis.com
@@ -5291,6 +5292,7 @@ ntdtv.jp
 ntdtv.org
 ntdtv.ru
 ntdtvla.com
+nthlink.com
 ntl.edu.tw
 ntrfun.com
 nubiles.net
@@ -5913,7 +5915,6 @@ punjab.gov.pk
 punyu.com
 pure18.com
 pureconcepts.net
-puredns.org
 pureinsight.org
 purepdf.com
 purevpn.com
@@ -7592,6 +7593,7 @@ uyghurtribunal.com
 uygur.fc2web.com
 uygur.org
 uymaarip.com
+v.recipes
 v.roucdn
 v2.help
 v2.hysteria.network
