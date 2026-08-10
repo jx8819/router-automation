@@ -273,6 +273,7 @@ ai.ls
 ai.studio
 aicscience.com
 aida.googleapis.com
+aihub.top
 aiosearch.com
 aiph.net
 airasia.com
@@ -561,7 +562,6 @@ atvnewsonline.com
 auctions.yahoo.co.jp
 audacy.com
 audionow.com
-auntology.fandom.com
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -711,6 +711,7 @@ barnabu.co.uk
 bartender.dowjones.com
 barton.de
 bartvpn.com
+basemaps.arcgis.com
 bastillepost.com
 battlemetrics.com
 bayvoice.net
@@ -1361,6 +1362,7 @@ charticulator.com
 chat.com
 chat.lmsys.org
 chatgpt.com
+chatgpt.site
 chatnook.com
 chatpdf.com
 chaturbate.com
@@ -2236,6 +2238,7 @@ eromon.net
 eroprofile.com
 eroticsaloon.net
 esg.t91y.com
+esim.redteago.com
 eslite.com
 esmtp.biz
 esurance.com
@@ -2275,6 +2278,7 @@ exp-tas.com
 expatshield.com
 expecthim.com
 expekt.com
+experience.arcgis.com
 experts-univers.com
 exploader.net
 explorebing.com
@@ -3544,7 +3548,6 @@ home.so-net.net.tw
 homedepot.com
 homeperversion.com
 homeservershow.com
-hongkong.fandom.com
 hongkongfp.com
 hongkongwatch.org
 hongmeimei.com
