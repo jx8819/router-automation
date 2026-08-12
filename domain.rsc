@@ -1928,6 +1928,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=disqus.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dit-inc.us
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=ditu.live.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=divdyn.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=diversity.google
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=diyin.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=dizhidizhi.com
