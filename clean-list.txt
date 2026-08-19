@@ -4337,6 +4337,7 @@ livemint.com
 livestation.com
 livestream.com
 livevideo.com
+livingatlas.arcgis.com
 livingonline.us
 livingstream.com
 livingyourambition.com
@@ -5401,6 +5402,7 @@ okpool.me
 okx.com
 old-cat.net
 old.honeynet.org
+oldmapsonline.org
 olehdtv.com
 olelive.com
 olemovienews.com
@@ -6181,6 +6183,7 @@ s.yimg.com
 s1heng.com
 s1s1s1.com
 s3-ap-northeast-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 s8forum.com
 sacks.com
 sacom.hk
@@ -7982,6 +7985,7 @@ windowsphoneme.com
 windowssearch.com
 windowsupdate.com
 windscribe.com
+windy.com
 wingamestore.com
 wingy.site
 winhec.com

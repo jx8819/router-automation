@@ -4339,6 +4339,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livestation.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livestream.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livevideo.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livingatlas.arcgis.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livingonline.us
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livingstream.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=livingyourambition.com
@@ -5403,6 +5404,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=okx.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=old-cat.net
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=old.honeynet.org
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=oldmapsonline.org
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olehdtv.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olelive.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=olemovienews.com
@@ -6183,6 +6185,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1heng.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s1s1s1.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3-ap-northeast-1.amazonaws.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s3.dualstack.us-west-2.amazonaws.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=s8forum.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sacks.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=sacom.hk
@@ -7984,6 +7987,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=windowssearch.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=windowsupdate.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=windscribe.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=windy.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wingamestore.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=wingy.site
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=winhec.com
