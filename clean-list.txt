@@ -445,6 +445,7 @@ api.palworldgame.com
 api.proxlet.com
 api.pureapk.com
 api.recaptcha.net
+api.shuaiapi.com
 api.steampowered.com
 api.tenor.com
 api5.futunn.com
@@ -1113,6 +1114,7 @@ breakgfw.com
 breaking911.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 briefdream.com
 briian.com
 brill.com
@@ -2585,6 +2587,7 @@ freekazakhs.org
 freekwonpyong.org
 freelotto.com
 freeman2.com
+freemdict.com
 freemoren.com
 freemorenews.com
 freemuse.org
@@ -3461,6 +3464,7 @@ himemix.net
 hindustantimes.com
 hinet.net
 history-maps.com
+historylines.net
 hitbtc.com
 hitomi.la
 hive.blog
@@ -4142,6 +4146,7 @@ kir.jp
 kissbbao.cn
 kissjav.com
 kiwi.kz
+kiwix.org
 kk-whys.co.jp
 kkbox.com
 kknews.cc
@@ -4518,6 +4523,7 @@ mc.yandex.ru
 mcadforums.com
 mcaf.ee
 mcchcdn.com
+mceindex.com
 mcfog.com
 mcreasite.com
 mcusercontent.com
@@ -4881,6 +4887,7 @@ mp3buscador.com
 mp3ye.eu
 mpettis.com
 mpfinance.com
+mphonline.com
 mpinews.com
 mpnevolution.com
 mponline.hk
@@ -5482,6 +5489,7 @@ opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
+openlibrary.org
 openrouter.ai
 opensea.io
 opensocietyfoundations.org
@@ -6222,6 +6230,7 @@ savetibetstore.org
 saveuighur.org
 savevid.com
 say2.info
+sb.sb
 sbme.me
 sbs.com.au
 sbti.unun.dev
@@ -8130,6 +8139,7 @@ x1949x.com
 x24hr.com
 x365x.com
 x3guide.com
+x86.fr
 xa.yimg.com
 xaislam.com
 xamarin.com
