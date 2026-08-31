@@ -2821,6 +2821,7 @@ getliner.com
 getmalus.com
 getmdl.io
 getmicrosoftkey.com
+getmonero.org
 getoutline.org
 getsession.org
 getsocialscope.com
@@ -5209,6 +5210,7 @@ nic.cz.cc
 nic.google
 nic.gov
 nic.youtube
+nicoseiga.jp
 nicovideo.jp
 nighost.org
 nightswatch.top
@@ -8062,6 +8064,7 @@ wpoforum.com
 wqyd.org
 wrchina.org
 wretch.cc
+write.as
 writesonic.com
 wsimg.com
 wsj.com
