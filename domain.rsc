@@ -1740,6 +1740,7 @@ add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=g
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=culture.tw
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cumlouder.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cuntcrack.com
+add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cursor.sh
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=curvefish.com
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cusp.hk
 add type=FWD match-subdomain=yes forward-to=clash address-list=gfwlist comment=gfw name=cusu.hk
