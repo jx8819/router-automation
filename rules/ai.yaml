@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,anthropic-com.ghost.io
   - DOMAIN,anthropic.auth0.com
@@ -13,7 +14,7 @@ payload:
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,proactivebackend-pa.googleapis.com  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,static.cloudflareinsights.com
@@ -36,9 +37,11 @@ payload:
   - DOMAIN-SUFFIX,acheter-followers-instagram.com
   - DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
   - DOMAIN-SUFFIX,acheterfollowersinstagram.com
+  - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,advancediddetection.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-SUFFIX,askfacebook.net
@@ -81,6 +84,7 @@ payload:
   - DOMAIN-SUFFIX,crowdtangle.com
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,dacebook.com
   - DOMAIN-SUFFIX,deepmind.com
@@ -533,6 +537,7 @@ payload:
   - DOMAIN-SUFFIX,mcrouter.org
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,messengerdevelopers.com
+  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,midentsolutions.com
@@ -645,7 +650,8 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.tv
   - DOMAIN-SUFFIX,whatsappbrand.com
   - DOMAIN-SUFFIX,whyfacebook.com
-  - DOMAIN-SUFFIX,workos.com  - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,workos.com
   - DOMAIN-SUFFIX,workplace.com
   - DOMAIN-SUFFIX,workplaceusecases.com
   - DOMAIN-SUFFIX,worldhack.com
@@ -689,4 +695,4 @@ payload:
   - IP-CIDR,54.235.23.242/32
   - IP-CIDR,54.93.124.31/32
   - IP-CIDR,64.23.132.171/32
-  - IP-CIDR,69.195.160.0/19  - DOMAIN-SUFFIX,meta.ai
+  - IP-CIDR,69.195.160.0/19
