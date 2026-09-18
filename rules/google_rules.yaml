@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
@@ -934,4 +935,3 @@
   - IP-CIDR,216.73.80.0/20,no-resolve
   - IP-CIDR,74.125.0.0/16,no-resolve
   - IP-CIDR6,2620:120:e000::/40,no-resolve
-payload:
