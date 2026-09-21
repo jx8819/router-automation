@@ -316,7 +316,6 @@ alarab.qa
 alasbarricadas.org
 alexlur.org
 alforattv.net
-algolia.net
 alhayat.com
 alicejapan.co.jp
 aliengu.com
@@ -579,7 +578,6 @@ auctions.yahoo.co.jp
 audacy.com
 audionow.com
 augmentcode.com
-auth0.com
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -1393,7 +1391,6 @@ chardb.iis.sinica.edu.tw
 charticulator.com
 chat.com
 chat.lmsys.org
-chat.openai.com.cdn.cloudflare.net
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
@@ -1564,6 +1561,7 @@ clau.de
 claude.ai
 claude.com
 claudemcpclient.com
+claudemcpcontent.com
 claudeusercontent.com
 clb.org.hk
 cldr.unicode.org
@@ -3695,7 +3693,6 @@ gvlib.com
 gvm.com.tw
 gvt0.com
 gvt1.com
-gvt2.com
 gvt3.com
 gwave.com
 gwins.org
@@ -4104,7 +4101,6 @@ idcflare.com
 iddddg.com
 idemocracy.asia
 identi.ca
-identrust.com
 idiomconnection.com
 idlcoyote.com
 idope.se
@@ -4672,7 +4668,6 @@ lastfm.es
 latampartneruniversity.com
 latelinenews.com
 latibet.org
-launchdarkly.com
 launchpad.net
 launchpadcontent.net
 lausan.hk
@@ -5814,6 +5809,7 @@ nytlog.com
 nytstyle.com
 nzchinese.com
 nzchinese.net.nz
+o33249.ingest.sentry.io
 o365cn.com
 o365files.cn
 o365weve-dev.com
@@ -5821,6 +5817,7 @@ o365weve-ppe.com
 o365weve.com
 o3o.ca
 oaistatic.com
+oaistatsig.com
 oaiusercontent.com
 oanda.com
 oann.com
@@ -5828,7 +5825,6 @@ oaspapps.com
 oaspapps.com.akadns.net
 oauth.net
 observechina.net
-observeit.net
 obutu.com
 obyte.org
 ocaspro.com
@@ -5958,7 +5954,10 @@ open.com.hk
 open.firstory.me
 openai-api.arkoselabs.com
 openai.com
+openai.com.cdn.cloudflare.net
+openai.qualtrics.com
 openaiapi-site.azureedge.net
+openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
@@ -6556,7 +6555,6 @@ realraptalk.com
 realsexpass.com
 reason.com
 rebatesrule.net
-recaptcha.net
 recoiljs.org
 recordedfuture.com
 recordhistory.org
@@ -6782,7 +6780,6 @@ seesmic.com
 seevpn.com
 seezone.net
 sef.org.tw
-segment.io
 sehuatang.net
 sehuatang.org
 sejie.com
@@ -7166,7 +7163,6 @@ startuplivingchina.com
 statearmor.org
 static-economist.com
 static.bevylabs.com
-static.cloudflareinsights.com
 static.pocketcasts.com
 static.shemalez.com
 static01.nyt.com

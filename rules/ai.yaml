@@ -9,15 +9,20 @@ payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,browser-intake-us5-datadoghq.com
   - DOMAIN,cdn.usefathom.com
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,makersuite.google.com
+  - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN,openai.qualtrics.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaiassets.blob.core.windows.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicom.imgix.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,proactivebackend-pa.googleapis.com
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,servd-anthropic-website.b-cdn.net
-  - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,codex
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,datadog
   - DOMAIN-KEYWORD,developerprofiles
@@ -40,7 +45,6 @@ payload:
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,advancediddetection.com
   - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,apis.google.com
@@ -51,7 +55,6 @@ payload:
   - DOMAIN-SUFFIX,atlasonepoint.com
   - DOMAIN-SUFFIX,atscaleconference.com
   - DOMAIN-SUFFIX,augmentcode.com
-  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,binoculus.com
   - DOMAIN-SUFFIX,bookstagram.com
@@ -66,14 +69,17 @@ payload:
   - DOMAIN-SUFFIX,carstagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,celebgramme.com
+  - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chickstagram.com
   - DOMAIN-SUFFIX,china-facebook.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,click-url.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -81,6 +87,7 @@ payload:
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,como-hackearfacebook.com
   - DOMAIN-SUFFIX,componentkit.org
+  - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,crowdtangle.com
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
@@ -441,15 +448,10 @@ payload:
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,gfacecbook.com
   - DOMAIN-SUFFIX,groups.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,hackerfacebook.com
   - DOMAIN-SUFFIX,hackfacebook.com
   - DOMAIN-SUFFIX,hackfacebookid.com
   - DOMAIN-SUFFIX,hacklang.org
-  - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,hhvm.com
   - DOMAIN-SUFFIX,hifacebook.info
   - DOMAIN-SUFFIX,host.livekit.cloud
@@ -459,7 +461,6 @@ payload:
   - DOMAIN-SUFFIX,httpsfacebook.com
   - DOMAIN-SUFFIX,httpwwwfacebook.com
   - DOMAIN-SUFFIX,i.org
-  - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,ig.me
   - DOMAIN-SUFFIX,igcdn.com
   - DOMAIN-SUFFIX,igsonar.com
@@ -523,9 +524,7 @@ payload:
   - DOMAIN-SUFFIX,ip6.static.sl-reverse.com
   - DOMAIN-SUFFIX,kingstagram.com
   - DOMAIN-SUFFIX,klik.me
-  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
-  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,liverail.com
   - DOMAIN-SUFFIX,liverail.tv
   - DOMAIN-SUFFIX,lnstagram-help.com
@@ -539,18 +538,16 @@ payload:
   - DOMAIN-SUFFIX,messengerdevelopers.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,midentsolutions.com
   - DOMAIN-SUFFIX,mobilefacebook.com
   - DOMAIN-SUFFIX,moneywithfacebook.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,myfbfans.com
   - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,newsfeed.com
   - DOMAIN-SUFFIX,nextstop.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,ocul.us
   - DOMAIN-SUFFIX,oculus-china.com
   - DOMAIN-SUFFIX,oculus.com
@@ -571,8 +568,7 @@ payload:
   - DOMAIN-SUFFIX,online-instagram.com
   - DOMAIN-SUFFIX,onlineinstagram.com
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opengraphprotocol.com
   - DOMAIN-SUFFIX,opengraphprotocol.org
@@ -586,22 +582,19 @@ payload:
   - DOMAIN-SUFFIX,react.com
   - DOMAIN-SUFFIX,reactjs.com
   - DOMAIN-SUFFIX,reactjs.org
-  - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,recoiljs.org
   - DOMAIN-SUFFIX,redkix.com
   - DOMAIN-SUFFIX,rocksdb.com
   - DOMAIN-SUFFIX,rocksdb.net
   - DOMAIN-SUFFIX,rocksdb.org
-  - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com
-  - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,shopfacebook.com
+  - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,sportsfacebook.com
   - DOMAIN-SUFFIX,sportstream.com
   - DOMAIN-SUFFIX,starling.zijieapi.com
   - DOMAIN-SUFFIX,statsigapi.net
-  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,tellapart.com
@@ -684,7 +677,7 @@ payload:
   - IP-CIDR,199.96.56.0/21
   - IP-CIDR,202.160.128.0/22
   - IP-CIDR,209.237.192.0/19
-  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,24.199.123.28/32,no-resolve
   - IP-CIDR,3.123.36.126/32
   - IP-CIDR,31.13.64.0/18
   - IP-CIDR,35.157.215.84/32
@@ -694,5 +687,5 @@ payload:
   - IP-CIDR,54.173.34.141/32
   - IP-CIDR,54.235.23.242/32
   - IP-CIDR,54.93.124.31/32
-  - IP-CIDR,64.23.132.171/32
+  - IP-CIDR,64.23.132.171/32,no-resolve
   - IP-CIDR,69.195.160.0/19
